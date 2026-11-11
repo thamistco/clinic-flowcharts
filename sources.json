@@ -12,7 +12,8 @@
     ],
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#sore-throat"
   },
   {
     "slug": "uti",
@@ -27,7 +28,8 @@
     ],
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#uti"
   },
   {
     "slug": "cough",
@@ -54,7 +56,8 @@
     ],
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#cough"
   },
   {
     "slug": "hypertension",
@@ -69,7 +72,8 @@
     ],
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "hypertension.html"
   },
   {
     "slug": "asthma",
@@ -100,7 +104,8 @@
     ],
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#asthma"
   },
   {
     "slug": "t2dm",
@@ -119,7 +124,8 @@
     ],
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#t2dm"
   },
   {
     "slug": "dyspepsia",
@@ -129,7 +135,8 @@
     "resources": [],
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#dyspepsia"
   },
   {
     "slug": "back-pain",
@@ -139,7 +146,8 @@
     "resources": [],
     "category": "MSK",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#back-pain"
   },
   {
     "slug": "fever-child",
@@ -149,7 +157,8 @@
     "resources": [],
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#fever-child"
   },
   {
     "slug": "af",
@@ -164,7 +173,8 @@
     ],
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#af"
   },
   {
     "slug": "copd",
@@ -179,7 +189,8 @@
     ],
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#copd"
   },
   {
     "slug": "ckd",
@@ -198,7 +209,8 @@
     ],
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#ckd"
   },
   {
     "slug": "contraception",
@@ -208,7 +220,8 @@
     "resources": [],
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#contraception"
   },
   {
     "slug": "menopause",
@@ -223,7 +236,8 @@
     ],
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#menopause"
   },
   {
     "slug": "heart-failure",
@@ -242,7 +256,8 @@
     ],
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#heart-failure"
   },
   {
     "slug": "thyroid",
@@ -257,7 +272,8 @@
     ],
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#thyroid"
   },
   {
     "slug": "depression",
@@ -267,7 +283,8 @@
     "resources": [],
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#depression"
   },
   {
     "slug": "osteoarthritis",
@@ -282,7 +299,8 @@
     ],
     "category": "MSK",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#osteoarthritis"
   },
   {
     "slug": "gout",
@@ -301,7 +319,8 @@
     ],
     "category": "MSK",
     "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11"
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#gout"
   },
   {
     "slug": "shoulder",
@@ -310,8 +329,9 @@
     "link": "https://cks.nice.org.uk/topics/shoulder-pain/diagnosis/",
     "resources": [],
     "category": "MSK",
-    "link_check": "Access could not be verified (HTTP 403), 11 Nov 2026",
-    "checked": null
+    "link_check": "Deep CKS pages checked 11 Nov 2026; clinical revision Nov 2022; limited assessment summary only",
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#shoulder"
   },
   {
     "slug": "knee",
@@ -320,8 +340,9 @@
     "link": "https://cks.nice.org.uk/topics/knee-pain-assessment/management/",
     "resources": [],
     "category": "MSK",
-    "link_check": "Access could not be verified (HTTP 403), 11 Nov 2026",
-    "checked": null
+    "link_check": "Deep CKS pages checked 11 Nov 2026; clinical revision Aug 2022; limited assessment summary only",
+    "checked": "2026-11-11",
+    "review_copy": "chart.html#knee"
   },
   {
     "slug": "local-foot-ankle",
@@ -336,7 +357,8 @@
     ],
     "category": "MSK",
     "checked": "2026-11-11",
-    "link_check": "Source links checked 11 Nov 2026"
+    "link_check": "Source links checked 11 Nov 2026",
+    "review_copy": null
   },
   {
     "slug": "local-hand-wrist",
@@ -351,7 +373,8 @@
     ],
     "category": "MSK",
     "checked": "2026-11-11",
-    "link_check": "Source links checked 11 Nov 2026"
+    "link_check": "Source links checked 11 Nov 2026",
+    "review_copy": null
   },
   {
     "slug": "local-hip",
@@ -366,7 +389,8 @@
     ],
     "category": "MSK",
     "checked": "2026-11-11",
-    "link_check": "Source links checked 11 Nov 2026"
+    "link_check": "Source links checked 11 Nov 2026",
+    "review_copy": null
   },
   {
     "slug": "local-knee",
@@ -381,7 +405,8 @@
     ],
     "category": "MSK",
     "checked": "2026-11-11",
-    "link_check": "Source links checked 11 Nov 2026"
+    "link_check": "Source links checked 11 Nov 2026",
+    "review_copy": null
   },
   {
     "slug": "local-shoulder-elbow",
@@ -396,7 +421,8 @@
     ],
     "category": "MSK",
     "checked": "2026-11-11",
-    "link_check": "Source links checked 11 Nov 2026"
+    "link_check": "Source links checked 11 Nov 2026",
+    "review_copy": null
   },
   {
     "slug": "local-spine",
@@ -411,7 +437,8 @@
     ],
     "category": "MSK",
     "checked": "2026-11-11",
-    "link_check": "Source links checked 11 Nov 2026"
+    "link_check": "Source links checked 11 Nov 2026",
+    "review_copy": null
   },
   {
     "slug": "local-lumps-bumps",
@@ -426,7 +453,8 @@
     ],
     "category": "MSK",
     "checked": "2026-11-11",
-    "link_check": "Source links checked 11 Nov 2026"
+    "link_check": "Source links checked 11 Nov 2026",
+    "review_copy": null
   },
   {
     "slug": "local-physiotherapy",
@@ -441,6 +469,7 @@
     ],
     "category": "MSK",
     "checked": "2026-11-11",
-    "link_check": "Source links checked 11 Nov 2026"
+    "link_check": "Source links checked 11 Nov 2026",
+    "review_copy": null
   }
 ]
