@@ -24,4 +24,17 @@ Use the GitHub Pages website when published, or download the repository ZIP, ext
 
 East Sussex MSK original pathways are linked (publisher labels: mostly July 2025; physiotherapy December 2024), with service exclusions, Bexhill first-contact physiotherapy and the Sussex Formulary. Individual formulary drug entries have not been audited here. Official material is linked, not reproduced; no endorsement is implied.
 
-At the 11 November 2026 access check, NICE CKS shoulder and knee pages returned HTTP 403. Their recommendations were not verified. The page marks this beside both entries. The other 53 of 55 guidance/chart URLs responded successfully; successful access alone does not validate clinical content.
+Earlier index-level CKS checks were incomplete. Deep shoulder and knee pages were subsequently verified; their older clinical revision dates and limited scope are noted below. The page marks this beside both entries. The other 53 of 55 guidance/chart URLs responded successfully; successful access alone does not validate clinical content.
+
+
+## Expandable review copies: 11 November 2026
+
+The directory now links 21 national-condition review copies (20 new charts plus the hypertension revision). They use short source-linked paraphrases, horizontal desktop rows, vertical expansion, and a stacked phone layout. These are **not clinically validated** decision systems or complete emergency/prescribing protocols.
+
+Each chart states scope, exclusions, source type, publication/update dates where shown and the access date. Selected adult BNF dose cards include safety limitations and live monograph links. Inhaler device-specific dosing, DOAC doses, insulin, HRT and paediatric doses are not improvised.
+
+The shoulder/knee CKS deep pages were successfully checked. Their clinical revisions remain November/August 2022, so only limited assessment/referral summaries are provided. Older generic medicines ladders are omitted; newer condition-specific NICE applies.
+
+The eight local MSK entries retain publisher originals rather than a new combined treatment ladder. Local imaging, generic analgesia, chronic-spine and suspected-cancer routing differences are flagged on [review progress](progress.html), not silently reconciled. Individual Sussex Formulary drug entries are not audited.
+
+Saturday reviews cover every new review copy, update histories, relevant live BNF monographs, local documents and layout/link failures. A failed source check is not unchanged guidance. Recheck live sources at the point of care. Review progress is a source/layout milestone, not clinical approval.
