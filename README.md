@@ -10,7 +10,7 @@ Use original recommendations, current local policies and patient-specific clinic
 
 ## Use
 
-Download the repository ZIP, extract it, then open `index.html` in a browser on a laptop. GitHub Free does not serve Pages from a private repository. For an owner-only live website on a phone or laptop, use the private hosted link supplied separately. Do not make this repository public to enable Pages. There is no build step, dependency installation, database, analytics or backend. Search and filters run in the browser. The copy button copies blank documentation headings only.
+Use the GitHub Pages website when published, or download the repository ZIP, extract it, then open `index.html` in a browser on a laptop. This repository contains a generic source directory, not personal or patient information. Public NHS service names describe the geographic coverage of the linked guidance, not any user. There is no build step, dependency installation, database, analytics or backend. Search and filters run in the browser. The copy button copies blank documentation headings only.
 
 ## Source review
 
