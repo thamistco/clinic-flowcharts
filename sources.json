@@ -1,0 +1,446 @@
+[
+  {
+    "slug": "sore-throat",
+    "name": "Sore throat",
+    "code": "NICE NG84",
+    "link": "https://www.nice.org.uk/guidance/ng84",
+    "resources": [
+      {
+        "title": "Sore throat (acute) in adults: antimicrobial prescribing: visual summary (PDF 195 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng84/resources/sore-throat-acute-in-adults-antimicrobial-prescribing-visual-summary-pdf-11315864557"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "uti",
+    "name": "UTI in non-pregnant women",
+    "code": "NICE NG109",
+    "link": "https://www.nice.org.uk/guidance/ng109",
+    "resources": [
+      {
+        "title": "Visual summary (PDF 104 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng109/resources/visual-summary-pdf-6544021069"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "cough",
+    "name": "Pneumonia",
+    "code": "NICE NG250",
+    "link": "https://www.nice.org.uk/guidance/ng250",
+    "resources": [
+      {
+        "title": "Visual summary: Community-acquired pneumonia (children and young people) (PDF 522 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng250/resources/visual-summary-communityacquired-pneumonia-children-and-young-people-pdf-15434376304"
+      },
+      {
+        "title": "Visual summary: Community-acquired pneumonia (adults presenting to primary care) (PDF 1.08 MB)",
+        "url": "https://www.nice.org.uk/guidance/ng250/resources/visual-summary-communityacquired-pneumonia-adults-presenting-to-primary-care-pdf-15434376302"
+      },
+      {
+        "title": "Visual summary: Community-acquired pneumonia (adults presenting to hospital) (PDF 1023 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng250/resources/visual-summary-communityacquired-pneumonia-adults-presenting-to-hospital-pdf-15434376301"
+      },
+      {
+        "title": "Visual summary: Hospital-acquired pneumonia (PDF 741 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng250/resources/visual-summary-hospitalacquired-pneumonia-pdf-15434376303"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "hypertension",
+    "name": "Hypertension",
+    "code": "NICE NG136",
+    "link": "https://www.nice.org.uk/guidance/ng136",
+    "resources": [
+      {
+        "title": "Visual summary (PDF 233 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "asthma",
+    "name": "Asthma: diagnosis and management",
+    "code": "BTS, NICE and SIGN NG245",
+    "link": "https://www.nice.org.uk/guidance/ng245",
+    "resources": [
+      {
+        "title": "Algorithm A: Objective tests for diagnosing asthma in adults and young people (aged over 16 years) with a history suggesting asthma (BTS, NICE, SIGN) (PDF 111 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng245/resources/algorithm-a-objective-tests-for-diagnosing-asthma-in-adults-and-young-people-aged-over-16-years-with-a-history-suggesting-asthma-bts-nice-sign-pdf-13556516365"
+      },
+      {
+        "title": "Algorithm B: Objective tests for diagnosing asthma in children aged 5 to 16 with a history suggesting asthma (BTS, NICE, SIGN) (PDF 119 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng245/resources/algorithm-b-objective-tests-for-diagnosing-asthma-in-children-aged-5-to-16-with-a-history-suggesting-asthma-bts-nice-sign-pdf-13556516366"
+      },
+      {
+        "title": "Algorithm C: Pharmacological management of asthma in people aged 12 years and over (BTS, NICE, SIGN) (PDF 123 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng245/resources/algorithm-c-pharmacological-management-of-asthma-in-people-aged-12-years-and-over-bts-nice-sign-pdf-13556516367"
+      },
+      {
+        "title": "Algorithm D: Pharmacological management of asthma in children aged 5 to 11 years (BTS, NICE, SIGN) (PDF 129 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng245/resources/algorithm-d-pharmacological-management-of-asthma-in-children-aged-5-to-11-years-bts-nice-sign-pdf-13556516368"
+      },
+      {
+        "title": "Algorithm E: Pharmacological management of asthma in children under 5 (BTS, NICE, SIGN) (PDF 109 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng245/resources/algorithm-e-pharmacological-management-of-asthma-in-children-under-5-bts-nice-sign-pdf-13556516369"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "t2dm",
+    "name": "Type 2 diabetes",
+    "code": "NICE NG28",
+    "link": "https://www.nice.org.uk/guidance/ng28",
+    "resources": [
+      {
+        "title": "Summary of medicines recommendations (PDF 147 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng28/resources/summary-of-medicines-recommendations-pdf-15610542877"
+      },
+      {
+        "title": "Summary of choosing, reviewing and changing medicines (PDF 171 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng28/resources/summary-of-choosing-reviewing-and-changing-medicines-pdf-10956472093"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "dyspepsia",
+    "name": "Dyspepsia and reflux",
+    "code": "NICE CG184",
+    "link": "https://www.nice.org.uk/guidance/cg184",
+    "resources": [],
+    "category": "Acute & other",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "back-pain",
+    "name": "Low back pain and sciatica",
+    "code": "NICE NG59",
+    "link": "https://www.nice.org.uk/guidance/ng59",
+    "resources": [],
+    "category": "MSK",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "fever-child",
+    "name": "Fever in under 5s",
+    "code": "NICE NG143",
+    "link": "https://www.nice.org.uk/guidance/ng143",
+    "resources": [],
+    "category": "Acute & other",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "af",
+    "name": "Atrial fibrillation",
+    "code": "NICE NG196",
+    "link": "https://www.nice.org.uk/guidance/ng196",
+    "resources": [
+      {
+        "title": "Algorithms for atrial fibrillation: diagnosis and management (PDF 163 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng196/resources/algorithms-for-atrial-fibrillation-diagnosis-and-management-pdf-9082104877"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "copd",
+    "name": "COPD",
+    "code": "NICE NG115",
+    "link": "https://www.nice.org.uk/guidance/ng115",
+    "resources": [
+      {
+        "title": "Visual summary: treatment algorithm (PDF 87 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng115/resources/visual-summary-treatment-algorithm-pdf-6604261741"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "ckd",
+    "name": "Chronic kidney disease",
+    "code": "NICE NG203",
+    "link": "https://www.nice.org.uk/guidance/ng203",
+    "resources": [
+      {
+        "title": "Visual summary: identifying chronic kidney disease in adults (PDF 504 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng203/resources/visual-summary-identifying-chronic-kidney-disease-in-adults-pdf-17426025037"
+      },
+      {
+        "title": "Visual summary: chronic kidney disease stages 4 and 5 \u2013 phosphate binders (PDF 491 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng203/resources/visual-summary-chronic-kidney-disease-stages-4-and-5-phosphate-binders-pdf-17426025038"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "contraception",
+    "name": "Contraception",
+    "code": "CoSRH UKMEC 2025",
+    "link": "https://cosrh.org/Common/Uploaded%20files/documents/UKMEC_2025.pdf",
+    "resources": [],
+    "category": "Acute & other",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "menopause",
+    "name": "Menopause",
+    "code": "NICE NG23",
+    "link": "https://www.nice.org.uk/guidance/ng23",
+    "resources": [
+      {
+        "title": "Visual summary on genitourinary (GU) symptoms associated with menopause (PDF 157 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng23/resources/visual-summary-on-genitourinary-gu-symptoms-associated-with-menopause-pdf-13553202493"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "heart-failure",
+    "name": "Heart failure",
+    "code": "NG106",
+    "link": "https://www.nice.org.uk/guidance/ng106/",
+    "resources": [
+      {
+        "title": "Chronic heart failure: core treatments for heart failure visual summary (PDF 115 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-core-treatments-for-heart-failure-visual-summary-pdf-6663137725"
+      },
+      {
+        "title": "Chronic heart failure: diagnosis visual summary (PDF 72 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng106/resources/chronic-heart-failure-diagnosis-visual-summary-pdf-6663137726"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "thyroid",
+    "name": "Thyroid disease",
+    "code": "NG145",
+    "link": "https://www.nice.org.uk/guidance/ng145/",
+    "resources": [
+      {
+        "title": "Visual summary (PDF 88 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng145/resources/visual-summary-pdf-6965793901"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "depression",
+    "name": "Depression",
+    "code": "NG222",
+    "link": "https://www.nice.org.uk/guidance/ng222/",
+    "resources": [],
+    "category": "Long-term care",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "osteoarthritis",
+    "name": "Osteoarthritis",
+    "code": "NG226",
+    "link": "https://www.nice.org.uk/guidance/ng226",
+    "resources": [
+      {
+        "title": "Visual summary on the management of osteoarthritis (PDF 121 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng226/resources/visual-summary-on-the-management-of-osteoarthritis-pdf-11251842157"
+      }
+    ],
+    "category": "MSK",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "gout",
+    "name": "Gout",
+    "code": "NG219",
+    "link": "https://www.nice.org.uk/guidance/ng219",
+    "resources": [
+      {
+        "title": "Visual summary 1: Long-term management of gout with ULTs (PDF 134 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng219/resources/visual-summary-1-longterm-management-of-gout-with-ults-pdf-11080523917"
+      },
+      {
+        "title": "Visual summary 2: Management of gout (PDF 188 KB)",
+        "url": "https://www.nice.org.uk/guidance/ng219/resources/visual-summary-2-management-of-gout-pdf-11080523918"
+      }
+    ],
+    "category": "MSK",
+    "link_check": "Source links checked 11 Nov 2026",
+    "checked": "2026-11-11"
+  },
+  {
+    "slug": "shoulder",
+    "name": "Shoulder pain",
+    "code": "NICE CKS",
+    "link": "https://cks.nice.org.uk/topics/shoulder-pain/diagnosis/",
+    "resources": [],
+    "category": "MSK",
+    "link_check": "Access could not be verified (HTTP 403), 11 Nov 2026",
+    "checked": null
+  },
+  {
+    "slug": "knee",
+    "name": "Knee pain",
+    "code": "NICE CKS",
+    "link": "https://cks.nice.org.uk/topics/knee-pain-assessment/management/",
+    "resources": [],
+    "category": "MSK",
+    "link_check": "Access could not be verified (HTTP 403), 11 Nov 2026",
+    "checked": null
+  },
+  {
+    "slug": "local-foot-ankle",
+    "name": "Foot & Ankle: East Sussex pathway",
+    "code": "East Sussex MSK",
+    "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
+    "resources": [
+      {
+        "title": "Clinical Guidelines - Foot & Ankle - Updated July 2025",
+        "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2025/10/Foot-Ankle-Triage-Guidance-2025.pdf"
+      }
+    ],
+    "category": "MSK",
+    "checked": "2026-11-11",
+    "link_check": "Source links checked 11 Nov 2026"
+  },
+  {
+    "slug": "local-hand-wrist",
+    "name": "Hand & Wrist: East Sussex pathway",
+    "code": "East Sussex MSK",
+    "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
+    "resources": [
+      {
+        "title": "Clinical Guidelines - Hand & Wrist - Updated July 2025",
+        "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2025/07/Hand-Wrist-Triage-Guidance-2025.pdf"
+      }
+    ],
+    "category": "MSK",
+    "checked": "2026-11-11",
+    "link_check": "Source links checked 11 Nov 2026"
+  },
+  {
+    "slug": "local-hip",
+    "name": "Hip: East Sussex pathway",
+    "code": "East Sussex MSK",
+    "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
+    "resources": [
+      {
+        "title": "Clinical Guidelines - Hip - Updated July 2025",
+        "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2025/07/Hip-Triage-Guidance-2025.pdf"
+      }
+    ],
+    "category": "MSK",
+    "checked": "2026-11-11",
+    "link_check": "Source links checked 11 Nov 2026"
+  },
+  {
+    "slug": "local-knee",
+    "name": "Knee: East Sussex pathway",
+    "code": "East Sussex MSK",
+    "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
+    "resources": [
+      {
+        "title": "Clinical Guidelines - Knee - Updated July 2025",
+        "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2025/07/Knee-Triage-Guidance-2025.pdf"
+      }
+    ],
+    "category": "MSK",
+    "checked": "2026-11-11",
+    "link_check": "Source links checked 11 Nov 2026"
+  },
+  {
+    "slug": "local-shoulder-elbow",
+    "name": "Shoulder & Elbow: East Sussex pathway",
+    "code": "East Sussex MSK",
+    "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
+    "resources": [
+      {
+        "title": "Clinical Guidelines - Shoulder & Elbow - Updated July 2025",
+        "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2025/07/Shoulder-Elbow-Triage-Guidance-2025.pdf"
+      }
+    ],
+    "category": "MSK",
+    "checked": "2026-11-11",
+    "link_check": "Source links checked 11 Nov 2026"
+  },
+  {
+    "slug": "local-spine",
+    "name": "Spine: East Sussex pathway",
+    "code": "East Sussex MSK",
+    "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
+    "resources": [
+      {
+        "title": "Clinical Guidelines - Spine - Updated July 2025",
+        "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2025/07/Spine-and-Neck-Triage-Guidance-2025.pdf"
+      }
+    ],
+    "category": "MSK",
+    "checked": "2026-11-11",
+    "link_check": "Source links checked 11 Nov 2026"
+  },
+  {
+    "slug": "local-lumps-bumps",
+    "name": "Lumps & Bumps: East Sussex pathway",
+    "code": "East Sussex MSK",
+    "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
+    "resources": [
+      {
+        "title": "Clinical Guidelines - Lumps & Bumps - Updated July 2025",
+        "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2025/07/Lumps-and-Bumps-Guidance-2025.pdf"
+      }
+    ],
+    "category": "MSK",
+    "checked": "2026-11-11",
+    "link_check": "Source links checked 11 Nov 2026"
+  },
+  {
+    "slug": "local-physiotherapy",
+    "name": "Physiotherapy: East Sussex pathway",
+    "code": "East Sussex MSK",
+    "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
+    "resources": [
+      {
+        "title": "Clinical Guidelines - Physiotherapy - Updated December 2024",
+        "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2025/02/Physiotherapy-referral-criteria-Final.pdf"
+      }
+    ],
+    "category": "MSK",
+    "checked": "2026-11-11",
+    "link_check": "Source links checked 11 Nov 2026"
+  }
+]
