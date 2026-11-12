@@ -41,3 +41,12 @@ Preserved all earlier charts and local originals. New routes are linked from the
 - Inspected but did not add older ESHT croup (steam advice), osteoporosis (obsolete CG146 citation), child-asthma (older licensing) and IV-iron (elapsed review date) leaflets as current patient advice.
 - Source evidence includes NG246, NG259, NG245, NG97, NG9, NG117, CG150, CG113, NG222, NG190, current NICE TAs, BNF/BNFC, CKS, BTS adult bronchiectasis and NHS England commissioning. Exact URLs are in the chart/source directory; source chronology and limitations are on the progress page.
 - Before publication: personal/family-data scan and noreply commit identity required. All 43 chart routes checked at 320/390/1280 pixels with directory and source-disclosure checks. Source/layout checks are not clinical validation.
+
+
+## 12 November 2026: neurodivergence, carers, joint pain and EMIS prompts
+
+Added `chart4.html` with autism/ADHD referral and England Right to Choose, age-banded children's distressed-behaviour support, carers' assessments/breaks, and source-based adult joint-pain patterns/referral. Three clinical charts and two clearly labelled patient-support pages, 47 boxes, 40 new patient/support link placements. Current coverage: 46 clinical charts + 2 support pages + 8 retained local originals = 56 entries. Total patient/support links across the 48 review/support routes: 88 placements.
+
+Added `emis.html`: 56 matching copy-ready blank documentation prompt sets, linked from every review/support page and directory entry, including the eight local originals. These are build specifications, not installable EMIS templates or completed clinical records. No unverified codes or doses, pre-ticked normal findings or negative red flags. Check source/local pathway, build/test and approve locally.
+
+Current source conditions and older evidence dates are explicit. Right to Choose requires clinical appropriateness and a qualifying service contract; no wait, GP shared-care acceptance, provider vacancy or financial entitlement is guaranteed. Local course ages/availability vary; provider grants are not personal payments. Carer legal routes and adult/child neurodevelopmental routes are not merged. Joint-pain referral and investigation boundaries remain those in original NICE/CKS sources, not a new scoring system.
