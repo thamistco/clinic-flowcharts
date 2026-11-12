@@ -2082,5 +2082,102 @@
     ],
     "page_type": "clinical review",
     "emis_template": "emis.html#fibromyalgia"
+  },
+  {
+    "slug": "polysymptomatic",
+    "name": "The polysymptomatic patient: assess, prioritise, review",
+    "code": "NHS \u00b7 NICE NG56 / NG193 / NG206 / NG12 \u00b7 GMC",
+    "link": "https://www.nhs.uk/conditions/medically-unexplained-symptoms/",
+    "resources": [
+      {
+        "title": "NHS: medically unexplained symptoms (patient information, not a diagnostic test)",
+        "url": "https://www.nhs.uk/conditions/medically-unexplained-symptoms/"
+      },
+      {
+        "title": "NICE NG56: multimorbidity, only where its population applies",
+        "url": "https://www.nice.org.uk/guidance/ng56/chapter/recommendations"
+      },
+      {
+        "title": "NICE NG193: chronic pain assessment and changed symptoms",
+        "url": "https://www.nice.org.uk/guidance/ng193/chapter/recommendations"
+      },
+      {
+        "title": "NICE NG206: ME/CFS recognition and activity safeguards",
+        "url": "https://www.nice.org.uk/guidance/ng206/chapter/Recommendations"
+      },
+      {
+        "title": "NICE NG12: cancer features and 2026 non-site-specific symptom recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer"
+      },
+      {
+        "title": "GMC: referral information and responsibility",
+        "url": "https://www.gmc-uk.org/professional-standards/the-professional-standards/delegation-and-referral/delegation-and-referral"
+      }
+    ],
+    "category": "Acute & other",
+    "checked": "2026-11-12",
+    "link_check": "Source content and scope checked 12 Nov 2026; review copy, not clinical validation or RCGP endorsement",
+    "review_copy": "chart5.html#polysymptomatic",
+    "patient_information": [
+      {
+        "name": "NHS: medically unexplained symptoms (only if relevant after assessment)",
+        "url": "https://www.nhs.uk/conditions/medically-unexplained-symptoms/",
+        "checked": "12 November 2026"
+      },
+      {
+        "name": "NICE: making decisions about medicines in multimorbidity (when applicable)",
+        "url": "https://www.nice.org.uk/guidance/ng56/ifp/chapter/Help-with-making-decisions",
+        "checked": "12 November 2026"
+      }
+    ],
+    "page_type": "clinical review",
+    "emis_template": "emis.html#polysymptomatic"
+  },
+  {
+    "slug": "sca-consultation",
+    "name": "SCA consultation and real-world admin",
+    "code": "RCGP SCA \u00b7 GMC \u00b7 suggested practice rhythm",
+    "link": "https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/marking-and-results",
+    "resources": [
+      {
+        "title": "RCGP examination-day guide: reading, consultation and private notes",
+        "url": "https://www.rcgp.org.uk/getContentAsset/7f8211e5-331c-4847-86f9-856caab78516/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/Examination-Day-Guide.pdf"
+      },
+      {
+        "title": "RCGP marking: three domains and standard descriptors",
+        "url": "https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/marking-and-results"
+      },
+      {
+        "title": "RCGP: preparation and blueprint",
+        "url": "https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/preparing"
+      },
+      {
+        "title": "RCGP toolkit consultation overview (original, not reproduced)",
+        "url": "https://www.rcgp.org.uk/getContentAsset/7ef1f4cf-b444-425d-89e8-6399021b1cd2/dfc3d011-8f63-43f6-9ed8-4b444333a1d0/sca-consultation-overview.pdf?language=en"
+      },
+      {
+        "title": "RCGP toolkit: management, complexity and follow-up",
+        "url": "https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/Toolkit-clinical-management"
+      },
+      {
+        "title": "GMC Good medical practice 69\u201371: contemporaneous records",
+        "url": "https://www.gmc-uk.org/cdn/documents/good-medical-practice-2024---english_pdf-102607294.pdf"
+      },
+      {
+        "title": "GMC: referral and transfer of care",
+        "url": "https://www.gmc-uk.org/professional-standards/the-professional-standards/delegation-and-referral/delegation-and-referral"
+      },
+      {
+        "title": "RCGP exam conditions: preparation resources and permitted notes",
+        "url": "https://www.rcgp.org.uk/terms-conditions/sca-conditions"
+      }
+    ],
+    "category": "Consultation skills",
+    "checked": "2026-11-12",
+    "link_check": "Source content and scope checked 12 Nov 2026; review copy, not clinical validation or RCGP endorsement",
+    "review_copy": "chart5.html#sca-consultation",
+    "patient_information": [],
+    "page_type": "training / workflow",
+    "emis_template": "emis.html#sca-consultation"
   }
 ]
