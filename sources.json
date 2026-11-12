@@ -13,7 +13,14 @@
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#sore-throat"
+    "review_copy": "chart.html#sore-throat",
+    "patient_information": [
+      {
+        "name": "NHS: Sore throat",
+        "url": "https://www.nhs.uk/symptoms/sore-throat/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "uti",
@@ -29,7 +36,14 @@
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#uti"
+    "review_copy": "chart.html#uti",
+    "patient_information": [
+      {
+        "name": "NHS: Urinary tract infections (UTIs)",
+        "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "cough",
@@ -57,7 +71,14 @@
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#cough"
+    "review_copy": "chart.html#cough",
+    "patient_information": [
+      {
+        "name": "NHS: Pneumonia",
+        "url": "https://www.nhs.uk/conditions/pneumonia/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "hypertension",
@@ -73,11 +94,18 @@
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "hypertension.html"
+    "review_copy": "hypertension.html",
+    "patient_information": [
+      {
+        "name": "NHS: High blood pressure",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "asthma",
-    "name": "Asthma: diagnosis and management",
+    "name": "Asthma: diagnosis and treatment by age",
     "code": "BTS, NICE and SIGN NG245",
     "link": "https://www.nice.org.uk/guidance/ng245",
     "resources": [
@@ -103,9 +131,16 @@
       }
     ],
     "category": "Long-term care",
-    "link_check": "Source links checked 11 Nov 2026",
-    "checked": "2026-11-11",
-    "review_copy": "chart.html#asthma"
+    "link_check": "Age-specific diagnosis/treatment recommendations and history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart.html#asthma",
+    "patient_information": [
+      {
+        "name": "NHS: Asthma",
+        "url": "https://www.nhs.uk/conditions/asthma/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "t2dm",
@@ -125,7 +160,14 @@
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#t2dm"
+    "review_copy": "chart.html#t2dm",
+    "patient_information": [
+      {
+        "name": "NHS: Type 2 diabetes",
+        "url": "https://www.nhs.uk/conditions/type-2-diabetes/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "dyspepsia",
@@ -136,7 +178,14 @@
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#dyspepsia"
+    "review_copy": "chart.html#dyspepsia",
+    "patient_information": [
+      {
+        "name": "NHS: Heartburn and acid reflux",
+        "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "back-pain",
@@ -147,7 +196,14 @@
     "category": "MSK",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#back-pain"
+    "review_copy": "chart.html#back-pain",
+    "patient_information": [
+      {
+        "name": "NHS: Back pain",
+        "url": "https://www.nhs.uk/conditions/back-pain/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "fever-child",
@@ -158,7 +214,14 @@
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#fever-child"
+    "review_copy": "chart.html#fever-child",
+    "patient_information": [
+      {
+        "name": "NHS: High temperature (fever) in children",
+        "url": "https://www.nhs.uk/symptoms/fever-in-children/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "af",
@@ -174,7 +237,14 @@
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#af"
+    "review_copy": "chart.html#af",
+    "patient_information": [
+      {
+        "name": "NHS: Atrial fibrillation",
+        "url": "https://www.nhs.uk/conditions/atrial-fibrillation/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "copd",
@@ -190,7 +260,14 @@
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#copd"
+    "review_copy": "chart.html#copd",
+    "patient_information": [
+      {
+        "name": "NHS: Chronic obstructive pulmonary disease (COPD)",
+        "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "ckd",
@@ -210,7 +287,14 @@
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#ckd"
+    "review_copy": "chart.html#ckd",
+    "patient_information": [
+      {
+        "name": "NHS: Chronic kidney disease",
+        "url": "https://www.nhs.uk/conditions/kidney-disease/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "contraception",
@@ -221,7 +305,14 @@
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#contraception"
+    "review_copy": "chart.html#contraception",
+    "patient_information": [
+      {
+        "name": "NHS: Where to get contraception",
+        "url": "https://www.nhs.uk/contraception/where-to-get-contraception/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "menopause",
@@ -237,7 +328,14 @@
     "category": "Acute & other",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#menopause"
+    "review_copy": "chart.html#menopause",
+    "patient_information": [
+      {
+        "name": "NHS: Menopause and perimenopause",
+        "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "heart-failure",
@@ -257,7 +355,14 @@
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#heart-failure"
+    "review_copy": "chart.html#heart-failure",
+    "patient_information": [
+      {
+        "name": "NHS: Heart failure",
+        "url": "https://www.nhs.uk/conditions/heart-failure/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "thyroid",
@@ -273,7 +378,19 @@
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#thyroid"
+    "review_copy": "chart.html#thyroid",
+    "patient_information": [
+      {
+        "name": "NHS: Underactive thyroid (hypothyroidism)",
+        "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
+        "checked": "12 November 2026"
+      },
+      {
+        "name": "NHS: Overactive thyroid",
+        "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "depression",
@@ -284,7 +401,19 @@
     "category": "Long-term care",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#depression"
+    "review_copy": "chart.html#depression",
+    "patient_information": [
+      {
+        "name": "NHS: Depression in adults",
+        "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/",
+        "checked": "12 November 2026"
+      },
+      {
+        "name": "Local: East Sussex mental health directory (services and support)",
+        "url": "https://www.eastsussex.gov.uk/social-care/health-advice/mental-health/east-sussex-mental-health-directory",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "osteoarthritis",
@@ -300,7 +429,14 @@
     "category": "MSK",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#osteoarthritis"
+    "review_copy": "chart.html#osteoarthritis",
+    "patient_information": [
+      {
+        "name": "NHS: Osteoarthritis",
+        "url": "https://www.nhs.uk/conditions/osteoarthritis/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "gout",
@@ -320,7 +456,14 @@
     "category": "MSK",
     "link_check": "Source links checked 11 Nov 2026",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#gout"
+    "review_copy": "chart.html#gout",
+    "patient_information": [
+      {
+        "name": "NHS: Gout",
+        "url": "https://www.nhs.uk/conditions/gout/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "shoulder",
@@ -331,7 +474,14 @@
     "category": "MSK",
     "link_check": "Deep CKS pages checked 11 Nov 2026; clinical revision Nov 2022; limited assessment summary only",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#shoulder"
+    "review_copy": "chart.html#shoulder",
+    "patient_information": [
+      {
+        "name": "NHS: Shoulder pain",
+        "url": "https://www.nhs.uk/symptoms/shoulder-pain/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "knee",
@@ -342,7 +492,14 @@
     "category": "MSK",
     "link_check": "Deep CKS pages checked 11 Nov 2026; clinical revision Aug 2022; limited assessment summary only",
     "checked": "2026-11-11",
-    "review_copy": "chart.html#knee"
+    "review_copy": "chart.html#knee",
+    "patient_information": [
+      {
+        "name": "NHS: Knee pain",
+        "url": "https://www.nhs.uk/symptoms/knee-pain/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "local-foot-ankle",
@@ -490,7 +647,14 @@
     "category": "Long-term care",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#cvd-risk"
+    "review_copy": "chart2.html#cvd-risk",
+    "patient_information": [
+      {
+        "name": "NHS: Cardiovascular disease",
+        "url": "https://www.nhs.uk/conditions/cardiovascular-disease/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "anxiety",
@@ -510,7 +674,19 @@
     "category": "Long-term care",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#anxiety"
+    "review_copy": "chart2.html#anxiety",
+    "patient_information": [
+      {
+        "name": "NHS: Generalised anxiety disorder (GAD)",
+        "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+        "checked": "12 November 2026"
+      },
+      {
+        "name": "Local: East Sussex mental health directory (services and support)",
+        "url": "https://www.eastsussex.gov.uk/social-care/health-advice/mental-health/east-sussex-mental-health-directory",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "migraine",
@@ -530,7 +706,14 @@
     "category": "Long-term care",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#migraine"
+    "review_copy": "chart2.html#migraine",
+    "patient_information": [
+      {
+        "name": "NHS: Migraine",
+        "url": "https://www.nhs.uk/conditions/migraine/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "acne",
@@ -550,7 +733,14 @@
     "category": "Long-term care",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#acne"
+    "review_copy": "chart2.html#acne",
+    "patient_information": [
+      {
+        "name": "NHS: Acne",
+        "url": "https://www.nhs.uk/conditions/acne/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "ibs",
@@ -570,7 +760,14 @@
     "category": "Long-term care",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#ibs"
+    "review_copy": "chart2.html#ibs",
+    "patient_information": [
+      {
+        "name": "NHS: Irritable bowel syndrome (IBS)",
+        "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "recurrent-uti",
@@ -590,7 +787,14 @@
     "category": "Long-term care",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#recurrent-uti"
+    "review_copy": "chart2.html#recurrent-uti",
+    "patient_information": [
+      {
+        "name": "NHS: Urinary tract infections (UTIs)",
+        "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "acute-cough",
@@ -610,7 +814,14 @@
     "category": "Acute & other",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#acute-cough"
+    "review_copy": "chart2.html#acute-cough",
+    "patient_information": [
+      {
+        "name": "NHS: Bronchitis",
+        "url": "https://www.nhs.uk/conditions/bronchitis/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "copd-exacerbation",
@@ -630,7 +841,14 @@
     "category": "Acute & other",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#copd-exacerbation"
+    "review_copy": "chart2.html#copd-exacerbation",
+    "patient_information": [
+      {
+        "name": "NHS: Chronic obstructive pulmonary disease (COPD)",
+        "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "cellulitis",
@@ -650,7 +868,14 @@
     "category": "Acute & other",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#cellulitis"
+    "review_copy": "chart2.html#cellulitis",
+    "patient_information": [
+      {
+        "name": "NHS: Cellulitis",
+        "url": "https://www.nhs.uk/conditions/cellulitis/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "otitis-media",
@@ -670,7 +895,14 @@
     "category": "Acute & other",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#otitis-media"
+    "review_copy": "chart2.html#otitis-media",
+    "patient_information": [
+      {
+        "name": "NHS: Ear infections",
+        "url": "https://www.nhs.uk/conditions/ear-infections/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "sinusitis",
@@ -690,7 +922,14 @@
     "category": "Acute & other",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#sinusitis"
+    "review_copy": "chart2.html#sinusitis",
+    "patient_information": [
+      {
+        "name": "NHS: Sinusitis (sinus infection)",
+        "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/",
+        "checked": "12 November 2026"
+      }
+    ]
   },
   {
     "slug": "impetigo",
@@ -710,6 +949,277 @@
     "category": "Acute & other",
     "link_check": "Recommendations/update history checked 12 Nov 2026",
     "checked": "2026-11-12",
-    "review_copy": "chart2.html#impetigo"
+    "review_copy": "chart2.html#impetigo",
+    "patient_information": [
+      {
+        "name": "NHS: Impetigo",
+        "url": "https://www.nhs.uk/conditions/impetigo/",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "obesity",
+    "name": "Overweight and obesity: adult management",
+    "code": "NG246 + weight-management TAs",
+    "link": "https://www.nice.org.uk/guidance/ng246/chapter/General-principles-of-care#ng246-1_1_1",
+    "resources": [
+      {
+        "title": "NG246 update history",
+        "url": "https://www.nice.org.uk/guidance/ng246/chapter/Update-information"
+      },
+      {
+        "title": "NG246 medicines and surgery",
+        "url": "https://www.nice.org.uk/guidance/ng246/chapter/Medicines-and-surgery"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#obesity",
+    "patient_information": [
+      {
+        "name": "NHS: Overweight and obesity in adults",
+        "url": "https://www.nhs.uk/conditions/overweight-and-obesity/",
+        "checked": "12 November 2026"
+      },
+      {
+        "name": "Local: One You East Sussex (adult lifestyle support; check eligibility)",
+        "url": "https://oneyoueastsussex.org.uk/",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "insomnia",
+    "name": "Insomnia: adult assessment and treatment",
+    "code": "NICE CKS + TA922",
+    "link": "https://cks.nice.org.uk/topics/insomnia/diagnosis/assessment/",
+    "resources": [
+      {
+        "title": "CKS update history",
+        "url": "https://cks.nice.org.uk/topics/insomnia/how-up-to-date-is-this-topic/"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#insomnia",
+    "patient_information": [
+      {
+        "name": "NHS: Insomnia",
+        "url": "https://www.nhs.uk/conditions/insomnia/",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "eczema",
+    "name": "Atopic eczema: adult review",
+    "code": "NICE CKS + NG190",
+    "link": "https://cks.nice.org.uk/topics/eczema-atopic/management/severe-eczema/",
+    "resources": [
+      {
+        "title": "CKS update history",
+        "url": "https://cks.nice.org.uk/topics/eczema-atopic/how-up-to-date-is-this-topic/"
+      },
+      {
+        "title": "NG190 update history",
+        "url": "https://www.nice.org.uk/guidance/ng190/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#eczema",
+    "patient_information": [
+      {
+        "name": "NHS: Atopic eczema",
+        "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "anaemia",
+    "name": "Iron deficiency anaemia: adult work-up",
+    "code": "NICE CKS + NG12",
+    "link": "https://cks.nice.org.uk/topics/anaemia-iron-deficiency/management/management/",
+    "resources": [
+      {
+        "title": "CKS update history",
+        "url": "https://cks.nice.org.uk/topics/anaemia-iron-deficiency/how-up-to-date-is-this-topic/"
+      },
+      {
+        "title": "NG12 history",
+        "url": "https://www.nice.org.uk/guidance/ng12/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#anaemia",
+    "patient_information": [
+      {
+        "name": "NHS: Iron deficiency anaemia",
+        "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "osteoporosis",
+    "name": "Osteoporosis: fracture risk assessment",
+    "code": "NICE NG259",
+    "link": "https://www.nice.org.uk/guidance/ng259/chapter/Fragility-fracture-risk-assessment#ng259-1_1_1",
+    "resources": [
+      {
+        "title": "NG259 update information",
+        "url": "https://www.nice.org.uk/guidance/ng259/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#osteoporosis",
+    "patient_information": [
+      {
+        "name": "NHS: Osteoporosis",
+        "url": "https://www.nhs.uk/conditions/osteoporosis/",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "vaginal-discharge",
+    "name": "Vaginal discharge: assessment and routing",
+    "code": "NICE CKS + NG12",
+    "link": "https://cks.nice.org.uk/topics/vaginal-discharge/diagnosis/assessment/",
+    "resources": [
+      {
+        "title": "CKS update history",
+        "url": "https://cks.nice.org.uk/topics/vaginal-discharge/how-up-to-date-is-this-topic/"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#vaginal-discharge",
+    "patient_information": [
+      {
+        "name": "NHS: Vaginal discharge",
+        "url": "https://www.nhs.uk/symptoms/vaginal-discharge/",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "dementia",
+    "name": "Suspected dementia: assessment and support",
+    "code": "NICE NG97",
+    "link": "https://www.nice.org.uk/guidance/ng97/chapter/Recommendations#ng97-1_2_6",
+    "resources": [
+      {
+        "title": "NG97 update history",
+        "url": "https://www.nice.org.uk/guidance/ng97/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#dementia",
+    "patient_information": [
+      {
+        "name": "NHS: Dementia",
+        "url": "https://www.nhs.uk/conditions/dementia/",
+        "checked": "12 November 2026"
+      },
+      {
+        "name": "Local: East Sussex mental health directory (services and support)",
+        "url": "https://www.eastsussex.gov.uk/social-care/health-advice/mental-health/east-sussex-mental-health-directory",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "croup",
+    "name": "Croup: assessment and first actions",
+    "code": "NICE CKS + BNFC",
+    "link": "https://cks.nice.org.uk/topics/croup/diagnosis/diagnosis/",
+    "resources": [
+      {
+        "title": "CKS history",
+        "url": "https://cks.nice.org.uk/topics/croup/how-up-to-date-is-this-topic/"
+      },
+      {
+        "title": "Live BNFC dexamethasone",
+        "url": "https://bnfc.nice.org.uk/drugs/dexamethasone/"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#croup",
+    "patient_information": [
+      {
+        "name": "NHS: Croup",
+        "url": "https://www.nhs.uk/conditions/croup/",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "bronchiolitis",
+    "name": "Bronchiolitis: primary-care assessment",
+    "code": "NICE NG9",
+    "link": "https://www.nice.org.uk/guidance/ng9/chapter/Recommendations#ng9-1_1_10",
+    "resources": [
+      {
+        "title": "NG9 update history",
+        "url": "https://www.nice.org.uk/guidance/ng9/chapter/Update-information"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#bronchiolitis",
+    "patient_information": [
+      {
+        "name": "NHS: Bronchiolitis",
+        "url": "https://www.nhs.uk/conditions/bronchiolitis/",
+        "checked": "12 November 2026"
+      }
+    ]
+  },
+  {
+    "slug": "bronchiectasis",
+    "name": "Bronchiectasis: adult community review",
+    "code": "BTS + NICE NG117 + CKS",
+    "link": "https://cks.nice.org.uk/topics/bronchiectasis/management/infective-exacerbation/",
+    "resources": [
+      {
+        "title": "BTS adult guideline",
+        "url": "https://www.brit-thoracic.org.uk/document-library/guidelines/bronchiectasis/bts-guideline-for-bronchiectasis-in-adults/"
+      },
+      {
+        "title": "BTS 2022 quality standard",
+        "url": "https://www.brit-thoracic.org.uk/document-library/quality-standards/bronchiectasis/bts-quality-standard-for-clinically-significant-bronchiectasis-in-adults"
+      },
+      {
+        "title": "CKS history",
+        "url": "https://cks.nice.org.uk/topics/bronchiectasis/how-up-to-date-is-this-topic/"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Selected recommendations, history and sources checked 12 Nov 2026; source dates/limits in chart",
+    "checked": "2026-11-12",
+    "review_copy": "chart3.html#bronchiectasis",
+    "patient_information": [
+      {
+        "name": "NHS: Bronchiectasis",
+        "url": "https://www.nhs.uk/conditions/bronchiectasis/",
+        "checked": "12 November 2026"
+      }
+    ]
   }
 ]
