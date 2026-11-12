@@ -56,3 +56,12 @@ Patient information is present on all 43 review charts and their directory cards
 The latest batch contains 16 rechecked/new indication-specific medicine cards (including a replacement sertraline depression card and one BNFC mild-croup card). BNF medicine-indication differences, NICE eligibility and England commissioning differences remain separate. No dose is inferred for other indications or age groups.
 
 Key changes: NG259 replaced CG146 in July 2026; obesity has separate TA1026, TA875, TA664 and TA1152 routes; BNF Wegovy BMI ≥30 dosing now differs from the separate TA1152 CVD ceiling. Current original recommendations take precedence. Detailed omissions and source decisions are on `progress.html` and in each chart. These are not clinically validated prescribing or emergency systems.
+
+
+## 12 November 2026: neurodivergence, carers, joint pain and EMIS prompts
+
+Added `chart4.html` with autism/ADHD referral and England Right to Choose, age-banded children's distressed-behaviour support, carers' assessments/breaks, and source-based adult joint-pain patterns/referral. Three clinical charts and two clearly labelled patient-support pages, 47 boxes, 40 new patient/support link placements. Current coverage: 46 clinical charts + 2 support pages + 8 retained local originals = 56 entries. Total patient/support links across the 48 review/support routes: 88 placements.
+
+Added `emis.html`: 56 matching copy-ready blank documentation prompt sets, linked from every review/support page and directory entry, including the eight local originals. These are build specifications, not installable EMIS templates or completed clinical records. No unverified codes or doses, pre-ticked normal findings or negative red flags. Check source/local pathway, build/test and approve locally.
+
+Current source conditions and older evidence dates are explicit. Right to Choose requires clinical appropriateness and a qualifying service contract; no wait, GP shared-care acceptance, provider vacancy or financial entitlement is guaranteed. Local course ages/availability vary; provider grants are not personal payments. Carer legal routes and adult/child neurodevelopmental routes are not merged. Joint-pain referral and investigation boundaries remain those in original NICE/CKS sources, not a new scoring system.
