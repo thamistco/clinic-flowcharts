@@ -211,7 +211,29 @@
         "checked": "12 November 2026"
       }
     ],
-    "emis_template": "emis.html#back-pain"
+    "emis_template": "emis.html#back-pain",
+    "guidance_comparison": {
+      "difference": "The 2025 local wording predates the July 2026 NICE change and omits the weak-opioid condition.",
+      "national": "NG59: consider weak opioids for acute low back pain only if an NSAID is contraindicated, not tolerated or ineffective. Psychological/combined-programme recommendations were withdrawn in July 2026. Use a distinct emergency pathway for suspected cord/cauda-equina disease.",
+      "local": "The 2025 spine PDF lists weak opioids without that full condition and refers to pain-service psychology. This is not current NG59 wording; local specialist pain-service access is separate. Its fixed success-rate claims remain unverified.",
+      "nlinks": [
+        {
+          "name": "NG59 current recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng59/chapter/Recommendations"
+        },
+        {
+          "name": "NG59 July 2026 update",
+          "url": "https://www.nice.org.uk/guidance/ng59/chapter/Update-information"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        }
+      ],
+      "safety": "Direct clinical PDF quick-link withheld. Do not use routine MSK triage instead of an indicated emergency pathway."
+    }
   },
   {
     "slug": "fever-child",
@@ -454,7 +476,29 @@
         "checked": "12 November 2026"
       }
     ],
-    "emis_template": "emis.html#osteoarthritis"
+    "emis_template": "emis.html#osteoarthritis",
+    "guidance_comparison": {
+      "difference": "National clinical referral criteria and local commissioning/access requirements are different. The older local PDFs and newer checklist also differ.",
+      "national": "NG226: do not exclude joint-replacement referral solely because of age, sex/gender, smoking, comorbidity or overweight/obesity/BMI. Diagnose typical OA clinically; do not routinely image unless features are atypical.",
+      "local": "The 2025 hip/knee PDFs quote older commissioning/BMI gates. A newer 2026 local checklist has different weight, shared-decision and X-ray requirements. Treat these as local process/access documents, not a silent replacement for NICE clinical referral criteria. Confirm current acceptance and discuss any access barrier.",
+      "nlinks": [
+        {
+          "name": "NICE NG226: diagnosis and joint-replacement referral",
+          "url": "https://www.nice.org.uk/guidance/ng226/chapter/Recommendations"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        },
+        {
+          "name": "2026 local hip/knee OA checklist",
+          "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2026/05/Hip-and-knee-OA-checklist-2026.pdf"
+        }
+      ],
+      "safety": "Older clinical PDF quick-links remain withheld. A commissioning barrier must not delay an urgent clinical pathway."
+    }
   },
   {
     "slug": "gout",
@@ -501,7 +545,25 @@
         "checked": "12 November 2026"
       }
     ],
-    "emis_template": "emis.html#shoulder"
+    "emis_template": "emis.html#shoulder",
+    "guidance_comparison": {
+      "difference": "Some local fixed treatment timelines could not be confirmed; no new conflicting national rule is inferred.",
+      "national": "Use current condition-specific CKS assessment/initial management and urgent referral exceptions. The authored shoulder chart is adult assessment/referral, not a universal analgesic schedule.",
+      "local": "The older local shoulder/elbow PDF includes fixed conservative-treatment timings, including frozen-shoulder analgesia duration, not verified against a current national source. Confirm the current service route rather than treating these as mandatory waiting periods.",
+      "nlinks": [
+        {
+          "name": "CKS shoulder: initial management",
+          "url": "https://cks.nice.org.uk/topics/shoulder-pain/management/initial-management/"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        }
+      ],
+      "safety": "Direct clinical quick-link withheld. Urgent referral takes priority over routine local timelines."
+    }
   },
   {
     "slug": "knee",
@@ -520,7 +582,33 @@
         "checked": "12 November 2026"
       }
     ],
-    "emis_template": "emis.html#knee"
+    "emis_template": "emis.html#knee",
+    "guidance_comparison": {
+      "difference": "Safety conflict: suspected joint infection must not be managed by watchful waiting. OA access criteria are a separate difference.",
+      "national": "CKS: immediate specialist assessment if septic arthritis is suspected or cannot be excluded. Do not delay an indicated referral for tests. For OA, NG226 says not to exclude joint-replacement referral solely for its listed personal/BMI factors.",
+      "local": "The local 2025 knee infection column includes bloods, antibiotics and watchful waiting, alongside referral advice elsewhere. That combination must not be used as a community algorithm. Older OA commissioning/BMI gates also differ from NICE and the newer 2026 checklist.",
+      "nlinks": [
+        {
+          "name": "CKS knee: immediate specialist assessment",
+          "url": "https://cks.nice.org.uk/topics/knee-pain-assessment/management/management/"
+        },
+        {
+          "name": "NG226 referral exclusions",
+          "url": "https://www.nice.org.uk/guidance/ng226/chapter/Recommendations#ng226-1_6_3"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        },
+        {
+          "name": "2026 local hip/knee OA checklist",
+          "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2026/05/Hip-and-knee-OA-checklist-2026.pdf"
+        }
+      ],
+      "safety": "Do not use the PDF infection branch. Immediate specialist referral takes priority; direct clinical quick-link remains withheld."
+    }
   },
   {
     "slug": "local-foot-ankle",
@@ -540,7 +628,25 @@
       }
     ],
     "audit_status": "SOURCE-ONLY; direct clinical quick-links withheld",
-    "audit_note": "Several timings and the consultant-agreement branch could not be reconciled to a current national source. A newer local Achilles/VACOped pathway complements this document. Do not treat the 2025 PDF as a validated all-condition algorithm."
+    "audit_note": "Several timings and the consultant-agreement branch could not be reconciled to a current national source. A newer local Achilles/VACOped pathway complements this document. Do not treat the 2025 PDF as a validated all-condition algorithm.",
+    "guidance_comparison": {
+      "difference": "Not every difference is a conflict: newer Achilles rehabilitation complements triage, but older recovery timelines remain unverified.",
+      "national": "NG19 acute Charcot: refer within one working day to multidisciplinary foot care for triage within one further working day; offer non-weight-bearing treatment until definitive care. Do not extrapolate a fixed recovery time across diagnoses.",
+      "local": "The local Charcot branch broadly aligns. General ankle-sprain 7\u201315-day and plantar-heel six-month statements could not be verified as national rules. The publisher also lists a 2026 Achilles VACOped rehabilitation protocol, complementing rather than replacing triage.",
+      "nlinks": [
+        {
+          "name": "NG19: acute Charcot referral",
+          "url": "https://www.nice.org.uk/guidance/ng19/chapter/Recommendations"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        }
+      ],
+      "safety": "Older clinical quick-link withheld. No boot settings or unverified recovery promises are copied into this comparison."
+    }
   },
   {
     "slug": "local-hand-wrist",
@@ -560,7 +666,33 @@
       }
     ],
     "audit_status": "SOURCE-ONLY; direct clinical quick-links withheld",
-    "audit_note": "Mallet-finger and Dupuytren branches conflict with current reference sources: BSSH distinguishes closed injury (splint/radiograph and hand clinic within 72 hours) from open injury (same-day care). The Dupuytren radiotherapy citation is wrong; IPG368 requires special arrangements and notes limited evidence."
+    "audit_note": "Mallet-finger and Dupuytren branches conflict with current reference sources: BSSH distinguishes closed injury (splint/radiograph and hand clinic within 72 hours) from open injury (same-day care). The Dupuytren radiotherapy citation is wrong; IPG368 requires special arrangements and notes limited evidence.",
+    "guidance_comparison": {
+      "difference": "Mallet injury routes, a wrong Dupuytren citation and a sarcoma-route difference require separate handling.",
+      "national": "BSSH distinguishes closed mallet injury (splint, radiograph and hand clinic within 72 hours) from open injury (same-day care). NICE IPG368 is the Dupuytren radiotherapy guidance, requiring special arrangements because evidence is limited. NG12 sets the adult growing-lump ultrasound/referral sequence.",
+      "local": "The 2025 hand/wrist PDF sends mallet injuries to A&E without that distinction, cites the wrong NICE number for Dupuytren radiotherapy, and uses feature-based direct sarcoma referral. These branches are not reproduced here as clinical instructions.",
+      "nlinks": [
+        {
+          "name": "BSSH mallet-injury standard",
+          "url": "https://www.bssh.ac.uk/_userfiles/pages/files/professionals/Trauma%20standards/7%20Mallet%20Injuries.pdf"
+        },
+        {
+          "name": "NICE IPG368: Dupuytren radiotherapy",
+          "url": "https://www.nice.org.uk/guidance/ipg368"
+        },
+        {
+          "name": "NG12 suspected cancer",
+          "url": "https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        }
+      ],
+      "safety": "Direct clinical quick-link withheld. This remains a source-only publisher reference, not an endorsed algorithm."
+    }
   },
   {
     "slug": "local-hip",
@@ -580,7 +712,29 @@
       }
     ],
     "audit_status": "SOURCE-ONLY; direct clinical quick-links withheld",
-    "audit_note": "Local BMI/commissioning thresholds are not clinical exclusion rules: NG226 says do not exclude from referral solely for BMI, smoking, age, sex/gender or comorbidity. A newer 2026 hip/knee OA checklist is listed by the publisher. Some short timelines remain unverified."
+    "audit_note": "Local BMI/commissioning thresholds are not clinical exclusion rules: NG226 says do not exclude from referral solely for BMI, smoking, age, sex/gender or comorbidity. A newer 2026 hip/knee OA checklist is listed by the publisher. Some short timelines remain unverified.",
+    "guidance_comparison": {
+      "difference": "National clinical referral criteria and local commissioning/access requirements are different. The older local PDFs and newer checklist also differ.",
+      "national": "NG226: do not exclude joint-replacement referral solely because of age, sex/gender, smoking, comorbidity or overweight/obesity/BMI. Diagnose typical OA clinically; do not routinely image unless features are atypical.",
+      "local": "The 2025 hip/knee PDFs quote older commissioning/BMI gates. A newer 2026 local checklist has different weight, shared-decision and X-ray requirements. Treat these as local process/access documents, not a silent replacement for NICE clinical referral criteria. Confirm current acceptance and discuss any access barrier.",
+      "nlinks": [
+        {
+          "name": "NICE NG226: diagnosis and joint-replacement referral",
+          "url": "https://www.nice.org.uk/guidance/ng226/chapter/Recommendations"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        },
+        {
+          "name": "2026 local hip/knee OA checklist",
+          "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2026/05/Hip-and-knee-OA-checklist-2026.pdf"
+        }
+      ],
+      "safety": "Older clinical PDF quick-links remain withheld. A commissioning barrier must not delay an urgent clinical pathway."
+    }
   },
   {
     "slug": "local-knee",
@@ -600,7 +754,33 @@
       }
     ],
     "audit_status": "SOURCE-ONLY; direct clinical quick-links withheld",
-    "audit_note": "Safety correction: suspected septic arthritis needs immediate specialist referral under NICE CKS, not bloods/antibiotics and watchful waiting. Do not use this PDF infection branch. Local BMI/commissioning rules are not NG226 clinical exclusion rules; a 2026 OA checklist is newer."
+    "audit_note": "Safety correction: suspected septic arthritis needs immediate specialist referral under NICE CKS, not bloods/antibiotics and watchful waiting. Do not use this PDF infection branch. Local BMI/commissioning rules are not NG226 clinical exclusion rules; a 2026 OA checklist is newer.",
+    "guidance_comparison": {
+      "difference": "Safety conflict: suspected joint infection must not be managed by watchful waiting. OA access criteria are a separate difference.",
+      "national": "CKS: immediate specialist assessment if septic arthritis is suspected or cannot be excluded. Do not delay an indicated referral for tests. For OA, NG226 says not to exclude joint-replacement referral solely for its listed personal/BMI factors.",
+      "local": "The local 2025 knee infection column includes bloods, antibiotics and watchful waiting, alongside referral advice elsewhere. That combination must not be used as a community algorithm. Older OA commissioning/BMI gates also differ from NICE and the newer 2026 checklist.",
+      "nlinks": [
+        {
+          "name": "CKS knee: immediate specialist assessment",
+          "url": "https://cks.nice.org.uk/topics/knee-pain-assessment/management/management/"
+        },
+        {
+          "name": "NG226 referral exclusions",
+          "url": "https://www.nice.org.uk/guidance/ng226/chapter/Recommendations#ng226-1_6_3"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        },
+        {
+          "name": "2026 local hip/knee OA checklist",
+          "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2026/05/Hip-and-knee-OA-checklist-2026.pdf"
+        }
+      ],
+      "safety": "Do not use the PDF infection branch. Immediate specialist referral takes priority; direct clinical quick-link remains withheld."
+    }
   },
   {
     "slug": "local-shoulder-elbow",
@@ -620,7 +800,25 @@
       }
     ],
     "audit_status": "SOURCE-ONLY; direct clinical quick-links withheld",
-    "audit_note": "Some fixed conservative-treatment timelines, including frozen-shoulder analgesia duration, could not be verified against current national sources. Use current condition-specific CKS/NICE recommendations and urgent referral exceptions, not this PDF as a complete clinical algorithm."
+    "audit_note": "Some fixed conservative-treatment timelines, including frozen-shoulder analgesia duration, could not be verified against current national sources. Use current condition-specific CKS/NICE recommendations and urgent referral exceptions, not this PDF as a complete clinical algorithm.",
+    "guidance_comparison": {
+      "difference": "Some local fixed treatment timelines could not be confirmed; no new conflicting national rule is inferred.",
+      "national": "Use current condition-specific CKS assessment/initial management and urgent referral exceptions. The authored shoulder chart is adult assessment/referral, not a universal analgesic schedule.",
+      "local": "The older local shoulder/elbow PDF includes fixed conservative-treatment timings, including frozen-shoulder analgesia duration, not verified against a current national source. Confirm the current service route rather than treating these as mandatory waiting periods.",
+      "nlinks": [
+        {
+          "name": "CKS shoulder: initial management",
+          "url": "https://cks.nice.org.uk/topics/shoulder-pain/management/initial-management/"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        }
+      ],
+      "safety": "Direct clinical quick-link withheld. Urgent referral takes priority over routine local timelines."
+    }
   },
   {
     "slug": "local-spine",
@@ -640,7 +838,29 @@
       }
     ],
     "audit_status": "SOURCE-ONLY; direct clinical quick-links withheld",
-    "audit_note": "NG59 withdrew psychological/combined programme recommendations in July 2026; older wording in this PDF is not presented as current NICE advice. Weak opioids for acute low back pain are only considered if NSAID contraindicated, not tolerated or ineffective. Current emergency CES pathways take priority."
+    "audit_note": "NG59 withdrew psychological/combined programme recommendations in July 2026; older wording in this PDF is not presented as current NICE advice. Weak opioids for acute low back pain are only considered if NSAID contraindicated, not tolerated or ineffective. Current emergency CES pathways take priority.",
+    "guidance_comparison": {
+      "difference": "The 2025 local wording predates the July 2026 NICE change and omits the weak-opioid condition.",
+      "national": "NG59: consider weak opioids for acute low back pain only if an NSAID is contraindicated, not tolerated or ineffective. Psychological/combined-programme recommendations were withdrawn in July 2026. Use a distinct emergency pathway for suspected cord/cauda-equina disease.",
+      "local": "The 2025 spine PDF lists weak opioids without that full condition and refers to pain-service psychology. This is not current NG59 wording; local specialist pain-service access is separate. Its fixed success-rate claims remain unverified.",
+      "nlinks": [
+        {
+          "name": "NG59 current recommendations",
+          "url": "https://www.nice.org.uk/guidance/ng59/chapter/Recommendations"
+        },
+        {
+          "name": "NG59 July 2026 update",
+          "url": "https://www.nice.org.uk/guidance/ng59/chapter/Update-information"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        }
+      ],
+      "safety": "Direct clinical PDF quick-link withheld. Do not use routine MSK triage instead of an indicated emergency pathway."
+    }
   },
   {
     "slug": "local-lumps-bumps",
@@ -660,7 +880,25 @@
       }
     ],
     "audit_status": "SOURCE-ONLY; direct clinical quick-links withheld",
-    "audit_note": "The adult sarcoma referral shortcut omits NG12 urgent ultrasound first for an unexplained growing lump, then suspected-cancer referral for suggestive/uncertain ultrasound with persistent concern. Children have distinct very-urgent pathways. This PDF is not a replacement for current NG12."
+    "audit_note": "The adult sarcoma referral shortcut omits NG12 urgent ultrasound first for an unexplained growing lump, then suspected-cancer referral for suggestive/uncertain ultrasound with persistent concern. Children have distinct very-urgent pathways. This PDF is not a replacement for current NG12.",
+    "guidance_comparison": {
+      "difference": "Different adult referral sequence: NICE ultrasound-first versus older local feature-based direct referral.",
+      "national": "NG12: consider urgent direct-access ultrasound for an unexplained adult lump increasing in size; consider suspected-cancer referral for suggestive ultrasound or uncertain findings with persistent concern. Children and young people have distinct very-urgent pathways.",
+      "local": "The 2025 local lumps/bumps and hand/wrist PDFs use feature-based direct sarcoma referral, including growth/size, pain, depth or recurrence. This differs from NG12. Confirm the current local suspected-cancer route rather than silently merging the two or using a routine MSK referral.",
+      "nlinks": [
+        {
+          "name": "NG12: soft-tissue sarcoma and age-specific routes",
+          "url": "https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-organised-by-site-of-cancer"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        }
+      ],
+      "safety": "Direct clinical PDF quick-link withheld. A local route difference must not delay an indicated urgent cancer assessment."
+    }
   },
   {
     "slug": "local-physiotherapy",
@@ -680,7 +918,29 @@
       }
     ],
     "audit_status": "SOURCE-ONLY; direct clinical quick-links withheld",
-    "audit_note": "Routine service exclusions and symptom-duration rules must not delay urgent assessment or condition-specific referral. Availability and commissioner criteria are operational, not blanket clinical exclusions. Use the national red-flag pathway first."
+    "audit_note": "Routine service exclusions and symptom-duration rules must not delay urgent assessment or condition-specific referral. Availability and commissioner criteria are operational, not blanket clinical exclusions. Use the national red-flag pathway first.",
+    "guidance_comparison": {
+      "difference": "Local service acceptance is not the same as clinical urgency or national referral need.",
+      "national": "National condition-specific recommendations govern red flags, urgency and treatment. For OA, NG226 says not to use listed personal/BMI factors alone to exclude joint-replacement referral.",
+      "local": "The physiotherapy PDF gives routine service exclusions and symptom-duration rules. These must not postpone urgent assessment or another clinically indicated pathway. Confirm current acceptance and an alternative route when needed.",
+      "nlinks": [
+        {
+          "name": "CKS knee referral routes",
+          "url": "https://cks.nice.org.uk/topics/knee-pain-assessment/management/management/"
+        },
+        {
+          "name": "NG226 referral",
+          "url": "https://www.nice.org.uk/guidance/ng226/chapter/Recommendations"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        }
+      ],
+      "safety": "Direct clinical quick-link withheld. Routine physiotherapy exclusions do not cancel urgent clinical duties."
+    }
   },
   {
     "slug": "cvd-risk",
@@ -1375,7 +1635,29 @@
       }
     ],
     "page_type": "clinical review",
-    "emis_template": "emis.html#autism"
+    "emis_template": "emis.html#autism",
+    "guidance_comparison": {
+      "difference": "Documented source conflict: the national qualifying-contract rule is wider than the local FAQ wording.",
+      "national": "NHS England: for a clinically appropriate referral where the legal right applies, a provider can hold a qualifying NHS Standard Contract with any ICB or NHS England for the required service. Full eligibility and exceptions apply; this is not a blanket entitlement to any private provider.",
+      "local": "The Surrey and Sussex FAQ describes contract scope more narrowly. That does not override NHS England guidance. Local referral/age tables and shared-care arrangements still matter operationally: confirm the exact service, follow-up and prescribing responsibility; GP shared care and shorter waits are not guaranteed.",
+      "nlinks": [
+        {
+          "name": "NHS England patient-choice guidance",
+          "url": "https://www.england.nhs.uk/long-read/patient-choice-guidance/"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "Surrey and Sussex Right to Choose FAQ",
+          "url": "https://www.surreysussex.icb.nhs.uk/right-to-choose-for-mental-health-care/"
+        },
+        {
+          "name": "Local GP referral/shared-care guide",
+          "url": "https://clinical.surreysussex.icb.nhs.uk/clinical_documents/the-national-nhs-right-to-choose-framework-for-autistic-spectrum-condition-asc-and-attention-deficit-hyperactivity-disorder-adhd-referrals/"
+        }
+      ],
+      "safety": "Use the national legal criteria, not a narrower local provider-list restriction. Do not cancel an existing referral without an agreed handover."
+    }
   },
   {
     "slug": "adhd",
@@ -1452,7 +1734,29 @@
       }
     ],
     "page_type": "clinical review",
-    "emis_template": "emis.html#adhd"
+    "emis_template": "emis.html#adhd",
+    "guidance_comparison": {
+      "difference": "Documented source conflict: the national qualifying-contract rule is wider than the local FAQ wording.",
+      "national": "NHS England: for a clinically appropriate referral where the legal right applies, a provider can hold a qualifying NHS Standard Contract with any ICB or NHS England for the required service. Full eligibility and exceptions apply; this is not a blanket entitlement to any private provider.",
+      "local": "The Surrey and Sussex FAQ describes contract scope more narrowly. That does not override NHS England guidance. Local referral/age tables and shared-care arrangements still matter operationally: confirm the exact service, follow-up and prescribing responsibility; GP shared care and shorter waits are not guaranteed.",
+      "nlinks": [
+        {
+          "name": "NHS England patient-choice guidance",
+          "url": "https://www.england.nhs.uk/long-read/patient-choice-guidance/"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "Surrey and Sussex Right to Choose FAQ",
+          "url": "https://www.surreysussex.icb.nhs.uk/right-to-choose-for-mental-health-care/"
+        },
+        {
+          "name": "Local GP referral/shared-care guide",
+          "url": "https://clinical.surreysussex.icb.nhs.uk/clinical_documents/the-national-nhs-right-to-choose-framework-for-autistic-spectrum-condition-asc-and-attention-deficit-hyperactivity-disorder-adhd-referrals/"
+        }
+      ],
+      "safety": "Use the national legal criteria, not a narrower local provider-list restriction. Do not cancel an existing referral without an agreed handover."
+    }
   },
   {
     "slug": "children-support",
@@ -1695,7 +1999,33 @@
       }
     ],
     "page_type": "clinical review",
-    "emis_template": "emis.html#joint-pain"
+    "emis_template": "emis.html#joint-pain",
+    "guidance_comparison": {
+      "difference": "Safety conflict: suspected joint infection must not be managed by watchful waiting. OA access criteria are a separate difference.",
+      "national": "CKS: immediate specialist assessment if septic arthritis is suspected or cannot be excluded. Do not delay an indicated referral for tests. For OA, NG226 says not to exclude joint-replacement referral solely for its listed personal/BMI factors.",
+      "local": "The local 2025 knee infection column includes bloods, antibiotics and watchful waiting, alongside referral advice elsewhere. That combination must not be used as a community algorithm. Older OA commissioning/BMI gates also differ from NICE and the newer 2026 checklist.",
+      "nlinks": [
+        {
+          "name": "CKS knee: immediate specialist assessment",
+          "url": "https://cks.nice.org.uk/topics/knee-pain-assessment/management/management/"
+        },
+        {
+          "name": "NG226 referral exclusions",
+          "url": "https://www.nice.org.uk/guidance/ng226/chapter/Recommendations#ng226-1_6_3"
+        }
+      ],
+      "llinks": [
+        {
+          "name": "East Sussex MSK publisher index",
+          "url": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/"
+        },
+        {
+          "name": "2026 local hip/knee OA checklist",
+          "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2026/05/Hip-and-knee-OA-checklist-2026.pdf"
+        }
+      ],
+      "safety": "Do not use the PDF infection branch. Immediate specialist referral takes priority; direct clinical quick-link remains withheld."
+    }
   },
   {
     "slug": "fibromyalgia",
