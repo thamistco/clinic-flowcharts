@@ -75,3 +75,10 @@ Added `emis.html`: 56 matching copy-ready blank documentation prompt sets, linke
 Current source conditions and older evidence dates are explicit. Right to Choose requires clinical appropriateness and a qualifying service contract; no wait, GP shared-care acceptance, provider vacancy or financial entitlement is guaranteed. Local course ages/availability vary; provider grants are not personal payments. Carer legal routes and adult/child neurodevelopmental routes are not merged. Joint-pain referral and investigation boundaries remain those in original NICE/CKS sources, not a new scoring system.
 
 - Final currency check also incorporated the BSR PMR treatment guideline published 14 October 2026, replacing the older 2009 BSR/BHPR treatment guideline. Older CKS diagnostic assessment is separated from newer confirmed-PMR specialist-input thresholds; no steroid trial, taper or DMARD regimen is reproduced. Source: https://academic.oup.com/rheumatology/article/65/10/keag502/8914455
+
+
+## 12 November 2026: multiple symptoms and SCA
+
+Added chart5.html#polysymptomatic (adult clinical review aid, not a medically-unexplained-symptom diagnosis) and chart5.html#sca-consultation (separate educational/workflow guide). RCGP official 3-minute reading/12-minute consultation and three domains are distinguished from independent coaching checkpoints and suggested real-clinic admin allowances. GMC contemporaneous-record/referral duties remain explicit. No treatment algorithm, universal blood panel, exercise progression or local service promise is created. NG12 2026 non-site-specific symptom criteria and ME/CFS safeguards are sourced.
+
+Current scope: 59 entries = 48 clinical + 2 support + 1 training/workflow + 8 source-only local; 59 blank documentation/workflow prompts and 94 patient-link placements across 50 clinical/support routes. Corrected fibromyalgia EMIS source footer NG100 to NG193 after reconciling every prompt footer against sources.json. Existing national/local comparisons and eight clinical-PDF quick-link withholds remain. No personal/family data included.
