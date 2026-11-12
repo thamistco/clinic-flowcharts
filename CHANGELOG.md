@@ -20,3 +20,12 @@
 - Eight East Sussex MSK originals retained. Local/national imaging, analgesia and referral differences flagged; no new combined treatment ladder or invented dose advice.
 - All 21 national condition views inspected at 320, 390 and 1280 pixels, source expansions checked for overflow. Directory filters/search and review progress checked.
 - Source/layout review is not clinical validation. Individual Sussex Formulary drug listings not audited. Live sources remain authoritative.
+
+
+## 2026-11-12 - further condition review copies
+
+Added 12 review views with 72 expandable boxes and exact recommendation links in chart2.html. Checked current Recommendations and Update-information pages for NG238, CG113, CG150, NG198, CG61, NG112, NG120, NG114, NG115, NG141, NG91, NG79 and NG153. Publication/headline dates are not substituted for later minor updates. Source boundaries, active older guidelines and differences are explicit in progress.
+
+Verified live BNF atorvastatin, sumatriptan, flucloxacillin, doxycycline and methenamine hippurate monographs, supporting 9 indication-specific adult cards. No paediatric, GAD-specific, preventive migraine or isotretinoin dosing inferred. Prednisolone 30 mg for 5 days is attributed to NICE NG115, not represented as a separate BNF card.
+
+Preserved all earlier charts and local originals. New routes are linked from the searchable directory and progress log. Source and layout checking is not clinical validation.
