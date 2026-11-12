@@ -29,3 +29,15 @@ Added 12 review views with 72 expandable boxes and exact recommendation links in
 Verified live BNF atorvastatin, sumatriptan, flucloxacillin, doxycycline and methenamine hippurate monographs, supporting 9 indication-specific adult cards. No paediatric, GAD-specific, preventive migraine or isotretinoin dosing inferred. Prednisolone 30 mg for 5 days is attributed to NICE NG115, not represented as a separate BNF card.
 
 Preserved all earlier charts and local originals. New routes are linked from the searchable directory and progress log. Source and layout checking is not clinical validation.
+
+
+## 12 November 2026: latest expansion and patient information
+
+- Added 10 condition review charts in `chart3.html`, 63 conditional source-linked boxes. Adult scope and exclusions are explicit. Osteoporosis uses NG259, not replaced CG146; obesity distinguishes product licence/dose, NICE TA criteria and NHS England phased access.
+- Replaced the asthma view with 13 age-specific boxes. Diagnostic age cutoffs differ from treatment cutoffs. No unverified paediatric inhaler dosing.
+- Kept acute/preventive migraine together, added three adult prevention cards, appraisal routes and stopping criteria. Added five GAD option cards; sertraline GAD is explicitly off-label and CKS-supported, not a BNF GAD indication. Rechecked depression sertraline and added mirtazapine.
+- Verified one BNFC mild-croup oral dexamethasone dose. No liquid volumes, unverified maxima or severe-croup repeat doses inferred. Other missing/unverified dose cards were skipped rather than invented.
+- Added NHS patient information to all 43 national-condition review charts and matching directory cards, plus selected verified East Sussex service directories: 48 chart link placements. Content/link check dates and source names are displayed. Local eligibility/availability still needs checking.
+- Inspected but did not add older ESHT croup (steam advice), osteoporosis (obsolete CG146 citation), child-asthma (older licensing) and IV-iron (elapsed review date) leaflets as current patient advice.
+- Source evidence includes NG246, NG259, NG245, NG97, NG9, NG117, CG150, CG113, NG222, NG190, current NICE TAs, BNF/BNFC, CKS, BTS adult bronchiectasis and NHS England commissioning. Exact URLs are in the chart/source directory; source chronology and limitations are on the progress page.
+- Before publication: personal/family-data scan and noreply commit identity required. All 43 chart routes checked at 320/390/1280 pixels with directory and source-disclosure checks. Source/layout checks are not clinical validation.
