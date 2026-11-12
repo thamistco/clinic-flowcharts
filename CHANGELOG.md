@@ -1,3 +1,7 @@
+## 12 November 2026: National / Local comparison tabs
+
+Added source-separated National / Local tabs for 15 entries and their affected authored charts, plus the audit log. Differences and safety/source status stay visible above the tabs. National clinical criteria remain distinct from local commissioning/access; all existing PDF clinical quick-link withholds remain. Patient-support links without a documented guidance difference are not presented as competing guidance. Keyboard arrows/Home/End and active-panel labels are supported. No new clinical algorithms or prescriptions were added.
+
 ## 12 November 2026: full claim-level UK-source audit and fibromyalgia
 
 Added an RCP/NICE adult fibromyalgia review chart, four patient links and matching blank EMIS prompts. Current totals: 57 entries, 47 clinical charts + 2 support pages + 8 source-only local references; 57 EMIS sets, 92 patient-link placements. All authored route claims checked against live linked UK sources. Corrected CKD referral thresholds, knee scope, MART licensing, migraine partial warning list, MHRA decongestant scope, national Right to Choose contract wording, SEN/EHC links and source dates. No external publisher PDF is clinically endorsed. Eight clinical quick-links withheld after conflicts/unverifiable claims; the publisher index and national-source correction log remain. Read progress.html for the route ledger, source failures and limits. This does not establish clinical validation.
