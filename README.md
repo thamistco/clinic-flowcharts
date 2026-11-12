@@ -38,3 +38,10 @@ The shoulder/knee CKS deep pages were successfully checked. Their clinical revis
 The eight local MSK entries retain publisher originals rather than a new combined treatment ladder. Local imaging, generic analgesia, chronic-spine and suspected-cancer routing differences are flagged on [review progress](progress.html), not silently reconciled. Individual Sussex Formulary drug entries are not audited.
 
 Saturday reviews cover every new review copy, update histories, relevant live BNF monographs, local documents and layout/link failures. A failed source check is not unchanged guidance. Recheck live sources at the point of care. Review progress is a source/layout milestone, not clinical approval.
+
+
+## Further review copies: 12 November 2026
+
+Twelve additional six-box views in `chart2.html`: CVD prevention/statins, GAD, headache/migraine, acne, IBS, recurrent UTI prevention, acute cough/bronchitis, COPD exacerbation, cellulitis, under-18 acute otitis media, acute sinusitis and adult impetigo. Total: 33 national review copies plus 8 retained local originals.
+
+These are source-linked review copies, not clinically validated clinical decision tools. Publication and actual update dates, older evidence dates, source-specific scope and key changes are visible. Five live BNF monographs support nine adult indication-specific cards; not all medicines have a dose card. No patient information or owner identity is included. Saturday source reviews include every new route, update history, drug card and explicit failed check. See progress for the differences and deliberate exclusions.
