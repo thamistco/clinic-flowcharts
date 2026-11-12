@@ -471,5 +471,245 @@
     "checked": "2026-11-11",
     "link_check": "Source links checked 11 Nov 2026",
     "review_copy": null
+  },
+  {
+    "slug": "cvd-risk",
+    "name": "CVD prevention and statin review",
+    "code": "NICE NG238",
+    "link": "https://www.nice.org.uk/guidance/ng238",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng238/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/ng238/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#cvd-risk"
+  },
+  {
+    "slug": "anxiety",
+    "name": "Generalised anxiety disorder",
+    "code": "NICE CG113",
+    "link": "https://www.nice.org.uk/guidance/cg113",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/cg113/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#anxiety"
+  },
+  {
+    "slug": "migraine",
+    "name": "Headache assessment and migraine",
+    "code": "NICE CG150",
+    "link": "https://www.nice.org.uk/guidance/cg150",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/cg150/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/cg150/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#migraine"
+  },
+  {
+    "slug": "acne",
+    "name": "Acne vulgaris",
+    "code": "NICE NG198",
+    "link": "https://www.nice.org.uk/guidance/ng198",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng198/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/ng198/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#acne"
+  },
+  {
+    "slug": "ibs",
+    "name": "Irritable bowel syndrome",
+    "code": "NICE CG61",
+    "link": "https://www.nice.org.uk/guidance/cg61",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/cg61/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/cg61/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#ibs"
+  },
+  {
+    "slug": "recurrent-uti",
+    "name": "Recurrent UTI prevention",
+    "code": "NICE NG112",
+    "link": "https://www.nice.org.uk/guidance/ng112",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng112/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/ng112/chapter/Update-information"
+      }
+    ],
+    "category": "Long-term care",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#recurrent-uti"
+  },
+  {
+    "slug": "acute-cough",
+    "name": "Acute cough / acute bronchitis",
+    "code": "NICE NG120",
+    "link": "https://www.nice.org.uk/guidance/ng120",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng120/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/ng120/chapter/Update-information"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#acute-cough"
+  },
+  {
+    "slug": "copd-exacerbation",
+    "name": "COPD exacerbation: community review",
+    "code": "NICE NG114",
+    "link": "https://www.nice.org.uk/guidance/ng114",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng114/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/ng114/chapter/Update-information"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#copd-exacerbation"
+  },
+  {
+    "slug": "cellulitis",
+    "name": "Cellulitis and erysipelas",
+    "code": "NICE NG141",
+    "link": "https://www.nice.org.uk/guidance/ng141",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng141/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/ng141/chapter/Update-information"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#cellulitis"
+  },
+  {
+    "slug": "otitis-media",
+    "name": "Acute otitis media: under 18s",
+    "code": "NICE NG91",
+    "link": "https://www.nice.org.uk/guidance/ng91",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng91/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/ng91/chapter/Update-information"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#otitis-media"
+  },
+  {
+    "slug": "sinusitis",
+    "name": "Acute sinusitis",
+    "code": "NICE NG79",
+    "link": "https://www.nice.org.uk/guidance/ng79",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng79/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/ng79/chapter/Update-information"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#sinusitis"
+  },
+  {
+    "slug": "impetigo",
+    "name": "Impetigo",
+    "code": "NICE NG153",
+    "link": "https://www.nice.org.uk/guidance/ng153",
+    "resources": [
+      {
+        "title": "Recommendations",
+        "url": "https://www.nice.org.uk/guidance/ng153/chapter/Recommendations"
+      },
+      {
+        "title": "Update history",
+        "url": "https://www.nice.org.uk/guidance/ng153/chapter/Update-information"
+      }
+    ],
+    "category": "Acute & other",
+    "link_check": "Recommendations/update history checked 12 Nov 2026",
+    "checked": "2026-11-12",
+    "review_copy": "chart2.html#impetigo"
   }
 ]
