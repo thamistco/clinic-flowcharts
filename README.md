@@ -45,3 +45,14 @@ Saturday reviews cover every new review copy, update histories, relevant live BN
 Twelve additional six-box views in `chart2.html`: CVD prevention/statins, GAD, headache/migraine, acne, IBS, recurrent UTI prevention, acute cough/bronchitis, COPD exacerbation, cellulitis, under-18 acute otitis media, acute sinusitis and adult impetigo. Total: 33 national review copies plus 8 retained local originals.
 
 These are source-linked review copies, not clinically validated clinical decision tools. Publication and actual update dates, older evidence dates, source-specific scope and key changes are visible. Five live BNF monographs support nine adult indication-specific cards; not all medicines have a dose card. No patient information or owner identity is included. Saturday source reviews include every new route, update history, drug card and explicit failed check. See progress for the differences and deliberate exclusions.
+
+
+## Current coverage, 12 November 2026 (latest batch)
+
+43 national-condition review charts plus 8 retained local original entries (51 directory entries). `chart3.html` adds 10 selected new conditions: adult overweight/obesity, insomnia, adult atopic eczema, adult iron deficiency anaemia, osteoporosis risk assessment, adult vaginal discharge, dementia, croup, bronchiolitis and adult non-CF bronchiectasis. Existing asthma now separates diagnostic and treatment age bands. Migraine couples acute and preventive treatment with three adult prevention cards and distinct NICE appraisal routes. GAD adds indication-specific options and flags CKS-supported off-label sertraline separately; depression adds mirtazapine and rechecks sertraline.
+
+Patient information is present on all 43 review charts and their directory cards, with 48 link placements (NHS national pages plus selected local service directories). Dates are link/content checks, not a claim that every local service is available. Older local leaflets with source conflicts or elapsed review dates were not promoted as current advice.
+
+The latest batch contains 16 rechecked/new indication-specific medicine cards (including a replacement sertraline depression card and one BNFC mild-croup card). BNF medicine-indication differences, NICE eligibility and England commissioning differences remain separate. No dose is inferred for other indications or age groups.
+
+Key changes: NG259 replaced CG146 in July 2026; obesity has separate TA1026, TA875, TA664 and TA1152 routes; BNF Wegovy BMI ≥30 dosing now differs from the separate TA1152 CVD ceiling. Current original recommendations take precedence. Detailed omissions and source decisions are on `progress.html` and in each chart. These are not clinically validated prescribing or emergency systems.
