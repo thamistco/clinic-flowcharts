@@ -6,7 +6,7 @@
 - Retrieved 359 source/resource URLs plus chronic-pain assessment/investigations; 149 saved extracts matched after result-number/whitespace normalisation. Current update histories and selected high-risk recommendations were reviewed; other retrievals are not claimed byte-for-byte unchanged.
 - Five CKS 403 fetches recovered in the browser: suspected bronchiectasis, croup currency, mild eczema, knee change history and chronic-pain investigations. Sparse currency/navigation pages remain limited evidence.
 - All eight local MSK PDF downloads exactly match the 12 November copies. Publisher index and NHS England phased-access guidance re-read. Local safety conflicts remain.
-- CKS chronic-pain investigations now readable; clarified the fibromyalgia provenance note and added the original link. Test examples remain from RCP section 2.4. No clinical instruction changed.
+- CKS chronic-pain investigations now readable; clarified the fibromyalgia provenance note and added the original link in the private companion. Test examples remain from RCP section 2.4. No clinical instruction changed.
 - RCGP added October exam results; explicit domain descriptors and format unchanged, including the existing editorial domain-count inconsistency.
 - Published the dated review log separately from the 12 November full clinical-audit dates. This is not clinical validation, exhaustive external-content endorsement or a patient-specific prescribing check.
 
