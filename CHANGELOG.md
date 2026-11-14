@@ -1,5 +1,16 @@
 ## 12 November 2026: National / Local comparison tabs
 
+## 14 November 2026 - Saturday source check
+
+- No new clinical recommendation change identified in the checked material. Clinical boxes, medicine examples, EMIS prompts and all eight local-PDF withholds unchanged.
+- Retrieved 359 source/resource URLs plus chronic-pain assessment/investigations; 149 saved extracts matched after result-number/whitespace normalisation. Current update histories and selected high-risk recommendations were reviewed; other retrievals are not claimed byte-for-byte unchanged.
+- Five CKS 403 fetches recovered in the browser: suspected bronchiectasis, croup currency, mild eczema, knee change history and chronic-pain investigations. Sparse currency/navigation pages remain limited evidence.
+- All eight local MSK PDF downloads exactly match the 12 November copies. Publisher index and NHS England phased-access guidance re-read. Local safety conflicts remain.
+- CKS chronic-pain investigations now readable; clarified the fibromyalgia provenance note and added the original link. Test examples remain from RCP section 2.4. No clinical instruction changed.
+- RCGP added October exam results; explicit domain descriptors and format unchanged, including the existing editorial domain-count inconsistency.
+- Published the dated review log separately from the 12 November full clinical-audit dates. This is not clinical validation, exhaustive external-content endorsement or a patient-specific prescribing check.
+
+
 Added source-separated National / Local tabs for 15 entries and their affected authored charts, plus the audit log. Differences and safety/source status stay visible above the tabs. National clinical criteria remain distinct from local commissioning/access; all existing PDF clinical quick-link withholds remain. Patient-support links without a documented guidance difference are not presented as competing guidance. Keyboard arrows/Home/End and active-panel labels are supported. No new clinical algorithms or prescriptions were added.
 
 ## 12 November 2026: full claim-level UK-source audit and fibromyalgia
