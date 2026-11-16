@@ -1,3 +1,7 @@
+## 16 November 2026: scabies patient and household review
+
+Added chart6.html#scabies and matching blank EMIS prompts. 60 entries (49 clinical + 2 support + 1 training/workflow + 8 source-only local), 60 prompt sets, 95 patient-link placements across 51 clinical/support routes. Covers individual assessment and treatment suitability, household/asymptomatic contacts, dates/supply/help, laundry, contact/school/work advice, post-treatment itch and escalation. Source differences are explicit, especially contact look-back and ivermectin repeat-dose wording. No oral-dose calculator, universal family prescription or copied outbreak protocol. No new local comparison without a documented difference. Existing withholds unchanged. Source access is not clinical validation.
+
 ## 12 November 2026: National / Local comparison tabs
 
 Added source-separated National / Local tabs for 15 entries and their affected authored charts, plus the audit log. Differences and safety/source status stay visible above the tabs. National clinical criteria remain distinct from local commissioning/access; all existing PDF clinical quick-link withholds remain. Patient-support links without a documented guidance difference are not presented as competing guidance. Keyboard arrows/Home/End and active-panel labels are supported. No new clinical algorithms or prescriptions were added.
