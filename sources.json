@@ -313,7 +313,7 @@
         "url": "https://www.nice.org.uk/guidance/ng203/resources/visual-summary-identifying-chronic-kidney-disease-in-adults-pdf-17426025037"
       },
       {
-        "title": "Visual summary: chronic kidney disease stages 4 and 5 \u2013 phosphate binders (PDF 491 KB)",
+        "title": "Visual summary: chronic kidney disease stages 4 and 5 – phosphate binders (PDF 491 KB)",
         "url": "https://www.nice.org.uk/guidance/ng203/resources/visual-summary-chronic-kidney-disease-stages-4-and-5-phosphate-binders-pdf-17426025038"
       }
     ],
@@ -632,7 +632,7 @@
     "guidance_comparison": {
       "difference": "Not every difference is a conflict: newer Achilles rehabilitation complements triage, but older recovery timelines remain unverified.",
       "national": "NG19 acute Charcot: refer within one working day to multidisciplinary foot care for triage within one further working day; offer non-weight-bearing treatment until definitive care. Do not extrapolate a fixed recovery time across diagnoses.",
-      "local": "The local Charcot branch broadly aligns. General ankle-sprain 7\u201315-day and plantar-heel six-month statements could not be verified as national rules. The publisher also lists a 2026 Achilles VACOped rehabilitation protocol, complementing rather than replacing triage.",
+      "local": "The local Charcot branch broadly aligns. General ankle-sprain 7–15-day and plantar-heel six-month statements could not be verified as national rules. The publisher also lists a 2026 Achilles VACOped rehabilitation protocol, complementing rather than replacing triage.",
       "nlinks": [
         {
           "name": "NG19: acute Charcot referral",
@@ -1560,7 +1560,7 @@
   {
     "slug": "autism",
     "name": "Possible autism: referral and support",
-    "code": "NICE CG142 + CG128 \u00b7 England choice",
+    "code": "NICE CG142 + CG128 · England choice",
     "link": "https://www.nice.org.uk/guidance/cg142/chapter/Recommendations",
     "resources": [
       {
@@ -1662,7 +1662,7 @@
   {
     "slug": "adhd",
     "name": "Possible ADHD: referral and shared-care questions",
-    "code": "NICE NG87 \u00b7 England choice",
+    "code": "NICE NG87 · England choice",
     "link": "https://www.nice.org.uk/guidance/ng87/chapter/Recommendations",
     "resources": [
       {
@@ -1761,7 +1761,7 @@
   {
     "slug": "children-support",
     "name": "Children: distressed behaviour and support by age",
-    "code": "Patient/family signposting \u00b7 NICE CG170 + NG87",
+    "code": "Patient/family signposting · NICE CG170 + NG87",
     "link": "https://www.nice.org.uk/guidance/cg170/chapter/recommendations",
     "resources": [
       {
@@ -1840,11 +1840,11 @@
   {
     "slug": "carers-support",
     "name": "Carers: assessments, breaks and practical support",
-    "code": "Patient signposting \u00b7 England / East Sussex",
+    "code": "Patient signposting · England / East Sussex",
     "link": "https://www.carersuk.org/media/dw0carp1/assessments-england_2026-27.pdf",
     "resources": [
       {
-        "title": "Carers UK 2026\u201327 England assessment factsheet",
+        "title": "Carers UK 2026–27 England assessment factsheet",
         "url": "https://www.carersuk.org/media/dw0carp1/assessments-england_2026-27.pdf"
       },
       {
@@ -1926,7 +1926,7 @@
   {
     "slug": "joint-pain",
     "name": "Joint pain: patterns, red flags and referral",
-    "code": "NICE NG100 + NG65 + NG219 + NG226 \u00b7 CKS",
+    "code": "NICE NG100 + NG65 + NG219 + NG226 · CKS",
     "link": "https://www.nice.org.uk/guidance/ng100/chapter/Recommendations",
     "resources": [
       {
@@ -2030,7 +2030,7 @@
   {
     "slug": "fibromyalgia",
     "name": "Fibromyalgia: diagnosis, support and review",
-    "code": "RCP UK 2022 \u00b7 NICE NG193 \u00b7 CKS",
+    "code": "RCP UK 2022 · NICE NG193 · CKS",
     "link": "https://www.nice.org.uk/guidance/ng193/chapter/Recommendations",
     "resources": [
       {
@@ -2086,7 +2086,7 @@
   {
     "slug": "polysymptomatic",
     "name": "The polysymptomatic patient: assess, prioritise, review",
-    "code": "NHS \u00b7 NICE NG56 / NG193 / NG206 / NG12 \u00b7 GMC",
+    "code": "NHS · NICE NG56 / NG193 / NG206 / NG12 · GMC",
     "link": "https://www.nhs.uk/conditions/medically-unexplained-symptoms/",
     "resources": [
       {
@@ -2136,7 +2136,7 @@
   {
     "slug": "sca-consultation",
     "name": "SCA consultation and real-world admin",
-    "code": "RCGP SCA \u00b7 GMC \u00b7 suggested practice rhythm",
+    "code": "RCGP SCA · GMC · suggested practice rhythm",
     "link": "https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/marking-and-results",
     "resources": [
       {
@@ -2160,7 +2160,7 @@
         "url": "https://www.rcgp.org.uk/mrcgp-exams/simulated-consultation-assessment/Toolkit-clinical-management"
       },
       {
-        "title": "GMC Good medical practice 69\u201371: contemporaneous records",
+        "title": "GMC Good medical practice 69–71: contemporaneous records",
         "url": "https://www.gmc-uk.org/cdn/documents/good-medical-practice-2024---english_pdf-102607294.pdf"
       },
       {
@@ -2179,5 +2179,70 @@
     "patient_information": [],
     "page_type": "training / workflow",
     "emis_template": "emis.html#sca-consultation"
+  },
+  {
+    "slug": "scabies",
+    "name": "Scabies: patient and household",
+    "code": "NICE CKS · BASHH · NHS · BNF · UKHSA",
+    "link": "https://cks.nice.org.uk/topics/scabies/management/management-of-scabies/",
+    "resources": [
+      {
+        "title": "NICE CKS: management, revised September 2025",
+        "url": "https://cks.nice.org.uk/topics/scabies/management/management-of-scabies/"
+      },
+      {
+        "title": "NICE CKS: recognition and diagnosis",
+        "url": "https://cks.nice.org.uk/topics/scabies/diagnosis/diagnosis/"
+      },
+      {
+        "title": "NICE CKS: changes and evidence dates",
+        "url": "https://cks.nice.org.uk/topics/scabies/how-up-to-date-is-this-topic/changes/"
+      },
+      {
+        "title": "BNF: permethrin, scabies indication",
+        "url": "https://bnf.nice.org.uk/drugs/permethrin/"
+      },
+      {
+        "title": "BNF: ivermectin, oral scabies indication",
+        "url": "https://bnf.nice.org.uk/drugs/ivermectin/"
+      },
+      {
+        "title": "CKS: oral ivermectin prescribing and restrictions",
+        "url": "https://cks.nice.org.uk/topics/scabies/prescribing-information/ivermectin/"
+      },
+      {
+        "title": "BASHH UK scabies guideline 2025, age 13+ sexual-health scope",
+        "url": "https://www.bashh.org/_userfiles/pages/files/morrisetal2025britishassociationforsexualhealthandhivnationalguidelineonthemanagementofscabiesin_1.pdf"
+      },
+      {
+        "title": "UKHSA communal-residential cases/outbreaks, updated 29 April 2026",
+        "url": "https://www.gov.uk/government/publications/scabies-management-advice-for-health-professionals/ukhsa-guidance-on-the-management-of-scabies-cases-and-outbreaks-in-long-term-care-facilities-and-other-closed-settings"
+      },
+      {
+        "title": "NHS: scabies, household and practical advice",
+        "url": "https://www.nhs.uk/conditions/scabies/"
+      },
+      {
+        "title": "Permethrin 5% cream: example product SmPC, updated 30 June 2025",
+        "url": "https://www.medicines.org.uk/emc/product/15508/smpc"
+      },
+      {
+        "title": "NHS England October 2026 pharmacy prescribing pathway: narrower scope",
+        "url": "https://www.england.nhs.uk/wp-content/uploads/2026/10/prn02557-viii-pharmacy-first-scabies-prescribing-pathway.pdf"
+      }
+    ],
+    "category": "Acute & other",
+    "checked": "2026-11-16",
+    "link_check": "Scabies source content, conflicts and scope checked 16 Nov 2026; review copy, not clinical validation",
+    "review_copy": "chart6.html#scabies",
+    "patient_information": [
+      {
+        "name": "NHS: scabies, household treatment and practical advice",
+        "url": "https://www.nhs.uk/conditions/scabies/",
+        "checked": "16 November 2026"
+      }
+    ],
+    "page_type": "clinical review",
+    "emis_template": "emis.html#scabies"
   }
 ]
