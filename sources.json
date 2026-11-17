@@ -305,7 +305,7 @@
   {
     "slug": "ckd",
     "name": "Chronic kidney disease",
-    "code": "NICE NG203",
+    "code": "NICE NG203 + NG238",
     "link": "https://www.nice.org.uk/guidance/ng203",
     "resources": [
       {
@@ -315,11 +315,15 @@
       {
         "title": "Visual summary: chronic kidney disease stages 4 and 5 – phosphate binders (PDF 491 KB)",
         "url": "https://www.nice.org.uk/guidance/ng203/resources/visual-summary-chronic-kidney-disease-stages-4-and-5-phosphate-binders-pdf-17426025038"
+      },
+      {
+        "title": "NICE NG238: CVD risk assessment and reduction, including lipid modification (statin section 1.8)",
+        "url": "https://www.nice.org.uk/guidance/ng238"
       }
     ],
     "category": "Long-term care",
-    "link_check": "Selected clinical claims and UK source scope audited 12 Nov 2026; not clinical validation",
-    "checked": "2026-11-12",
+    "link_check": "Statin omission corrected; full clinical accuracy and omission re-audit 17 Nov 2026; not clinical validation",
+    "checked": "2026-11-17",
     "review_copy": "chart.html#ckd",
     "patient_information": [
       {
