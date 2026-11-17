@@ -1,3 +1,7 @@
+## 17 November 2026: CKD statin omission corrected; whole-site re-audit started
+
+User-reported omission confirmed: the CKD chart had no lipid management. Added a statin box from NICE NG238 section 1.8 (offer atorvastatin 20 mg for primary or secondary CVD prevention in CKD; increase dose if target not met and eGFR 30 or more; renal-specialist agreement for higher doses below 30; no CVD risk tool per 1.1.9; renal replacement therapy outside scope). NG203 itself carries no statin recommendation. Matching blank EMIS prompt line, directory card, source record and progress log updated. A full accuracy-and-omission re-audit of every review route is now running and is logged on progress.html. Source-checked, not clinical validation.
+
 ## 16 November 2026: scabies patient and household review
 
 Added chart6.html#scabies and matching blank EMIS prompts. 60 entries (49 clinical + 2 support + 1 training/workflow + 8 source-only local), 60 prompt sets, 95 patient-link placements across 51 clinical/support routes. Covers individual assessment and treatment suitability, household/asymptomatic contacts, dates/supply/help, laundry, contact/school/work advice, post-treatment itch and escalation. Source differences are explicit, especially contact look-back and ivermectin repeat-dose wording. No oral-dose calculator, universal family prescription or copied outbreak protocol. No new local comparison without a documented difference. Existing withholds unchanged. Source access is not clinical validation.
