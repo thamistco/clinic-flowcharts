@@ -22,7 +22,7 @@
    }
   ],
   "emis_template": null,
-  "status": "withheld pending re-checking"
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "uti",
@@ -1099,7 +1099,7 @@
    }
   ],
   "emis_template": null,
-  "status": "withheld pending re-checking"
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "recurrent-uti",
@@ -1390,7 +1390,7 @@
    }
   ],
   "emis_template": null,
-  "status": "withheld pending re-checking"
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "anaemia",
@@ -1444,7 +1444,7 @@
    }
   ],
   "emis_template": null,
-  "status": "withheld pending re-checking"
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "vaginal-discharge",
@@ -2885,4 +2885,4 @@
   "emis_template": null,
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  }
-    ]
+]
