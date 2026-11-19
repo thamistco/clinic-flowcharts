@@ -978,7 +978,7 @@
    }
   ],
   "emis_template": null,
-  "status": "withheld pending re-checking"
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "anxiety",
@@ -1361,7 +1361,7 @@
    }
   ],
   "emis_template": null,
-  "status": "withheld pending re-checking"
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "eczema",
@@ -1419,7 +1419,7 @@
    }
   ],
   "emis_template": null,
-  "status": "withheld pending re-checking"
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "osteoporosis",
@@ -2318,7 +2318,7 @@
    }
   ],
   "emis_template": null,
-  "status": "withheld pending re-checking"
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "headache",
@@ -2885,4 +2885,4 @@
   "emis_template": null,
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  }
-]
+  ]
