@@ -1,3 +1,7 @@
+## 19 November 2026: four more re-checked charts restored
+
+Sore throat, irritable bowel syndrome, eczema and osteoporosis chart sections restored after correction work and an independent automated value-by-value check against the cited sources on 19 November 2026. 62 chart sections restored; 4 charts (anxiety, bronchiolitis, polysymptomatic, SCA consultation) and the EMIS prompt library remain withheld with their official source links. Stylesheet links cache-busted. Automated source checks only, not clinical validation.
+
 ## 19 November 2026: four re-checked charts restored
 
 Pain management, CVD risk, anaemia and insomnia chart sections restored after correction work and an independent automated value-by-value check against the cited sources on 19 November 2026. 58 chart sections restored; 8 charts (sore throat, anxiety, IBS, eczema, osteoporosis, bronchiolitis, polysymptomatic, SCA consultation) and the EMIS prompt library remain withheld with their official source links. The progress page's review-history wording was corrected to state the checks were automated, with no qualified human reviewer. Stylesheet links cache-busted. Automated source checks only, not clinical validation.
