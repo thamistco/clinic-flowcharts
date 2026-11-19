@@ -11,9 +11,9 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart.html#sore-throat",
   "patient_information": [
    {
     "name": "NHS: Sore throat",
@@ -21,7 +21,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#sore-throat",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -36,8 +36,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#uti",
   "patient_information": [
    {
@@ -46,7 +46,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#uti",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -73,8 +73,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#cough",
   "patient_information": [
    {
@@ -83,7 +83,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#cough",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -98,9 +98,9 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": "hypertension.html",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "hypertension.html#hypertension",
   "patient_information": [
    {
     "name": "NHS: High blood pressure",
@@ -108,7 +108,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#hypertension",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -139,8 +139,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#asthma",
   "patient_information": [
    {
@@ -149,7 +149,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#asthma",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -168,8 +168,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#t2dm",
   "patient_information": [
    {
@@ -178,7 +178,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#t2dm",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -188,8 +188,8 @@
   "link": "https://www.nice.org.uk/guidance/cg184",
   "resources": [],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#dyspepsia",
   "patient_information": [
    {
@@ -198,7 +198,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#dyspepsia",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -208,8 +208,8 @@
   "link": "https://www.nice.org.uk/guidance/ng59",
   "resources": [],
   "category": "MSK",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#back-pain",
   "patient_information": [
    {
@@ -218,7 +218,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#back-pain",
   "guidance_comparison": {
    "status": "withheld",
    "notice": "The national and local sources for this topic differ and the comparison has not been reconciled. Detailed comparison wording is withheld pending independent qualified clinical review. No qualified human clinical review or sign-off has occurred. Use the original sources linked here.",
@@ -248,8 +248,8 @@
   "link": "https://www.nice.org.uk/guidance/ng143",
   "resources": [],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#fever-child",
   "patient_information": [
    {
@@ -258,7 +258,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#fever-child",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -273,8 +273,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#af",
   "patient_information": [
    {
@@ -283,7 +283,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#af",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -298,8 +298,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#copd",
   "patient_information": [
    {
@@ -308,7 +308,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#copd",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -331,8 +331,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-17",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#ckd",
   "patient_information": [
    {
@@ -341,7 +341,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#ckd",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -351,8 +351,8 @@
   "link": "https://cosrh.org/Common/Uploaded%20files/documents/UKMEC_2025.pdf",
   "resources": [],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#contraception",
   "patient_information": [
    {
@@ -361,7 +361,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#contraception",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -376,8 +376,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#menopause",
   "patient_information": [
    {
@@ -386,7 +386,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#menopause",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -405,8 +405,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#heart-failure",
   "patient_information": [
    {
@@ -415,7 +415,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#heart-failure",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -430,8 +430,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#thyroid",
   "patient_information": [
    {
@@ -445,7 +445,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#thyroid",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -455,8 +455,8 @@
   "link": "https://www.nice.org.uk/guidance/ng222/",
   "resources": [],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#depression",
   "patient_information": [
    {
@@ -470,7 +470,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#depression",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -485,8 +485,8 @@
    }
   ],
   "category": "MSK",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#osteoarthritis",
   "patient_information": [
    {
@@ -495,7 +495,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#osteoarthritis",
   "guidance_comparison": {
    "status": "withheld",
    "notice": "The national and local sources for this topic differ and the comparison has not been reconciled. Detailed comparison wording is withheld pending independent qualified clinical review. No qualified human clinical review or sign-off has occurred. Use the original sources linked here.",
@@ -534,8 +534,8 @@
    }
   ],
   "category": "MSK",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#gout",
   "patient_information": [
    {
@@ -544,7 +544,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#gout",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -554,8 +554,8 @@
   "link": "https://cks.nice.org.uk/topics/shoulder-pain/diagnosis/",
   "resources": [],
   "category": "MSK",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#shoulder",
   "patient_information": [
    {
@@ -564,7 +564,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#shoulder",
   "guidance_comparison": {
    "status": "withheld",
    "notice": "The national and local sources for this topic differ and the comparison has not been reconciled. Detailed comparison wording is withheld pending independent qualified clinical review. No qualified human clinical review or sign-off has occurred. Use the original sources linked here.",
@@ -590,8 +590,8 @@
   "link": "https://cks.nice.org.uk/topics/knee-pain-assessment/management/",
   "resources": [],
   "category": "MSK",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart.html#knee",
   "patient_information": [
    {
@@ -600,7 +600,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#knee",
   "guidance_comparison": {
    "status": "withheld",
    "notice": "The national and local sources for this topic differ and the comparison has not been reconciled. Detailed comparison wording is withheld pending independent qualified clinical review. No qualified human clinical review or sign-off has occurred. Use the original sources linked here.",
@@ -634,10 +634,10 @@
   "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
   "resources": [],
   "category": "MSK",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": null,
-  "emis_template": null,
+  "emis_template": "emis.html#local-foot-ankle",
   "withheld_resources": [
    {
     "title": "Clinical Guidelines - Foot & Ankle - Updated July 2025",
@@ -662,7 +662,7 @@
     }
    ]
   },
-  "status": "source directory only"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
  },
  {
   "slug": "local-hand-wrist",
@@ -671,10 +671,10 @@
   "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
   "resources": [],
   "category": "MSK",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": null,
-  "emis_template": null,
+  "emis_template": "emis.html#local-hand-wrist",
   "withheld_resources": [
    {
     "title": "Clinical Guidelines - Hand & Wrist - Updated July 2025",
@@ -707,7 +707,7 @@
     }
    ]
   },
-  "status": "source directory only"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
  },
  {
   "slug": "local-hip",
@@ -716,10 +716,10 @@
   "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
   "resources": [],
   "category": "MSK",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": null,
-  "emis_template": null,
+  "emis_template": "emis.html#local-hip",
   "withheld_resources": [
    {
     "title": "Clinical Guidelines - Hip - Updated July 2025",
@@ -748,7 +748,7 @@
     }
    ]
   },
-  "status": "source directory only"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
  },
  {
   "slug": "local-knee",
@@ -757,10 +757,10 @@
   "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
   "resources": [],
   "category": "MSK",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": null,
-  "emis_template": null,
+  "emis_template": "emis.html#local-knee",
   "withheld_resources": [
    {
     "title": "Clinical Guidelines - Knee - Updated July 2025",
@@ -793,7 +793,7 @@
     }
    ]
   },
-  "status": "source directory only"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
  },
  {
   "slug": "local-shoulder-elbow",
@@ -802,10 +802,10 @@
   "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
   "resources": [],
   "category": "MSK",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": null,
-  "emis_template": null,
+  "emis_template": "emis.html#local-shoulder-elbow",
   "withheld_resources": [
    {
     "title": "Clinical Guidelines - Shoulder & Elbow - Updated July 2025",
@@ -830,7 +830,7 @@
     }
    ]
   },
-  "status": "source directory only"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
  },
  {
   "slug": "local-spine",
@@ -839,10 +839,10 @@
   "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
   "resources": [],
   "category": "MSK",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": null,
-  "emis_template": null,
+  "emis_template": "emis.html#local-spine",
   "withheld_resources": [
    {
     "title": "Clinical Guidelines - Spine - Updated July 2025",
@@ -871,7 +871,7 @@
     }
    ]
   },
-  "status": "source directory only"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
  },
  {
   "slug": "local-lumps-bumps",
@@ -880,10 +880,10 @@
   "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
   "resources": [],
   "category": "MSK",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": null,
-  "emis_template": null,
+  "emis_template": "emis.html#local-lumps-bumps",
   "withheld_resources": [
    {
     "title": "Clinical Guidelines - Lumps & Bumps - Updated July 2025",
@@ -908,7 +908,7 @@
     }
    ]
   },
-  "status": "source directory only"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
  },
  {
   "slug": "local-physiotherapy",
@@ -917,10 +917,10 @@
   "link": "https://eastsussexmsk.nhs.uk/esmskclinicalguidelines/",
   "resources": [],
   "category": "MSK",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": null,
-  "emis_template": null,
+  "emis_template": "emis.html#local-physiotherapy",
   "withheld_resources": [
    {
     "title": "Clinical Guidelines - Physiotherapy - Updated December 2024",
@@ -949,7 +949,7 @@
     }
    ]
   },
-  "status": "source directory only"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
  },
  {
   "slug": "cvd-risk",
@@ -967,9 +967,9 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart2.html#cvd-risk",
   "patient_information": [
    {
     "name": "NHS: Cardiovascular disease",
@@ -977,7 +977,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#cvd-risk",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -996,23 +996,23 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart2.html#anxiety",
   "patient_information": [
    {
     "name": "NHS: Generalised anxiety disorder (GAD)",
     "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
-    "checked": "12 November 2026"
+    "checked": "19 November 2026"
    },
    {
-    "name": "Local: East Sussex mental health directory (services and support)",
+    "name": "Local: East Sussex mental health directory (area-specific)",
     "url": "https://www.eastsussex.gov.uk/social-care/health-advice/mental-health/east-sussex-mental-health-directory",
-    "checked": "12 November 2026"
+    "checked": "19 November 2026"
    }
   ],
-  "emis_template": null,
-  "status": "withheld pending re-checking"
+  "emis_template": "emis.html#anxiety",
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "migraine",
@@ -1030,8 +1030,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart2.html#migraine",
   "patient_information": [
    {
@@ -1040,7 +1040,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#migraine",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1059,8 +1059,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart2.html#acne",
   "patient_information": [
    {
@@ -1069,7 +1069,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#acne",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1088,9 +1088,9 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart2.html#ibs",
   "patient_information": [
    {
     "name": "NHS: Irritable bowel syndrome (IBS)",
@@ -1098,7 +1098,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#ibs",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1117,8 +1117,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart2.html#recurrent-uti",
   "patient_information": [
    {
@@ -1127,7 +1127,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#recurrent-uti",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1146,8 +1146,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart2.html#acute-cough",
   "patient_information": [
    {
@@ -1156,7 +1156,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#acute-cough",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1175,8 +1175,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart2.html#copd-exacerbation",
   "patient_information": [
    {
@@ -1185,7 +1185,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#copd-exacerbation",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1204,8 +1204,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart2.html#cellulitis",
   "patient_information": [
    {
@@ -1214,7 +1214,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#cellulitis",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1233,8 +1233,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart2.html#otitis-media",
   "patient_information": [
    {
@@ -1243,7 +1243,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#otitis-media",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1262,8 +1262,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart2.html#sinusitis",
   "patient_information": [
    {
@@ -1272,7 +1272,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#sinusitis",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1291,8 +1291,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart2.html#impetigo",
   "patient_information": [
    {
@@ -1301,7 +1301,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#impetigo",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1320,8 +1320,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart3.html#obesity",
   "patient_information": [
    {
@@ -1335,7 +1335,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#obesity",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1350,9 +1350,9 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart3.html#insomnia",
   "patient_information": [
    {
     "name": "NHS: Insomnia",
@@ -1360,7 +1360,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#insomnia",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1379,9 +1379,9 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart3.html#eczema",
   "patient_information": [
    {
     "name": "NHS: Atopic eczema",
@@ -1389,7 +1389,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#eczema",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1408,9 +1408,9 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart3.html#anaemia",
   "patient_information": [
    {
     "name": "NHS: Iron deficiency anaemia",
@@ -1418,7 +1418,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#anaemia",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1433,9 +1433,9 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart3.html#osteoporosis",
   "patient_information": [
    {
     "name": "NHS: Osteoporosis",
@@ -1443,7 +1443,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#osteoporosis",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1458,8 +1458,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart3.html#vaginal-discharge",
   "patient_information": [
    {
@@ -1468,7 +1468,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#vaginal-discharge",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1483,8 +1483,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart3.html#dementia",
   "patient_information": [
    {
@@ -1498,7 +1498,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#dementia",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1517,8 +1517,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart3.html#croup",
   "patient_information": [
    {
@@ -1527,7 +1527,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#croup",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1542,18 +1542,18 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart3.html#bronchiolitis",
   "patient_information": [
    {
     "name": "NHS: Bronchiolitis",
     "url": "https://www.nhs.uk/conditions/bronchiolitis/",
-    "checked": "12 November 2026"
+    "checked": "19 November 2026"
    }
   ],
-  "emis_template": null,
-  "status": "withheld pending re-checking"
+  "emis_template": "emis.html#bronchiolitis",
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "bronchiectasis",
@@ -1575,8 +1575,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart3.html#bronchiectasis",
   "patient_information": [
    {
@@ -1585,7 +1585,7 @@
     "checked": "12 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#bronchiectasis",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1620,8 +1620,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart4.html#autism",
   "patient_information": [
    {
@@ -1666,7 +1666,7 @@
    }
   ],
   "page_type": "clinical review",
-  "emis_template": null,
+  "emis_template": "emis.html#autism",
   "guidance_comparison": {
    "status": "withheld",
    "notice": "The national and local sources for this topic differ and the comparison has not been reconciled. Detailed comparison wording is withheld pending independent qualified clinical review. No qualified human clinical review or sign-off has occurred. Use the original sources linked here.",
@@ -1713,8 +1713,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart4.html#adhd",
   "patient_information": [
    {
@@ -1764,7 +1764,7 @@
    }
   ],
   "page_type": "clinical review",
-  "emis_template": null,
+  "emis_template": "emis.html#adhd",
   "guidance_comparison": {
    "status": "withheld",
    "notice": "The national and local sources for this topic differ and the comparison has not been reconciled. Detailed comparison wording is withheld pending independent qualified clinical review. No qualified human clinical review or sign-off has occurred. Use the original sources linked here.",
@@ -1823,8 +1823,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart4.html#children-support",
   "patient_information": [
    {
@@ -1864,7 +1864,7 @@
    }
   ],
   "page_type": "patient signposting",
-  "emis_template": null,
+  "emis_template": "emis.html#children-support",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1895,8 +1895,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart4.html#carers-support",
   "patient_information": [
    {
@@ -1951,7 +1951,7 @@
    }
   ],
   "page_type": "patient signposting",
-  "emis_template": null,
+  "emis_template": "emis.html#carers-support",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -1994,8 +1994,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-12",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart4.html#joint-pain",
   "patient_information": [
    {
@@ -2030,7 +2030,7 @@
    }
   ],
   "page_type": "clinical review",
-  "emis_template": null,
+  "emis_template": "emis.html#joint-pain",
   "guidance_comparison": {
    "status": "withheld",
    "notice": "The national and local sources for this topic differ and the comparison has not been reconciled. Detailed comparison wording is withheld pending independent qualified clinical review. No qualified human clinical review or sign-off has occurred. Use the original sources linked here.",
@@ -2085,8 +2085,8 @@
    }
   ],
   "category": "Long-term care",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": "chart4.html#fibromyalgia",
   "patient_information": [
    {
@@ -2111,7 +2111,7 @@
    }
   ],
   "page_type": "clinical review",
-  "emis_template": null,
+  "emis_template": "emis.html#fibromyalgia",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2146,24 +2146,24 @@
    }
   ],
   "category": "Acute & other",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "review_copy": null,
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "review_copy": "chart5.html#polysymptomatic",
   "patient_information": [
    {
-    "name": "NHS: medically unexplained symptoms (only if relevant after assessment)",
+    "name": "NHS: Medically unexplained symptoms (only if relevant after assessment)",
     "url": "https://www.nhs.uk/conditions/medically-unexplained-symptoms/",
-    "checked": "12 November 2026"
+    "checked": "19 November 2026"
    },
    {
-    "name": "NICE: making decisions about medicines in multimorbidity (when applicable)",
+    "name": "NICE: Making decisions about your medicines in multimorbidity (when applicable)",
     "url": "https://www.nice.org.uk/guidance/ng56/ifp/chapter/Help-with-making-decisions",
-    "checked": "12 November 2026"
+    "checked": "19 November 2026"
    }
   ],
   "page_type": "clinical review",
-  "emis_template": null,
-  "status": "withheld pending re-checking"
+  "emis_template": "emis.html#polysymptomatic",
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "sca-consultation",
@@ -2205,13 +2205,13 @@
    }
   ],
   "category": "Consultation skills",
-  "checked": "2026-11-12",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "review_copy": null,
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "review_copy": "chart5.html#sca-consultation",
   "patient_information": [],
   "page_type": "training / workflow",
-  "emis_template": null,
-  "status": "withheld pending re-checking"
+  "emis_template": "emis.html#sca-consultation",
+  "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
   "slug": "scabies",
@@ -2265,8 +2265,8 @@
    }
   ],
   "category": "Acute & other",
-  "checked": "2026-11-16",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
+  "checked": "2026-11-19",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "review_copy": "chart6.html#scabies",
   "patient_information": [
    {
@@ -2276,7 +2276,7 @@
    }
   ],
   "page_type": "clinical review",
-  "emis_template": null,
+  "emis_template": "emis.html#scabies",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2307,9 +2307,9 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
-  "review_copy": null,
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
+  "review_copy": "chart7.html#pain-management",
   "patient_information": [
    {
     "name": "NHS: chronic pain",
@@ -2317,7 +2317,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#pain-management",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2348,8 +2348,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart7.html#headache",
   "patient_information": [
    {
@@ -2363,7 +2363,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#headache",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2390,8 +2390,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart7.html#palpitations",
   "patient_information": [
    {
@@ -2400,7 +2400,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#palpitations",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2431,8 +2431,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart7.html#falls",
   "patient_information": [
    {
@@ -2441,7 +2441,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#falls",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2472,8 +2472,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart7.html#tinnitus",
   "patient_information": [
    {
@@ -2482,7 +2482,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#tinnitus",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2513,8 +2513,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart7.html#abdominal-pain",
   "patient_information": [
    {
@@ -2523,7 +2523,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#abdominal-pain",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2554,8 +2554,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart7.html#mental-health-review",
   "patient_information": [
    {
@@ -2569,7 +2569,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#mental-health-review",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2596,8 +2596,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart8.html#haemorrhoids",
   "patient_information": [
    {
@@ -2611,7 +2611,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#haemorrhoids",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2642,8 +2642,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart8.html#anal-fissure",
   "patient_information": [
    {
@@ -2657,7 +2657,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#anal-fissure",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2688,8 +2688,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart8.html#skin-lesion",
   "patient_information": [
    {
@@ -2708,7 +2708,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#skin-lesion",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2739,8 +2739,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart8.html#hyponatraemia",
   "patient_information": [
    {
@@ -2749,7 +2749,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#hyponatraemia",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2780,8 +2780,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart8.html#trigeminal-neuralgia",
   "patient_information": [
    {
@@ -2790,7 +2790,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#trigeminal-neuralgia",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2821,8 +2821,8 @@
    }
   ],
   "category": "Long-term care",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart8.html#opioid-tapering",
   "patient_information": [
    {
@@ -2831,7 +2831,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#opioid-tapering",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
  {
@@ -2862,8 +2862,8 @@
    }
   ],
   "category": "Acute & other",
-  "link_check": "Selected clinical claims and UK source scope checked by automated comparison; not clinical validation",
-  "checked": "2026-11-18",
+  "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
+  "checked": "2026-11-19",
   "review_copy": "chart8.html#hair-loss",
   "patient_information": [
    {
@@ -2882,7 +2882,7 @@
     "checked": "18 November 2026"
    }
   ],
-  "emis_template": null,
+  "emis_template": "emis.html#hair-loss",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  }
 ]
