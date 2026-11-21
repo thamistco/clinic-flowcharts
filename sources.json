@@ -3018,7 +3018,13 @@
   "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "checked": "2026-11-19",
   "review_copy": "chart8.html#hyponatraemia",
-  "patient_information": [],
+  "patient_information": [
+   {
+    "name": "Patient.info (non-NHS): Hyponatraemia (low blood sodium) leaflet",
+    "url": "https://patient.info/treatment-medication/hyponatraemia-leaflet",
+    "checked": "21 November 2026"
+   }
+  ],
   "emis_template": "emis.html#hyponatraemia",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
