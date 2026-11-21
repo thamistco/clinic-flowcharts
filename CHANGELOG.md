@@ -1,3 +1,7 @@
+## 21 November 2026: site organisation and flowchart design
+
+Presentation and navigation only; no clinical wording changed. Pathways are grouped into 14 clinical areas in the directory, with area filters, a search box on every page, breadcrumbs and "More in this area" links on each pathway. Flowcharts are a single numbered top-to-bottom stepper (previously a three-column grid), with a sticky step outline beside them on wide screens and long step text split into paragraphs at sentence boundaries. The safety banner and "How to read" note are compact and expandable. Automated checks only: axe 0 violations, no overflow at 320 px, internal links resolve, step text identical to before.
+
 ## 19 November 2026: four more re-checked charts restored
 
 Sore throat, irritable bowel syndrome, eczema and osteoporosis chart sections restored after correction work and an independent automated value-by-value check against the cited sources on 19 November 2026. 62 chart sections restored; 4 charts (anxiety, bronchiolitis, polysymptomatic, SCA consultation) and the EMIS prompt library remain withheld with their official source links. Stylesheet links cache-busted. Automated source checks only, not clinical validation.
