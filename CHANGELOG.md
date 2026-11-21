@@ -1,3 +1,7 @@
+## 21 November 2026: condition-specific EMIS consultation templates (first 32)
+
+32 EMIS templates rewritten as condition-specific consultation templates: natural spoken must-ask questions with blank Y / N answers (nothing pre-filled), emergency and red-flag blocks with the action to take, condition scores where used (e.g. FeverPAIN, CRB65), plan prompts and a spoken safety-netting script. Every question and safety-net line is drawn from the site's checked pathway steps or a NICE/NHS page opened on 21 November 2026, listed under SOURCES in each template. The remaining templates keep their previous generic prompts until rewritten. AI-assisted; not clinically signed off.
+
 ## 21 November 2026: site organisation and flowchart design
 
 Presentation and navigation only; no clinical wording changed. Pathways are grouped into 14 clinical areas in the directory, with area filters, a search box on every page, breadcrumbs and "More in this area" links on each pathway. Flowcharts are a single numbered top-to-bottom stepper (previously a three-column grid), with a sticky step outline beside them on wide screens and long step text split into paragraphs at sentence boundaries. The safety banner and "How to read" note are compact and expandable. Automated checks only: axe 0 violations, no overflow at 320 px, internal links resolve, step text identical to before.
