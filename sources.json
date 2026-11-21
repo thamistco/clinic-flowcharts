@@ -662,7 +662,8 @@
     }
    ]
   },
-  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
+  "patient_information": []
  },
  {
   "slug": "local-hand-wrist",
@@ -707,7 +708,8 @@
     }
    ]
   },
-  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
+  "patient_information": []
  },
  {
   "slug": "local-hip",
@@ -748,7 +750,8 @@
     }
    ]
   },
-  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
+  "patient_information": []
  },
  {
   "slug": "local-knee",
@@ -793,7 +796,8 @@
     }
    ]
   },
-  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
+  "patient_information": []
  },
  {
   "slug": "local-shoulder-elbow",
@@ -830,7 +834,8 @@
     }
    ]
   },
-  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
+  "patient_information": []
  },
  {
   "slug": "local-spine",
@@ -871,7 +876,8 @@
     }
    ]
   },
-  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
+  "patient_information": []
  },
  {
   "slug": "local-lumps-bumps",
@@ -908,7 +914,8 @@
     }
    ]
   },
-  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
+  "patient_information": []
  },
  {
   "slug": "local-physiotherapy",
@@ -949,7 +956,8 @@
     }
    ]
   },
-  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart"
+  "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
+  "patient_information": []
  },
  {
   "slug": "cvd-risk",
@@ -2312,9 +2320,9 @@
   "review_copy": "chart7.html#pain-management",
   "patient_information": [
    {
-    "name": "NHS: chronic pain",
-    "url": "https://www.nhs.uk/conditions/chronic-pain/",
-    "checked": "18 November 2026"
+    "name": "NHS: How to get NHS help for your pain",
+    "url": "https://www.nhs.uk/live-well/pain/how-to-get-nhs-help-for-your-pain/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#pain-management",
@@ -2564,9 +2572,9 @@
     "checked": "18 November 2026"
    },
    {
-    "name": "NHS: how to access mental health services",
-    "url": "https://www.nhs.uk/nhs-services/mental-health-services/how-to-access-mental-health-services/",
-    "checked": "18 November 2026"
+    "name": "NHS: How to access mental health services",
+    "url": "https://www.nhs.uk/mental-health/social-care-and-your-rights/how-to-access-mental-health-services/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#mental-health-review",
@@ -2652,9 +2660,9 @@
     "checked": "18 November 2026"
    },
    {
-    "name": "NHS: GTN ointment for anal fissure",
-    "url": "https://www.nhs.uk/medicines/glyceryl-trinitrate-for-anal-fissure/",
-    "checked": "18 November 2026"
+    "name": "NHS: Glyceryl trinitrate (GTN)",
+    "url": "https://www.nhs.uk/medicines/glyceryl-trinitrate-gtn/about-glyceryl-trinitrate-gtn/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#anal-fissure",
@@ -2698,14 +2706,14 @@
     "checked": "18 November 2026"
    },
    {
-    "name": "NHS: melanoma skin cancer",
-    "url": "https://www.nhs.uk/conditions/skin-cancer-melanoma/",
-    "checked": "18 November 2026"
+    "name": "NHS: Melanoma skin cancer",
+    "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/",
+    "checked": "21 November 2026"
    },
    {
-    "name": "NHS: non-melanoma skin cancer",
-    "url": "https://www.nhs.uk/conditions/skin-cancer-non-melanoma/",
-    "checked": "18 November 2026"
+    "name": "NHS: Non-melanoma skin cancer",
+    "url": "https://www.nhs.uk/conditions/non-melanoma-skin-cancer/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#skin-lesion",
@@ -2742,13 +2750,7 @@
   "link_check": "Selected clinical claims and UK source scope checked by automated comparison 19 November 2026; not clinical validation",
   "checked": "2026-11-19",
   "review_copy": "chart8.html#hyponatraemia",
-  "patient_information": [
-   {
-    "name": "NHS: low sodium level (hyponatraemia)",
-    "url": "https://www.nhs.uk/conditions/low-sodium-level/",
-    "checked": "18 November 2026"
-   }
-  ],
+  "patient_information": [],
   "emis_template": "emis.html#hyponatraemia",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  },
@@ -2885,4 +2887,4 @@
   "emis_template": "emis.html#hair-loss",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  }
-]
+  ]
