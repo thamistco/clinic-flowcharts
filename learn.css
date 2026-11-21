@@ -1,0 +1,89 @@
+/* v7 learning, colour-coding and accessibility layer. Loaded after style.css and each page's inline CSS. */
+:root{--focus:#1b3a8a}
+.skip{position:absolute;left:-9999px;top:0;background:#fff;color:#1b3a8a;padding:12px 16px;z-index:100;border:2px solid #1b3a8a}
+.skip:focus{left:8px;top:8px}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,select:focus-visible,[tabindex]:focus-visible{outline:3px solid var(--focus);outline-offset:3px;box-shadow:0 0 0 6px #fff}
+h2:focus{outline:none}
+h2:focus-visible{outline:3px solid var(--focus);outline-offset:4px}
+body{font-size:17px}
+.meta,.eyebrow,.legend-x,.expcontrols button,.chip,.route-note{font-size:14px}
+.tone{font-size:13px;letter-spacing:.03em}
+.flow-box .copy h3{font-size:17px}
+.flow-box .detail{font-size:16px;line-height:1.65}
+.sources{font-size:15px}
+.expcontrols button,.copy-link,.kp-jump,.learn-reveal>summary{min-height:44px}
+/* Step-type chips: colour + text + icon (icons are decorative; the word carries the meaning) */
+.tone::before{display:inline-block;margin-right:4px;font-weight:700}
+.tone-URGENT::before{content:"\26A0 ";content:"\26A0 " / ""}
+.tone-ASSESS::before,.tone-KEY::before{content:"? ";content:"? " / ""}
+.tone-SUPPORT::before,.tone-TREATMENT::before{content:"\271A ";content:"\271A " / ""}
+.tone-DRUG::before{content:"\211E ";content:"\211E " / ""}
+.tone-REVIEWLIMIT::before,.tone-MONITORING::before,.tone-LIMIT::before{content:"\21BB ";content:"\21BB " / ""}
+.tone-REFER{background:#fdeed8;color:#5c3200;border:1px solid #a15f00}
+.tone-REFER::before{content:"\279C ";content:"\279C " / ""}
+.tone-SAFETYNET{background:#def2ef;color:#0f4640;border:1px solid #2a7a70}
+.tone-SAFETYNET::before{content:"\2691 ";content:"\2691 " / ""}
+.chipline{display:flex;flex-wrap:wrap;gap:6px;margin:0}
+.chipline .tone{margin-right:0}
+/* Panels */
+.learn-top,.learn-bottom{max-width:1000px;margin:14px 0}
+.learn-panel{border:1.5px solid #9fb3ab;border-radius:12px;background:#fff;margin:12px 0}
+.learn-panel>summary{cursor:pointer;padding:12px 16px;font-weight:700;font-size:17px;list-style:none;display:flex;align-items:center;gap:10px}
+.learn-panel>summary::-webkit-details-marker{display:none}
+.learn-panel>summary::before{content:"\25B8";font-size:18px;transition:transform .15s}
+.learn-panel[open]>summary::before{transform:rotate(90deg)}
+.learn-body{padding:2px 16px 14px;font-size:16px}
+.learn-note{font-size:14.5px;color:#4b423b;margin:6px 0 10px}
+.kp{list-style:none;margin:8px 0;padding:0;display:grid;gap:8px}
+.kp li{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;padding:8px 10px;border-radius:8px;background:#f7f4ef;border-left:5px solid #6b8e80}
+.kp li.k-urgent{border-left-color:#9c4235;background:#fff2ee}
+.kp li.k-diagnosis{border-left-color:#3b648a;background:#edf4fc}
+.kp li.k-treatment{border-left-color:#365a40;background:#eff6f0}
+.kp li.k-drug{border-left-color:#584273;background:#f5effb}
+.kp li.k-monitoring{border-left-color:#755b24;background:#fff8e7}
+.kp .n{font-weight:700;min-width:1.6em}
+.kp .t{flex:1 1 14em}
+.kp-jump,.copy-link{font:inherit;font-size:14px;border:1.5px solid #315f52;border-radius:8px;background:#fff;color:#1f4a3e;padding:8px 12px;cursor:pointer}
+.kp-jump:hover,.copy-link:hover{background:#e4efe9}
+.legend-key{display:grid;gap:8px;margin:8px 0;padding:0;list-style:none}
+.legend-key li{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
+.referline{margin:10px 0 0;font-size:15px}
+.qa{margin:10px 0;padding:0;list-style:none;display:grid;gap:12px}
+.qa .q{font-weight:700;margin:0 0 6px}
+.learn-reveal{border:1px solid #cfc6bc;border-radius:8px;background:#faf8f5}
+.learn-reveal>summary{cursor:pointer;padding:10px 14px;font-weight:600;color:#1f4a3e}
+.learn-reveal>div{padding:2px 14px 12px}
+.learn-reveal p{margin:6px 0}
+.excerpt{border-left:4px solid #6b8e80;padding-left:10px;margin:6px 0}
+.leaflets{list-style:none;margin:8px 0;padding:0;display:grid;gap:10px}
+.leaflets li{border:1px solid #cfc6bc;border-radius:10px;padding:10px 12px;background:#fff}
+.leaflets .lf-name{font-weight:700;display:block}
+.leaflets .leaflet-url{display:block;font-size:14px;color:#4b423b;overflow-wrap:anywhere;margin:2px 0 8px}
+.leaflets small{display:block;color:#4b423b;font-size:13.5px;margin-top:6px}
+.copy-link[hidden],.kp-jump[hidden]{display:none}
+.copy-fallback{display:block;width:100%;margin-top:8px;font:inherit;font-size:14px;padding:8px;border:1.5px solid #1b3a8a;border-radius:6px}
+.copy-status{position:sticky;bottom:8px;z-index:20;margin:8px 0;padding:0}
+.copy-status:not(:empty){background:#1f4a3e;color:#fff;padding:10px 14px;border-radius:8px;max-width:560px}
+.aw-panel{border:2px solid #315f52;border-radius:12px;background:#f4faf7;padding:12px 16px;margin:16px 0}
+.aw-links{list-style:none;padding:0;margin:8px 0;display:grid;gap:8px}
+.aw-links a{font-weight:700;font-size:17px;display:inline-block;padding:6px 0}
+.aw-diff{list-style:none;padding:0;margin:8px 0;display:grid;gap:10px}
+.aw-diff li{background:#fff;border:1px solid #b8cdc4;border-radius:10px;padding:10px 12px}
+.aw-diff .sev{display:inline-block;font-size:13px;font-weight:700;border-radius:5px;padding:2px 8px;margin-right:8px;border:1px solid}
+.aw-diff .sev-P2{background:#fdeed8;color:#5c3200;border-color:#a15f00}
+.aw-diff .sev-P3{background:#ece5db;color:#3d352f;border-color:#8a7f75}
+.aw-diff p{margin:6px 0}
+.alt-note{font-size:14.5px}
+@media (forced-colors:active){.tone,.kp li,.aw-diff .sev{border:1px solid CanvasText}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media (max-width:600px){.kp li{padding:8px}.learn-body{padding:2px 10px 12px}}
+.learn-top,.learn-bottom,.aw-panel{overflow-wrap:anywhere}
+.excerpt,.learn-reveal p,.kp .t,.aw-diff li{overflow-wrap:anywhere;min-width:0}
+/* consistent colour-coding: chip colours match the step box colours and the page legend */
+.tone-URGENT{background:#9c4235;color:#fff}
+.tone-ASSESS,.tone-KEY{background:#2b4f70;color:#fff}
+.tone-SUPPORT,.tone-TREATMENT{background:#365a40;color:#fff}
+.tone-DRUG{background:#584273;color:#fff}
+.tone-REVIEWLIMIT,.tone-MONITORING,.tone-LIMIT{background:#fff8e7;color:#5c4510;border:1px solid #755b24}
+
+.aw-diff.aw-proposal li{border-style:dashed;border-width:2px;background:#fffdf5}
