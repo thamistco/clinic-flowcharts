@@ -1,3 +1,7 @@
+## 21 November 2026: condition-specific EMIS consultation templates (all 74)
+
+The remaining 42 EMIS templates are rewritten in the same format: skin, mental health and neurodevelopment, headache and pain, musculoskeletal (including the 8 East Sussex MSK referral templates, built from the East Sussex MSK triage guidance 2024–2025), women's health, older people and carers, and consultation templates. All 74 now have spoken must-ask questions with blank Y / N answers, emergency and red-flag actions, plan prompts and a safety-netting script, with sources listed in each template. AI-assisted; not clinically signed off.
+
 ## 21 November 2026: condition-specific EMIS consultation templates (first 32)
 
 32 EMIS templates rewritten as condition-specific consultation templates: natural spoken must-ask questions with blank Y / N answers (nothing pre-filled), emergency and red-flag blocks with the action to take, condition scores where used (e.g. FeverPAIN, CRB65), plan prompts and a spoken safety-netting script. Every question and safety-net line is drawn from the site's checked pathway steps or a NICE/NHS page opened on 21 November 2026, listed under SOURCES in each template. The remaining templates keep their previous generic prompts until rewritten. AI-assisted; not clinically signed off.
