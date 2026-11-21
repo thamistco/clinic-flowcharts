@@ -16,7 +16,7 @@ A static UK primary care source directory, linking official NICE/BTS/SIGN/CoSRH 
 
 ## Safety status
 
-This is not a validated clinical decision system. The first prototype's diabetes algorithm used an old pathway. It and the other unvalidated authored clinical algorithms were withdrawn on 11 November 2026. This version links to original guidance and official charts rather than reproducing treatment algorithms.
+This is not a validated clinical decision system. The first prototype's diabetes algorithm used an old pathway. It was withdrawn on 11 November 2026. The site now contains authored, source-linked review charts (74 directory entries as of 21 November 2026), some with selected dose cards and three non-UK comparison tabs. None has been clinically validated or signed off by a qualified clinician: check the original guidance and the live BNF before acting.
 
 Use original recommendations, current local policies and patient-specific clinical judgement. There is no guarantee that a weekly check captures changes made between reviews. No patient data belongs in this repository or website.
 

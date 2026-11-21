@@ -18,7 +18,7 @@
    {
     "name": "NHS: Sore throat",
     "url": "https://www.nhs.uk/symptoms/sore-throat/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#sore-throat",
@@ -43,7 +43,7 @@
    {
     "name": "NHS: Urinary tract infections (UTIs)",
     "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#uti",
@@ -80,7 +80,7 @@
    {
     "name": "NHS: Pneumonia",
     "url": "https://www.nhs.uk/conditions/pneumonia/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#cough",
@@ -105,7 +105,17 @@
    {
     "name": "NHS: High blood pressure",
     "url": "https://www.nhs.uk/conditions/high-blood-pressure/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Heart Foundation: high blood pressure",
+    "url": "https://www.bhf.org.uk/informationsupport/risk-factors/high-blood-pressure",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "NICE patient decision aid: how do I control my blood pressure?",
+    "url": "https://www.nice.org.uk/guidance/ng136/resources/patient-decision-aid-on-how-do-i-control-my-blood-pressure-lifestyle-options-and-choice-of-medicines-pdf-6899918221",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#hypertension",
@@ -146,7 +156,17 @@
    {
     "name": "NHS: Asthma",
     "url": "https://www.nhs.uk/conditions/asthma/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Asthma + Lung UK: asthma",
+    "url": "https://www.asthmaandlung.org.uk/conditions/asthma",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "NICE patient decision aid: asthma inhalers and climate change (ages 12 and over)",
+    "url": "https://www.nice.org.uk/guidance/ng245/resources/patient-decision-aid-on-asthma-inhalers-and-climate-change-bts-nice-sign-pdf-13558151917",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#asthma",
@@ -175,7 +195,17 @@
    {
     "name": "NHS: Type 2 diabetes",
     "url": "https://www.nhs.uk/conditions/type-2-diabetes/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Diabetes UK: type 2 diabetes",
+    "url": "https://www.diabetes.org.uk/about-diabetes/type-2-diabetes",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "NICE patient decision aid: type 2 diabetes, agreeing my HbA1c target",
+    "url": "https://www.nice.org.uk/guidance/ng28/resources/patient-decision-aid-on-type-2-diabetes-agreeing-my-blood-glucose-hba1c-target-pdf-2187281198",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#t2dm",
@@ -195,7 +225,7 @@
    {
     "name": "NHS: Heartburn and acid reflux",
     "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#dyspepsia",
@@ -215,7 +245,12 @@
    {
     "name": "NHS: Back pain",
     "url": "https://www.nhs.uk/conditions/back-pain/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Arthritis UK: back pain",
+    "url": "https://www.arthritis-uk.org/information-and-support/understanding-arthritis/conditions/back-pain/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#back-pain",
@@ -255,7 +290,7 @@
    {
     "name": "NHS: High temperature (fever) in children",
     "url": "https://www.nhs.uk/symptoms/fever-in-children/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#fever-child",
@@ -280,7 +315,12 @@
    {
     "name": "NHS: Atrial fibrillation",
     "url": "https://www.nhs.uk/conditions/atrial-fibrillation/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Heart Foundation: atrial fibrillation",
+    "url": "https://www.bhf.org.uk/informationsupport/conditions/atrial-fibrillation",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#af",
@@ -305,7 +345,12 @@
    {
     "name": "NHS: Chronic obstructive pulmonary disease (COPD)",
     "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Asthma + Lung UK: COPD",
+    "url": "https://www.asthmaandlung.org.uk/conditions/copd-chronic-obstructive-pulmonary-disease",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#copd",
@@ -338,7 +383,7 @@
    {
     "name": "NHS: Chronic kidney disease",
     "url": "https://www.nhs.uk/conditions/kidney-disease/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#ckd",
@@ -358,7 +403,7 @@
    {
     "name": "NHS: Where to get contraception",
     "url": "https://www.nhs.uk/contraception/where-to-get-contraception/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#contraception",
@@ -383,7 +428,12 @@
    {
     "name": "NHS: Menopause and perimenopause",
     "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "NICE discussion aid: medical conditions with and without HRT",
+    "url": "https://www.nice.org.uk/guidance/ng23/resources/incidence-of-medical-conditions-with-and-without-hrt-a-discussion-aid-pdf-13553199901",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#menopause",
@@ -412,7 +462,12 @@
    {
     "name": "NHS: Heart failure",
     "url": "https://www.nhs.uk/conditions/heart-failure/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Heart Foundation: heart failure",
+    "url": "https://www.bhf.org.uk/informationsupport/conditions/heart-failure",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#heart-failure",
@@ -437,12 +492,12 @@
    {
     "name": "NHS: Underactive thyroid (hypothyroidism)",
     "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: Overactive thyroid (separate condition, outside hypothyroidism scope)",
     "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#thyroid",
@@ -462,12 +517,22 @@
    {
     "name": "NHS: Depression in adults",
     "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Local: East Sussex mental health directory (services and support)",
     "url": "https://www.eastsussex.gov.uk/social-care/health-advice/mental-health/east-sussex-mental-health-directory",
     "checked": "12 November 2026"
+   },
+   {
+    "name": "NHS: talking therapies",
+    "url": "https://www.nhs.uk/tests-and-treatments/talking-therapies/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "NICE decision support tool: making decisions about managing depression",
+    "url": "https://www.nice.org.uk/guidance/ng222/resources/decision-support-tool-making-decisions-about-managing-depression-13556507293",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#depression",
@@ -492,7 +557,17 @@
    {
     "name": "NHS: Osteoarthritis",
     "url": "https://www.nhs.uk/conditions/osteoarthritis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Arthritis UK: osteoarthritis",
+    "url": "https://www.arthritis-uk.org/information-and-support/understanding-arthritis/conditions/osteoarthritis/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "East Sussex MSK: Healthy Hips and Knees booklet",
+    "url": "https://eastsussexmsk.nhs.uk/healthy-hips-and-knees/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#osteoarthritis",
@@ -541,7 +616,12 @@
    {
     "name": "NHS: Gout",
     "url": "https://www.nhs.uk/conditions/gout/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Arthritis UK: gout",
+    "url": "https://www.arthritis-uk.org/information-and-support/understanding-arthritis/conditions/gout/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#gout",
@@ -561,7 +641,12 @@
    {
     "name": "NHS: Shoulder pain",
     "url": "https://www.nhs.uk/symptoms/shoulder-pain/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Arthritis UK: shoulder pain",
+    "url": "https://www.arthritis-uk.org/information-and-support/understanding-arthritis/conditions/shoulder-pain/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#shoulder",
@@ -597,7 +682,17 @@
    {
     "name": "NHS: Knee pain",
     "url": "https://www.nhs.uk/symptoms/knee-pain/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "East Sussex MSK: Healthy Hips and Knees booklet",
+    "url": "https://eastsussexmsk.nhs.uk/healthy-hips-and-knees/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "East Sussex MSK: making a decision about knee osteoarthritis (PDF)",
+    "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2022/08/Making-a-decision-about-knee-osteoarthritis.pdf",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#knee",
@@ -663,7 +758,13 @@
    ]
   },
   "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
-  "patient_information": []
+  "patient_information": [
+   {
+    "name": "East Sussex MSK: where does it hurt?",
+    "url": "https://eastsussexmsk.nhs.uk/where-does-it-hurt/",
+    "checked": "21 November 2026"
+   }
+  ]
  },
  {
   "slug": "local-hand-wrist",
@@ -709,7 +810,13 @@
    ]
   },
   "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
-  "patient_information": []
+  "patient_information": [
+   {
+    "name": "East Sussex MSK: where does it hurt?",
+    "url": "https://eastsussexmsk.nhs.uk/where-does-it-hurt/",
+    "checked": "21 November 2026"
+   }
+  ]
  },
  {
   "slug": "local-hip",
@@ -751,7 +858,13 @@
    ]
   },
   "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
-  "patient_information": []
+  "patient_information": [
+   {
+    "name": "East Sussex MSK: Healthy Hips and Knees booklet",
+    "url": "https://eastsussexmsk.nhs.uk/healthy-hips-and-knees/",
+    "checked": "21 November 2026"
+   }
+  ]
  },
  {
   "slug": "local-knee",
@@ -797,7 +910,18 @@
    ]
   },
   "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
-  "patient_information": []
+  "patient_information": [
+   {
+    "name": "East Sussex MSK: Healthy Hips and Knees booklet",
+    "url": "https://eastsussexmsk.nhs.uk/healthy-hips-and-knees/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "East Sussex MSK: making a decision about knee osteoarthritis (PDF)",
+    "url": "https://eastsussexmsk.nhs.uk/wp-content/uploads/2022/08/Making-a-decision-about-knee-osteoarthritis.pdf",
+    "checked": "21 November 2026"
+   }
+  ]
  },
  {
   "slug": "local-shoulder-elbow",
@@ -835,7 +959,13 @@
    ]
   },
   "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
-  "patient_information": []
+  "patient_information": [
+   {
+    "name": "East Sussex MSK: where does it hurt?",
+    "url": "https://eastsussexmsk.nhs.uk/where-does-it-hurt/",
+    "checked": "21 November 2026"
+   }
+  ]
  },
  {
   "slug": "local-spine",
@@ -877,7 +1007,13 @@
    ]
   },
   "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
-  "patient_information": []
+  "patient_information": [
+   {
+    "name": "East Sussex MSK: where does it hurt?",
+    "url": "https://eastsussexmsk.nhs.uk/where-does-it-hurt/",
+    "checked": "21 November 2026"
+   }
+  ]
  },
  {
   "slug": "local-lumps-bumps",
@@ -915,7 +1051,13 @@
    ]
   },
   "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
-  "patient_information": []
+  "patient_information": [
+   {
+    "name": "East Sussex MSK: where does it hurt?",
+    "url": "https://eastsussexmsk.nhs.uk/where-does-it-hurt/",
+    "checked": "21 November 2026"
+   }
+  ]
  },
  {
   "slug": "local-physiotherapy",
@@ -957,7 +1099,18 @@
    ]
   },
   "status": "source-only local reference (East Sussex MSK, area-specific); publisher reference, not an audited chart",
-  "patient_information": []
+  "patient_information": [
+   {
+    "name": "East Sussex MSK: physiotherapy self-referral",
+    "url": "https://eastsussexmsk.nhs.uk/gethelp/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "East Sussex MSK: keeping well whilst waiting booklet",
+    "url": "https://eastsussexmsk.nhs.uk/keeping-well-whilst-waiting/",
+    "checked": "21 November 2026"
+   }
+  ]
  },
  {
   "slug": "cvd-risk",
@@ -982,7 +1135,12 @@
    {
     "name": "NHS: Cardiovascular disease",
     "url": "https://www.nhs.uk/conditions/cardiovascular-disease/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "NICE patient decision aid: should I take a statin?",
+    "url": "https://www.nice.org.uk/guidance/ng238/resources/patient-decision-aid-on-should-i-take-a-statin-pdf-243780159",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#cvd-risk",
@@ -1011,7 +1169,7 @@
    {
     "name": "NHS: Generalised anxiety disorder (GAD)",
     "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
-    "checked": "19 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Local: East Sussex mental health directory (area-specific)",
@@ -1045,7 +1203,12 @@
    {
     "name": "NHS: Migraine",
     "url": "https://www.nhs.uk/conditions/migraine/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "The Migraine Trust: about migraine",
+    "url": "https://migrainetrust.org/understand-migraine/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#migraine",
@@ -1074,7 +1237,17 @@
    {
     "name": "NHS: Acne",
     "url": "https://www.nhs.uk/conditions/acne/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Association of Dermatologists: acne",
+    "url": "https://www.bad.org.uk/pils/acne/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "PCDS: acne vulgaris",
+    "url": "https://www.pcds.org.uk/patient-info-leaflets/acne-vulgaris",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#acne",
@@ -1103,7 +1276,7 @@
    {
     "name": "NHS: Irritable bowel syndrome (IBS)",
     "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#ibs",
@@ -1132,7 +1305,7 @@
    {
     "name": "NHS: Urinary tract infections (UTIs)",
     "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#recurrent-uti",
@@ -1161,7 +1334,7 @@
    {
     "name": "NHS: Bronchitis",
     "url": "https://www.nhs.uk/conditions/bronchitis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#acute-cough",
@@ -1190,7 +1363,12 @@
    {
     "name": "NHS: Chronic obstructive pulmonary disease (COPD)",
     "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Asthma + Lung UK: COPD",
+    "url": "https://www.asthmaandlung.org.uk/conditions/copd-chronic-obstructive-pulmonary-disease",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#copd-exacerbation",
@@ -1219,7 +1397,12 @@
    {
     "name": "NHS: Cellulitis",
     "url": "https://www.nhs.uk/conditions/cellulitis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Association of Dermatologists: cellulitis and erysipelas",
+    "url": "https://www.bad.org.uk/pils/cellulitis-and-erysipelas/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#cellulitis",
@@ -1248,7 +1431,7 @@
    {
     "name": "NHS: Ear infections",
     "url": "https://www.nhs.uk/conditions/ear-infections/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#otitis-media",
@@ -1277,7 +1460,7 @@
    {
     "name": "NHS: Sinusitis (sinus infection)",
     "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#sinusitis",
@@ -1306,7 +1489,12 @@
    {
     "name": "NHS: Impetigo",
     "url": "https://www.nhs.uk/conditions/impetigo/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Association of Dermatologists: impetigo",
+    "url": "https://www.bad.org.uk/pils/impetigo/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#impetigo",
@@ -1335,12 +1523,17 @@
    {
     "name": "NHS: Overweight and obesity in adults",
     "url": "https://www.nhs.uk/conditions/overweight-and-obesity/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Local: One You East Sussex (adult lifestyle support; check eligibility)",
     "url": "https://oneyoueastsussex.org.uk/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "NHS Better Health: how to lose weight",
+    "url": "https://www.nhs.uk/better-health/lose-weight/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#obesity",
@@ -1365,7 +1558,7 @@
    {
     "name": "NHS: Insomnia",
     "url": "https://www.nhs.uk/conditions/insomnia/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#insomnia",
@@ -1394,7 +1587,17 @@
    {
     "name": "NHS: Atopic eczema",
     "url": "https://www.nhs.uk/conditions/atopic-eczema/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Association of Dermatologists: atopic eczema",
+    "url": "https://www.bad.org.uk/pils/atopic-eczema/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "PCDS: atopic eczema",
+    "url": "https://www.pcds.org.uk/patient-info-leaflets/atopic-eczema",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#eczema",
@@ -1423,7 +1626,7 @@
    {
     "name": "NHS: Iron deficiency anaemia",
     "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#anaemia",
@@ -1448,7 +1651,12 @@
    {
     "name": "NHS: Osteoporosis",
     "url": "https://www.nhs.uk/conditions/osteoporosis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Royal Osteoporosis Society: about osteoporosis and osteopenia",
+    "url": "https://theros.org.uk/information-and-support/about-osteoporosis-and-osteopenia/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#osteoporosis",
@@ -1473,7 +1681,7 @@
    {
     "name": "NHS: Vaginal discharge",
     "url": "https://www.nhs.uk/symptoms/vaginal-discharge/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#vaginal-discharge",
@@ -1498,12 +1706,17 @@
    {
     "name": "NHS: Dementia",
     "url": "https://www.nhs.uk/conditions/dementia/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Local: East Sussex mental health directory (services and support)",
     "url": "https://www.eastsussex.gov.uk/social-care/health-advice/mental-health/east-sussex-mental-health-directory",
     "checked": "12 November 2026"
+   },
+   {
+    "name": "Alzheimer's Society: what is dementia?",
+    "url": "https://www.alzheimers.org.uk/about-dementia/types-dementia/what-is-dementia",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#dementia",
@@ -1532,7 +1745,7 @@
    {
     "name": "NHS: Croup",
     "url": "https://www.nhs.uk/conditions/croup/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#croup",
@@ -1557,7 +1770,7 @@
    {
     "name": "NHS: Bronchiolitis",
     "url": "https://www.nhs.uk/conditions/bronchiolitis/",
-    "checked": "19 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#bronchiolitis",
@@ -1590,7 +1803,12 @@
    {
     "name": "NHS: Bronchiectasis",
     "url": "https://www.nhs.uk/conditions/bronchiectasis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Asthma + Lung UK: bronchiectasis",
+    "url": "https://www.asthmaandlung.org.uk/conditions/bronchiectasis",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#bronchiectasis",
@@ -1635,22 +1853,22 @@
    {
     "name": "NHS: autism assessments",
     "url": "https://www.nhs.uk/conditions/autism/assessments/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "National Autistic Society: requesting assessment",
     "url": "https://www.autism.org.uk/advice-and-guidance/diagnosis/before-diagnosis/how-to-request-an-autism-assessment",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NAS: online peer community, including adults",
     "url": "https://www.autism.org.uk/what-we-do/community",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NAS: branch finder and online branches",
     "url": "https://www.autism.org.uk/what-we-do/branches",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Local: Neurodivergent Sussex adult community",
@@ -1660,7 +1878,7 @@
    {
     "name": "Local: Amaze ND Family Support, under-25 families",
     "url": "https://amazesussex.org.uk/nd-family-support/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS England: patient choice guidance",
@@ -1671,6 +1889,11 @@
     "name": "Local NHS: Right to Choose explained",
     "url": "https://www.surreysussex.icb.nhs.uk/right-to-choose-for-mental-health-care/",
     "checked": "12 November 2026"
+   },
+   {
+    "name": "National Autistic Society: what is autism?",
+    "url": "https://www.autism.org.uk/advice-and-guidance/what-is-autism",
+    "checked": "21 November 2026"
    }
   ],
   "page_type": "clinical review",
@@ -1728,27 +1951,27 @@
    {
     "name": "NHS: adult ADHD",
     "url": "https://www.nhs.uk/conditions/adhd-adults/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: children and young people with ADHD",
     "url": "https://www.nhs.uk/conditions/adhd-children-teenagers/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "ADHD UK: national online peer support",
     "url": "https://adhduk.co.uk/support/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "ADHD UK: supplementary Right to Choose guide",
     "url": "https://adhduk.co.uk/right-to-choose/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Sussex: ADHD Aware online/Brighton peer support",
     "url": "https://adhdaware.org.uk/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "East Sussex: free adult ADHD peer groups; coaching is separate",
@@ -1758,7 +1981,7 @@
    {
     "name": "Local: Amaze family support before/after assessment",
     "url": "https://amazesussex.org.uk/nd-family-support/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS England: patient choice guidance",
@@ -1827,7 +2050,7 @@
    },
    {
     "title": "GOV.UK EHC plans",
-    "url": "https://www.gov.uk/children-with-special-educational-needs/education-health-and-care-plans"
+    "url": "https://www.gov.uk/children-with-special-educational-needs"
    }
   ],
   "category": "Acute & other",
@@ -1838,7 +2061,7 @@
    {
     "name": "Amaze: under-25 ND family support and youth activities",
     "url": "https://amazesussex.org.uk/nd-family-support/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "East Sussex: age-banded parent programmes; confirm next intake",
@@ -1853,22 +2076,22 @@
    {
     "name": "East Sussex: school SEN support",
     "url": "https://localoffer.eastsussex.gov.uk/send-information-and-services/school-age-5-16/understanding-school-support",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "East Sussex: EHC needs assessment and appeal information",
     "url": "https://localoffer.eastsussex.gov.uk/send-information-and-services/education-health-and-care-plans/ehcp-introduction-assessment-and-process",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "GOV.UK: EHC plans, eligibility and process",
     "url": "https://www.gov.uk/children-with-special-educational-needs/extra-SEN-help",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "East Sussex: SEND short breaks",
     "url": "https://localoffer.eastsussex.gov.uk/send-information-and-services/education-east-sussex/short-breaks",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "page_type": "patient signposting",
@@ -1910,27 +2133,27 @@
    {
     "name": "NHS: carer assessments; older review date",
     "url": "https://www.nhs.uk/social-care-and-support/support-and-benefits-for-carers/carer-assessments/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: breaks and respite care",
     "url": "https://www.nhs.uk/social-care-and-support/support-and-benefits-for-carers/carer-breaks-and-respite-care/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: young-carer rights",
     "url": "https://www.nhs.uk/social-care-and-support/support-and-benefits-for-carers/being-a-young-carer-your-rights/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Carers UK: getting an assessment",
     "url": "https://www.carersuk.org/help-and-advice/practical-support/carers-assessment/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "GOV.UK: live Carer's Allowance eligibility",
     "url": "https://www.gov.uk/carers-allowance/eligibility",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "East Sussex: carers checklist and local routes",
@@ -1940,12 +2163,12 @@
    {
     "name": "Care for the Carers: parent-carer support",
     "url": "https://www.cftc.org.uk/help-and-advice/how-we-can-help/parent-carers/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Care for the Carers: young and young-adult activities",
     "url": "https://www.cftc.org.uk/young-carers-service-east-sussex/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "East Sussex: statutory young-carer support",
@@ -1955,7 +2178,12 @@
    {
     "name": "East Sussex: SEND short breaks",
     "url": "https://localoffer.eastsussex.gov.uk/send-information-and-services/education-east-sussex/short-breaks",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Carers UK",
+    "url": "https://www.carersuk.org/",
+    "checked": "21 November 2026"
    }
   ],
   "page_type": "patient signposting",
@@ -2008,33 +2236,33 @@
   "patient_information": [
    {
     "name": "NHS: joint pain and when to seek help",
-    "url": "https://www.nhs.uk/conditions/joint-pain/",
-    "checked": "12 November 2026"
+    "url": "https://www.nhs.uk/symptoms/joint-pain/",
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: septic arthritis",
     "url": "https://www.nhs.uk/conditions/septic-arthritis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Arthritis UK: joint-pain information",
     "url": "https://www.arthritis-uk.org/information-and-support/understanding-arthritis/conditions/joint-pain/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NRAS: diagnosis and overlapping conditions",
     "url": "https://nras.org.uk/resource/making-a-diagnosis-of-rheumatoid-arthritis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: reactive arthritis",
     "url": "https://www.nhs.uk/conditions/reactive-arthritis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS trust: gout and CPP crystal arthritis",
     "url": "https://www.uhbristol.nhs.uk/patients-and-visitors/your-hospitals/bristol-royal-infirmary/what-we-do/rheumatology/conditions-we-treat/gout-and-pseudogout/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "page_type": "clinical review",
@@ -2100,22 +2328,27 @@
    {
     "name": "NHS: fibromyalgia overview",
     "url": "https://www.nhs.uk/conditions/fibromyalgia/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: diagnosis and coexisting conditions",
     "url": "https://www.nhs.uk/conditions/fibromyalgia/diagnosis/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: self-help and tailored activity",
     "url": "https://www.nhs.uk/conditions/fibromyalgia/self-help/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Fibromyalgia Action UK: information and peer support",
     "url": "https://www.fmauk.org/",
-    "checked": "12 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "Arthritis UK: fibromyalgia",
+    "url": "https://www.arthritis-uk.org/information-and-support/understanding-arthritis/conditions/fibromyalgia/",
+    "checked": "21 November 2026"
    }
   ],
   "page_type": "clinical review",
@@ -2161,12 +2394,12 @@
    {
     "name": "NHS: Medically unexplained symptoms (only if relevant after assessment)",
     "url": "https://www.nhs.uk/conditions/medically-unexplained-symptoms/",
-    "checked": "19 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NICE: Making decisions about your medicines in multimorbidity (when applicable)",
     "url": "https://www.nice.org.uk/guidance/ng56/ifp/chapter/Help-with-making-decisions",
-    "checked": "19 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "page_type": "clinical review",
@@ -2280,7 +2513,17 @@
    {
     "name": "NHS: scabies, household treatment and practical advice",
     "url": "https://www.nhs.uk/conditions/scabies/",
-    "checked": "16 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Association of Dermatologists: scabies",
+    "url": "https://www.bad.org.uk/pils/scabies/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "PCDS: scabies",
+    "url": "https://www.pcds.org.uk/patient-info-leaflets/scabies",
+    "checked": "21 November 2026"
    }
   ],
   "page_type": "clinical review",
@@ -2319,6 +2562,11 @@
   "checked": "2026-11-19",
   "review_copy": "chart7.html#pain-management",
   "patient_information": [
+   {
+    "name": "NHS: pain",
+    "url": "https://www.nhs.uk/live-well/pain/",
+    "checked": "21 November 2026"
+   },
    {
     "name": "NHS: How to get NHS help for your pain",
     "url": "https://www.nhs.uk/live-well/pain/how-to-get-nhs-help-for-your-pain/",
@@ -2362,13 +2610,13 @@
   "patient_information": [
    {
     "name": "NHS: headaches",
-    "url": "https://www.nhs.uk/conditions/headaches/",
-    "checked": "18 November 2026"
+    "url": "https://www.nhs.uk/symptoms/headaches/",
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: migraine",
     "url": "https://www.nhs.uk/conditions/migraine/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#headache",
@@ -2404,8 +2652,13 @@
   "patient_information": [
    {
     "name": "NHS: heart palpitations",
-    "url": "https://www.nhs.uk/conditions/heart-palpitations/",
-    "checked": "18 November 2026"
+    "url": "https://www.nhs.uk/symptoms/heart-palpitations/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Heart Foundation: heart palpitations",
+    "url": "https://www.bhf.org.uk/informationsupport/conditions/palpitations",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#palpitations",
@@ -2446,7 +2699,7 @@
    {
     "name": "NHS: falls",
     "url": "https://www.nhs.uk/conditions/falls/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#falls",
@@ -2487,7 +2740,12 @@
    {
     "name": "NHS: tinnitus",
     "url": "https://www.nhs.uk/conditions/tinnitus/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "RNID: tinnitus",
+    "url": "https://rnid.org.uk/information-and-support/tinnitus/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#tinnitus",
@@ -2527,8 +2785,8 @@
   "patient_information": [
    {
     "name": "NHS: stomach ache and abdominal pain",
-    "url": "https://www.nhs.uk/conditions/stomach-ache/",
-    "checked": "18 November 2026"
+    "url": "https://www.nhs.uk/symptoms/stomach-ache/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#abdominal-pain",
@@ -2568,8 +2826,13 @@
   "patient_information": [
    {
     "name": "NHS: clinical depression",
-    "url": "https://www.nhs.uk/mental-health/conditions/clinical-depression/",
-    "checked": "18 November 2026"
+    "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "NHS: mental health services",
+    "url": "https://www.nhs.uk/nhs-services/mental-health-services/",
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: How to access mental health services",
@@ -2611,12 +2874,12 @@
    {
     "name": "NHS: piles (haemorrhoids)",
     "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: constipation",
     "url": "https://www.nhs.uk/conditions/constipation/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#haemorrhoids",
@@ -2657,7 +2920,7 @@
    {
     "name": "NHS: anal fissure",
     "url": "https://www.nhs.uk/conditions/anal-fissure/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: Glyceryl trinitrate (GTN)",
@@ -2703,7 +2966,7 @@
    {
     "name": "NHS: moles - when to get them checked",
     "url": "https://www.nhs.uk/conditions/moles/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: Melanoma skin cancer",
@@ -2713,6 +2976,11 @@
    {
     "name": "NHS: Non-melanoma skin cancer",
     "url": "https://www.nhs.uk/conditions/non-melanoma-skin-cancer/",
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "PCDS: basal cell carcinoma",
+    "url": "https://www.pcds.org.uk/patient-info-leaflets/basal-cell-carcinoma",
     "checked": "21 November 2026"
    }
   ],
@@ -2789,7 +3057,7 @@
    {
     "name": "NHS: trigeminal neuralgia",
     "url": "https://www.nhs.uk/conditions/trigeminal-neuralgia/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#trigeminal-neuralgia",
@@ -2830,7 +3098,7 @@
    {
     "name": "NHS: codeine - including dependence and withdrawal",
     "url": "https://www.nhs.uk/medicines/codeine/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#opioid-tapering",
@@ -2871,20 +3139,25 @@
    {
     "name": "NHS: hair loss",
     "url": "https://www.nhs.uk/symptoms/hair-loss/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "Alopecia UK",
     "url": "https://www.alopecia.org.uk/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
    },
    {
     "name": "NHS: wigs and fabric supports on the NHS",
     "url": "https://www.nhs.uk/nhs-services/help-with-health-costs/wigs-and-fabric-supports-on-the-nhs/",
-    "checked": "18 November 2026"
+    "checked": "21 November 2026"
+   },
+   {
+    "name": "British Association of Dermatologists: alopecia areata",
+    "url": "https://www.bad.org.uk/pils/alopecia-areata/",
+    "checked": "21 November 2026"
    }
   ],
   "emis_template": "emis.html#hair-loss",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
  }
-  ]
+]
