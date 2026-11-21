@@ -1,3 +1,7 @@
+## 21 November 2026: visual polish
+
+Presentation only. Soft grey page background with content in white rounded panels; more padding and spacing; roomier step cards that keep their colour-coded edge; calmer amber safety banner (same wording); EMIS and Status pages styled to match, with a filled Copy button and a readable template box. One EMIS page sentence updated to describe the rewritten templates. Checks: axe 0 violations, no overflow at 320 px, existing functions unchanged.
+
 ## 21 November 2026: condition-specific EMIS consultation templates (all 74)
 
 The remaining 42 EMIS templates are rewritten in the same format: skin, mental health and neurodevelopment, headache and pain, musculoskeletal (including the 8 East Sussex MSK referral templates, built from the East Sussex MSK triage guidance 2024–2025), women's health, older people and carers, and consultation templates. All 74 now have spoken must-ask questions with blank Y / N answers, emergency and red-flag actions, plan prompts and a safety-netting script, with sources listed in each template. AI-assisted; not clinically signed off.

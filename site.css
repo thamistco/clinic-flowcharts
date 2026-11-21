@@ -222,3 +222,106 @@ body.route-active header .notice{margin:6px 0 0}
   .flow-box .sign{display:none}
 }
 @media (forced-colors:active){.chart>.flow-box{border-left-width:6px}.flow-box .number{border:1px solid CanvasText!important}}
+
+/* ===================== Visual polish v2 (21 Nov 2026): white space and panels ===================== */
+:root{--bg:#f2f5f3;--surface:#fff;--soft:#f7f9f8;--line:#e2e8e4;--line2:#cdd7d1;--radius:16px;--panel-r:22px;
+  --shadow:0 1px 2px rgba(18,42,34,.05),0 6px 20px rgba(18,42,34,.05);--pad:40px}
+body{background:var(--bg);line-height:1.65}
+h1,h2,h3{color:#17211d}
+/* safety banner: calm amber band, still prominent */
+.banner{background:#fff3dc;color:#4a3412;border-bottom:1px solid #efd7a8}
+.banner details{padding:10px 24px}
+.banner summary,.banner strong,.banner p{color:#4a3412}
+.banner summary::before{content:"!";display:inline-grid;place-items:center;width:20px;height:20px;margin-right:8px;border-radius:50%;background:#a6610f;color:#fff;font:700 13px/1 system-ui,sans-serif;vertical-align:1px}
+/* top bar */
+.topbar{box-shadow:0 1px 0 var(--line)}
+.topbar .tb-inner{min-height:68px}
+/* generic notice boxes (plain or with details) */
+.notice{padding:14px 18px;border-radius:12px;background:#fbf7ef;border:1px solid #ecdcc2;border-left:4px solid #a6702f;font-size:15px;line-height:1.6}
+.notice:has(>details){padding:0}
+/* panels */
+.panel,.pg-index header,.pg-index main>section,.pg-progress main,.pg-emis main>section.template,.pg-emis header,
+body.pg-chart:not(.route-active) header,.route:not([hidden]){
+  background:var(--surface);border:1px solid var(--line);border-radius:var(--panel-r);box-shadow:var(--shadow)}
+.pg-index header,body.pg-chart:not(.route-active) header,.pg-emis header{margin:32px auto 0;padding:40px var(--pad) 32px}
+.pg-index main,.pg-emis main,.pg-chart main{padding-top:28px;padding-bottom:64px}
+.pg-index main>section{padding:36px var(--pad);margin:0 0 28px}
+.pg-index main>section>h2{margin-top:0}
+.pg-progress main{margin:32px auto 64px;padding:36px var(--pad)}
+.pg-progress header{padding-bottom:0}
+.pg-emis main>section.template:not([hidden]){padding:36px var(--pad);margin:0 0 32px}
+.pg-emis main>section.template h1{margin:6px 0 10px}
+.route:not([hidden]){padding:34px var(--pad) 40px;margin:12px 0 48px}
+@media(max-width:700px){
+  :root{--pad:20px}
+  .pg-index header,body.pg-chart:not(.route-active) header,.pg-emis header{margin:14px 10px 0;padding:26px var(--pad) 22px;border-radius:18px}
+  .pg-index main>section,.pg-progress main,.pg-emis main>section.template:not([hidden]){padding:24px var(--pad);border-radius:18px}
+  .pg-index main,.pg-emis main,.pg-chart main{padding-left:10px;padding-right:10px}
+  .pg-progress main{margin:14px 10px 40px}
+  .route:not([hidden]){padding:22px 16px 28px;border-radius:18px;margin:8px 0 32px}
+}
+/* route header area */
+body.route-active header{padding-top:18px;padding-bottom:4px}
+.crumbs ol{margin-top:0}
+.route>h2{margin:6px 0 10px}
+.route>.meta{margin-bottom:20px}
+.route .aw-panel{border-radius:14px;background:#f1f7f4;border:1px solid #cfe1d8;border-left:4px solid var(--brand);padding:18px 22px;margin:4px 0 8px}
+/* steps: roomier cards */
+.expcontrols{margin:28px 0 14px}
+.chart>.flow-box{margin-bottom:16px;border-radius:14px;box-shadow:none;border-color:var(--line);border-left-color:var(--t,#6b8e80)}
+.chart>.flow-box:hover{box-shadow:var(--shadow)}
+.chart>.flow-box>summary{padding:18px 18px 18px 16px;gap:16px}
+.chart::before{left:37px;background:#dbe3de}
+.flow-box .detail{padding:18px 26px 22px 66px!important}
+.flow-box[open]{box-shadow:var(--shadow)}
+@media(max-width:600px){.chart::before{left:29px}.chart>.flow-box>summary{padding:14px 12px}.flow-box .detail{padding:14px 16px 18px!important}}
+/* learning panels and sources: soft boxes inside the white route panel */
+.route .learn-panel{background:var(--soft);border:1px solid var(--line);box-shadow:none;border-radius:14px;margin:0 0 14px}
+.route .learn-panel>summary{padding:14px 18px}
+.route .learn-panel[open]{background:#fff}
+.learn-bottom{margin-top:32px}
+.route>.sources{margin-top:28px;padding:18px 22px;background:var(--soft);border:1px solid var(--line);border-radius:14px}
+.related{margin-top:32px;background:var(--soft);box-shadow:none;border-radius:14px;padding:18px 22px}
+@media(min-width:1100px){
+  .route:not([hidden]){column-gap:44px}
+  .route>.learn-top{background:var(--soft);border:1px solid var(--line);border-radius:16px;padding:14px 12px 6px;margin-top:6px}
+  .route>.learn-top .learn-panel{background:transparent;border:0;margin:0 0 4px}
+  .route>.learn-top .learn-panel[open]{background:transparent}
+}
+/* chart-page chooser (no pathway open) */
+.chart-index{gap:12px!important}
+.chart-index a{background:var(--soft);box-shadow:none;border-radius:12px;padding:14px 16px}
+.chart-index a:hover{background:#fff;box-shadow:var(--shadow)}
+/* directory */
+.pg-index header h1{margin-top:4px}
+#search{background:var(--soft)!important}
+#search:focus{background:#fff!important}
+.group{margin:36px 0 8px}
+.group:first-of-type{margin-top:24px}
+.group>h3{border-bottom:0;padding-bottom:0;margin-bottom:14px}
+.cards{gap:16px!important}
+.cards article{background:var(--soft)!important;box-shadow:none;border-radius:14px!important;padding:20px!important;transition:box-shadow .15s,background .15s}
+.cards article:hover{background:#fff!important;box-shadow:var(--shadow)}
+.cards article .card-foot{border-top-style:solid}
+/* EMIS page */
+.pg-emis .template-index{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px;list-style:none;padding:0;margin:18px 0 0}
+.pg-emis .template-index li{margin:0}
+.pg-emis .template-index a{display:block;height:100%;padding:12px 16px;border-radius:12px;background:var(--soft);border:1px solid var(--line);text-decoration:none;color:var(--ink);font-weight:600}
+.pg-emis .template-index a:hover{background:#fff;box-shadow:var(--shadow);border-color:var(--line2)}
+.pg-emis #find{width:100%;max-width:560px;font:inherit;padding:12px 14px;border:1.5px solid var(--line2);border-radius:12px;background:var(--soft);margin:6px 0 0}
+.pg-emis .controls{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0 6px}
+.pg-emis .controls button{min-height:44px;padding:10px 18px;border-radius:999px;font:600 15px system-ui,sans-serif;border:1px solid var(--line2);background:#fff;color:var(--brand-ink);cursor:pointer}
+.pg-emis .controls button[data-copy]{background:var(--brand);border-color:var(--brand);color:#fff}
+.pg-emis .controls button[data-copy]:hover{background:var(--brand-ink)}
+.pg-emis section.template label{display:block;margin:20px 0 8px;font-weight:600;font-size:15px}
+.pg-emis textarea{width:100%;min-height:62vh;box-sizing:border-box;padding:20px 22px;border:1px solid var(--line2);border-radius:14px;background:var(--soft);font:14.5px/1.7 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:#1c2622;resize:vertical}
+/* status page */
+.pg-progress main h2{margin-top:34px}
+.pg-progress main>*:first-child{margin-top:0}
+.pg-progress ul.dir{columns:2 280px;column-gap:40px;padding-left:18px}
+.pg-progress ul.dir li{margin:0 0 6px;break-inside:avoid}
+/* footer */
+footer{color:var(--muted);font-size:14px;padding-top:8px;padding-bottom:40px;text-align:center}
+.pg-index header,body.pg-chart:not(.route-active) header,.pg-emis header{max-width:calc(var(--wide) - 2*var(--pad))}
+@media(max-width:700px){.pg-index header,body.pg-chart:not(.route-active) header,.pg-emis header{max-width:none}}
+.pg-emis header:has(>#chooser[hidden]){display:none}
