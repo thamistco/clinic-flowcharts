@@ -1,3 +1,9 @@
+## 22 November 2026: clinical terminology in EMIS templates; grammar and punctuation
+
+EMIS templates: patient-facing spoken questions are replaced with clinical documentation terms (for example "Haemoptysis?  Y / N" instead of asking about coughing up blood; dysuria, saddle anaesthesia, trismus, orthopnoea, rigors). Safety-netting sections now record what was advised ("Advised 999 if …") rather than a script to read aloud. Every line was re-checked against the same cited sources; thresholds, actions and sources are unchanged.
+
+Site-wide grammar and punctuation pass (automated LanguageTool en-GB check, then manual review): numeric ranges and spaced dashes use en dashes; fixed "rowsagainst", "(Table 7,.", "mlU/L" (now mIU/L), "Henoch–Schönlein", "et al.", "eardrop", a plural/article error on the SCA page, and four template titles that displayed "&amp;". Quoted guideline text is otherwise unchanged. Checks: all 74 templates render and copy, axe 0 violations, no overflow at 320 px, internal links resolve. AI-assisted; not clinically signed off.
+
 ## 21 November 2026: visual polish
 
 Presentation only. Soft grey page background with content in white rounded panels; more padding and spacing; roomier step cards that keep their colour-coded edge; calmer amber safety banner (same wording); EMIS and Status pages styled to match, with a filled Copy button and a readable template box. One EMIS page sentence updated to describe the rewritten templates. Checks: axe 0 violations, no overflow at 320 px, existing functions unchanged.
