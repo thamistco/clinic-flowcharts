@@ -1,3 +1,11 @@
+## 23 November 2026: EMIS quick versions, background block, sources not copied
+
+- Copying a template no longer includes the SOURCES list. Sources are shown below each template on the page, with readable labels.
+- Every clinical template has a short background block: drug allergy status, current medicines (prescribed, over-the-counter and complementary), and ideas, concerns and expectations. Sources: NICE CG183 1.2.1, NG5 and CG138 1.1.4. Lines already covered by a template are not repeated. The two support templates get the ideas, concerns and expectations line only.
+- 48 templates now offer a quick version (red flags and plan). It is offered only where it cuts the number of answers by at least 30%; the median falls from 20 answers to 12. Red-flag questions are grouped into one "Asked and absent" list with a "Present" line, and actions are attached to their item. Items worded as normal findings or completed actions (e.g. "behaving as usual") stay as separate Y / N questions. Without JavaScript, only the full template is shown.
+- Remaining lay wording and contractions in templates converted to clinical terms (e.g. polydipsia and polyuria, cyanosis / mottling, hoarseness, dysphagia, long lie).
+- Checks: all templates verified against their sources (0 problems); 74 full and 48 quick versions render, switch and copy; axe 0 violations, including in quick view; no overflow at 320 px. AI-assisted; not clinically signed off.
+
 ## 22 November 2026: clinical terminology in EMIS templates; grammar and punctuation
 
 EMIS templates: patient-facing spoken questions are replaced with clinical documentation terms (for example "Haemoptysis?  Y / N" instead of asking about coughing up blood; dysuria, saddle anaesthesia, trismus, orthopnoea, rigors). Safety-netting sections now record what was advised ("Advised 999 if …") rather than a script to read aloud. Every line was re-checked against the same cited sources; thresholds, actions and sources are unchanged.
