@@ -1,3 +1,13 @@
+## 24 November 2026: new pathways, batch 2 (children)
+
+- New page chart10.html in the Children group, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
+  - Gastroenteritis in under 5s: dehydration and fluids (NICE CG84)
+  - Constipation in children: red flags, disimpaction and maintenance (NICE CG99)
+  - UTI in under 16s (NICE NG224; antibiotic doses verbatim from NG109 table 4)
+  - Atopic eczema in children (NICE CG57, updated September 2025)
+  - Fever with a non-blanching rash: suspected meningitis or meningococcal disease, all ages (NICE NG240). Pre-hospital antibiotic doses are not stated by NG240, so the step points to the BNF/BNFC.
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: new pathways, batch 1 (urgent and red-flag presentations)
 
 - New "Urgent and red-flag presentations" group (chart9.html), each with an index card, search entry, sources.json entry, patient leaflets with review dates and an EMIS prompt set:

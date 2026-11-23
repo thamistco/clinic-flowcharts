@@ -3308,5 +3308,139 @@
   ],
   "emis_template": "emis.html#blackout",
   "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "gastro-child",
+  "name": "Gastroenteritis in under 5s",
+  "code": "NICE CG84",
+  "link": "https://www.nice.org.uk/guidance/cg84",
+  "resources": [
+   {
+    "title": "NICE CG84 recommendations (table 1: dehydration and shock)",
+    "url": "https://www.nice.org.uk/guidance/cg84/chapter/Recommendations"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart10.html#gastro-child",
+  "patient_information": [
+   {
+    "name": "NHS: Diarrhoea and vomiting",
+    "url": "https://www.nhs.uk/symptoms/diarrhoea-and-vomiting/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#gastro-child",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "constipation-child",
+  "name": "Constipation in children",
+  "code": "NICE CG99",
+  "link": "https://www.nice.org.uk/guidance/cg99",
+  "resources": [
+   {
+    "title": "NICE CG99 recommendations (tables 1–3)",
+    "url": "https://www.nice.org.uk/guidance/cg99/chapter/Recommendations"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart10.html#constipation-child",
+  "patient_information": [
+   {
+    "name": "NHS: Constipation",
+    "url": "https://www.nhs.uk/conditions/constipation/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#constipation-child",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "uti-child",
+  "name": "UTI in under 16s",
+  "code": "NICE NG224 · NG109",
+  "link": "https://www.nice.org.uk/guidance/ng224",
+  "resources": [
+   {
+    "title": "NICE NG224 recommendations (tables 1 and 2)",
+    "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations"
+   },
+   {
+    "title": "NICE NG109 table 4: antibiotics for under 16s",
+    "url": "https://www.nice.org.uk/guidance/ng109/chapter/Recommendations"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart10.html#uti-child",
+  "patient_information": [
+   {
+    "name": "NHS: Urinary tract infections (UTIs)",
+    "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#uti-child",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "eczema-child",
+  "name": "Atopic eczema in children",
+  "code": "NICE CG57",
+  "link": "https://www.nice.org.uk/guidance/cg57",
+  "resources": [
+   {
+    "title": "NICE CG57 recommendations (table 2: stepped treatment)",
+    "url": "https://www.nice.org.uk/guidance/cg57/chapter/Recommendations"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart10.html#eczema-child",
+  "patient_information": [
+   {
+    "name": "NHS: Atopic eczema",
+    "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#eczema-child",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "meningitis-rash",
+  "name": "Non-blanching rash and suspected meningitis",
+  "code": "NICE NG240",
+  "link": "https://www.nice.org.uk/guidance/ng240",
+  "resources": [
+   {
+    "title": "NICE NG240 recommendations 1.1–1.2 (tables 1 and 3)",
+    "url": "https://www.nice.org.uk/guidance/ng240/chapter/Recommendations"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart10.html#meningitis-rash",
+  "patient_information": [
+   {
+    "name": "NHS: Meningitis",
+    "url": "https://www.nhs.uk/conditions/meningitis/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Sepsis",
+    "url": "https://www.nhs.uk/conditions/sepsis/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#meningitis-rash",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
  }
 ]
