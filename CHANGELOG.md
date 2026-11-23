@@ -1,3 +1,11 @@
+## 23 November 2026 (evening): leaflet review dates; impression and safeguarding lines
+
+- Every patient leaflet (317 entries, 150 unique links) now shows the publisher's own review status beside the link: "reviewed … · next review …", "past its publisher's review date (…)" (highlighted), "no review date shown", or "review date not checked" where the site could not be reached from the checking environment. Dates were read from each page on 23 November 2026.
+- Replaced the NRAS "making a diagnosis of rheumatoid arthritis" leaflet (next review was due July 2022) with Arthritis UK's rheumatoid arthritis page (reviewed July 2026, next review July 2029) on the joint pain pathway and its index card. The NRAS link stays in the clinician resources list.
+- Fixed double-escaped "&amp;" in index search text.
+- EMIS templates: an "Impression / working diagnosis (and differentials considered)" line before the plan in 67 templates (templates that already had one, the SCA structure and the two support templates are unchanged). A child safeguarding line in 7 templates (bronchiolitis, croup, fever in under 5s; under-18s in otitis media, sore throat, ADHD and autism), from NICE CG89 (updated 3 December 2025): alerting features of possible maltreatment, with discussion with the named or designated professional for safeguarding children if present. Quick versions are now offered for 46 templates.
+- AI-assisted; not clinically signed off.
+
 ## 23 November 2026: EMIS quick versions, background block, sources not copied
 
 - Copying a template no longer includes the SOURCES list. Sources are shown below each template on the page, with readable labels.
