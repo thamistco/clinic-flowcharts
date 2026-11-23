@@ -1,3 +1,12 @@
+## 24 November 2026: new pathways, batch 3 (women's health)
+
+- New page chart11.html in the Women's and sexual health group, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
+  - Heavy menstrual bleeding (NICE NG88, updated July 2026)
+  - Bleeding or pain in early pregnancy: possible ectopic pregnancy or miscarriage (NICE NG126, updated June 2026)
+  - Nausea and vomiting in pregnancy and hyperemesis gravidarum (NICE NG201 1.4; MHRA ondansetron Drug Safety Update, January 2020; NHS hyperemesis page). The RCOG guideline could not be opened from the build environment.
+  - Breast lump: suspected cancer referral (NICE NG12 1.4 and 1.14–1.16, updated April 2026)
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: new pathways, batch 2 (children)
 
 - New page chart10.html in the Children group, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
