@@ -325,3 +325,16 @@ footer{color:var(--muted);font-size:14px;padding-top:8px;padding-bottom:40px;tex
 .pg-index header,body.pg-chart:not(.route-active) header,.pg-emis header{max-width:calc(var(--wide) - 2*var(--pad))}
 @media(max-width:700px){.pg-index header,body.pg-chart:not(.route-active) header,.pg-emis header{max-width:none}}
 .pg-emis header:has(>#chooser[hidden]){display:none}
+
+/* EMIS: version switch and on-page sources (v9) */
+.pg-emis .tpl-version{display:inline-flex;gap:0;margin:18px 0 0;border:1px solid var(--line2);border-radius:12px;overflow:hidden;background:var(--soft)}
+.pg-emis .tpl-version[hidden]{display:none}
+.pg-emis .tpl-version button{border:0;border-radius:0;margin:0;background:transparent;color:var(--ink);font-weight:600;min-height:44px;padding:10px 16px}
+.pg-emis .tpl-version button+button{border-left:1px solid var(--line2)}
+.pg-emis .tpl-version button[aria-pressed="true"]{background:var(--brand);color:#fff}
+.pg-emis .tpl-sources{margin:22px 0 0;padding:18px 22px;border:1px solid var(--line);border-radius:14px;background:#fff;font-size:14px;overflow-wrap:anywhere}
+.pg-emis .tpl-sources h2{font-size:17px;margin:0 0 8px}
+.pg-emis .tpl-sources h2 span{font-family:system-ui,sans-serif;font-size:13px;color:var(--muted);font-weight:400}
+.pg-emis .tpl-sources ul{margin:0 0 10px;padding-left:20px}.pg-emis .tpl-sources li{margin:4px 0}
+.pg-emis .tpl-sources p{margin:0;color:var(--muted);font-size:13px}
+.pg-emis label[hidden],.pg-emis textarea[hidden]{display:none}
