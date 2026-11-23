@@ -338,3 +338,8 @@ footer{color:var(--muted);font-size:14px;padding-top:8px;padding-bottom:40px;tex
 .pg-emis .tpl-sources ul{margin:0 0 10px;padding-left:20px}.pg-emis .tpl-sources li{margin:4px 0}
 .pg-emis .tpl-sources p{margin:0;color:var(--muted);font-size:13px}
 .pg-emis label[hidden],.pg-emis textarea[hidden]{display:none}
+
+/* Leaflet review dates (v10) */
+.leaflets small,.resources small{color:var(--muted)}
+.lf-date{white-space:normal}
+.lf-overdue{display:inline-block;margin-top:2px;padding:1px 6px;border-radius:6px;background:#fff3dc;color:#4a3412;font-weight:600}
