@@ -4336,6 +4336,34 @@
   "link": "https://www.nice.org.uk/guidance/ng31",
   "resources": [
    {
+    "title": "BNF: cyclizine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/cyclizine/"
+   },
+   {
+    "title": "BNF: midazolam (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/midazolam/"
+   },
+   {
+    "title": "BNF: haloperidol (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/haloperidol/"
+   },
+   {
+    "title": "BNF: levomepromazine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/levomepromazine/"
+   },
+   {
+    "title": "BNF: glycopyrronium bromide (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/glycopyrronium-bromide/"
+   },
+   {
+    "title": "BNF: hyoscine hydrobromide (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/hyoscine-hydrobromide/"
+   },
+   {
+    "title": "BNF: hyoscine butylbromide (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/hyoscine-butylbromide/"
+   },
+   {
     "title": "BNF medicines guidance: prescribing in palliative care (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/medicines-guidance/prescribing-in-palliative-care/"
    },
