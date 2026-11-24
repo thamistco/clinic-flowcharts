@@ -3741,5 +3741,246 @@
   ],
   "emis_template": "emis.html#smoking",
   "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "red-eye",
+  "name": "Red eye and conjunctivitis",
+  "code": "NHS · College of Optometrists",
+  "link": "https://www.nhs.uk/conditions/red-eye/",
+  "resources": [
+   {
+    "title": "NHS: Red eye (reviewed October 2025)",
+    "url": "https://www.nhs.uk/conditions/red-eye/"
+   },
+   {
+    "title": "NHS: Conjunctivitis (reviewed April 2024)",
+    "url": "https://www.nhs.uk/conditions/conjunctivitis/"
+   },
+   {
+    "title": "College of Optometrists CMG: bacterial conjunctivitis (public summary; full text needs a free login and was not read)",
+    "url": "https://www.college-optometrists.org/clinical-guidance/clinical-management-guidelines/conjunctivitis_bacterial"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart14.html#red-eye",
+  "patient_information": [
+   {
+    "name": "NHS: Red eye",
+    "url": "https://www.nhs.uk/conditions/red-eye/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Conjunctivitis",
+    "url": "https://www.nhs.uk/conditions/conjunctivitis/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#red-eye",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "allergic-rhinitis",
+  "name": "Allergic rhinitis (hay fever)",
+  "code": "BSACI 2017",
+  "link": "https://www.bsaci.org/guidelines-and-standards/bsaci-guidelines/rhinitis-2017-update/",
+  "resources": [
+   {
+    "title": "BSACI guideline: allergic and non-allergic rhinitis (Scadding et al, 2017; current on the BSACI guidelines page)",
+    "url": "https://www.bsaci.org/wp-content/uploads/2020/01/Scadding_et_al-2017-Clinical_amp_Experimental_Allergy.pdf"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart14.html#allergic-rhinitis",
+  "patient_information": [
+   {
+    "name": "NHS: Allergic rhinitis",
+    "url": "https://www.nhs.uk/conditions/allergic-rhinitis/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#allergic-rhinitis",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "urticaria",
+  "name": "Urticaria (hives) and angioedema",
+  "code": "PCDS 2025 · NHS",
+  "link": "https://www.pcds.org.uk/clinical-guidance/urticaria-and-angioedema",
+  "resources": [
+   {
+    "title": "PCDS: Urticaria and angioedema overview (updated 6 December 2025)",
+    "url": "https://www.pcds.org.uk/clinical-guidance/urticaria-and-angioedema"
+   },
+   {
+    "title": "PCDS: Chronic spontaneous urticaria (updated 21 December 2025)",
+    "url": "https://www.pcds.org.uk/clinical-guidance/urticaria-spontaneous-syn-chronic-ordinary-urticaria"
+   },
+   {
+    "title": "PCDS: Angioedema (updated 21 December 2025)",
+    "url": "https://www.pcds.org.uk/clinical-guidance/angioedema"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart14.html#urticaria",
+  "patient_information": [
+   {
+    "name": "NHS: Hives",
+    "url": "https://www.nhs.uk/conditions/hives/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "PCDS: Urticaria and angioedema leaflet",
+    "url": "https://www.pcds.org.uk/patient-info-leaflets/urticaria-and-angioedema",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#urticaria",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "fungal-skin",
+  "name": "Fungal skin and nail infections (tinea)",
+  "code": "PCDS · UKHSA",
+  "link": "https://www.pcds.org.uk/clinical-guidance/tinea",
+  "resources": [
+   {
+    "title": "PCDS: Tinea corporis, cruris and incognito (updated 2 June 2023)",
+    "url": "https://www.pcds.org.uk/clinical-guidance/tinea-corporis-body-cruris-groin-and-incognito-steroid-exacerbated"
+   },
+   {
+    "title": "PCDS: Tinea pedis, manuum and unguium (updated 25 July 2023)",
+    "url": "https://www.pcds.org.uk/clinical-guidance/tinea-pedis-feet-manuum-hands-and-unguium-nails"
+   },
+   {
+    "title": "PCDS: Tinea capitis (updated 22 September 2022)",
+    "url": "https://www.pcds.org.uk/clinical-guidance/tinea-capitis-scalp"
+   },
+   {
+    "title": "UKHSA (PHE): fungal skin and nail infections, quick reference summary (reformatted May 2017; scheduled review March 2018 has passed)",
+    "url": "https://assets.publishing.service.gov.uk/media/5a82e55f40f0b6230269d449/Fungal_skin_and_nail_infections_guidance_summary_table.pdf"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart14.html#fungal-skin",
+  "patient_information": [
+   {
+    "name": "NHS: Ringworm",
+    "url": "https://www.nhs.uk/conditions/ringworm/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Athlete's foot",
+    "url": "https://www.nhs.uk/conditions/athletes-foot/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Fungal nail infection",
+    "url": "https://www.nhs.uk/conditions/fungal-nail-infection/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#fungal-skin",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "erectile-dysfunction",
+  "name": "Erectile dysfunction",
+  "code": "Sussex formulary · NHS ICB guidance",
+  "link": "https://www.sussexformulary.nhs.uk/therapeutic-sections/7-genito-urinary-system/74-erectile-and-ejaculatory-conditions/741-erectile-dysfunction/",
+  "resources": [
+   {
+    "title": "Sussex Formulary 7.4.1 Erectile dysfunction (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/7-genito-urinary-system/74-erectile-and-ejaculatory-conditions/741-erectile-dysfunction/"
+   },
+   {
+    "title": "NHS Bath and North East Somerset, Swindon and Wiltshire ICB: erectile dysfunction primary care guidance (October 2025; regional, not Sussex)",
+    "url": "https://bswtogether.org.uk/medicines/wp-content/uploads/sites/3/2025/10/BSW-Erectile-Dysfunction-Primary-Care-Guidance-OCT-2025-FINAL-v0.3.pdf"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart14.html#erectile-dysfunction",
+  "patient_information": [
+   {
+    "name": "NHS: Erection problems (erectile dysfunction)",
+    "url": "https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#erectile-dysfunction",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "dizziness",
+  "name": "Dizziness and vertigo",
+  "code": "NHS SWL ICB 2025",
+  "link": "https://swlimo.southwestlondon.icb.nhs.uk/clinical-guidance/central-nervous-system/neurology/dizziness/",
+  "resources": [
+   {
+    "title": "NHS South West London ICB: dizziness (approved by IMOC March 2025; regional NHS guidance based on CKS)",
+    "url": "https://swlimo.southwestlondon.icb.nhs.uk/clinical-guidance/central-nervous-system/neurology/dizziness/"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart14.html#dizziness",
+  "patient_information": [
+   {
+    "name": "NHS: Vertigo",
+    "url": "https://www.nhs.uk/conditions/vertigo/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Labyrinthitis and vestibular neuritis",
+    "url": "https://www.nhs.uk/conditions/labyrinthitis/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#dizziness",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "tiredness",
+  "name": "Tiredness and fatigue",
+  "code": "NICE NG206 · NG12",
+  "link": "https://www.nice.org.uk/guidance/ng206",
+  "resources": [
+   {
+    "title": "NICE NG206 ME/CFS, recommendations 1.2–1.4 and 1.11.14",
+    "url": "https://www.nice.org.uk/guidance/ng206/chapter/Recommendations"
+   },
+   {
+    "title": "NICE NG12 1.1.2 and 1.10.1",
+    "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart14.html#tiredness",
+  "patient_information": [
+   {
+    "name": "NHS: Tiredness and fatigue",
+    "url": "https://www.nhs.uk/conditions/tiredness-and-fatigue/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Myalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)",
+    "url": "https://www.nhs.uk/conditions/chronic-fatigue-syndrome-cfs/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#tiredness",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
  }
 ]
