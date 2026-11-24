@@ -1,3 +1,11 @@
+## 24 November 2026: new pathways, batch 4 (men's health)
+
+- New "Men's health" group (chart12.html), each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
+  - Lower urinary tract symptoms in men (NICE CG97; NG12 1.6)
+  - PSA testing and suspected prostate cancer (NICE NG12 1.6 with table 2 age-specific thresholds, 1.14.6 and 1.15.2; NHS PSA test page)
+- Erectile dysfunction was not built: no UK clinical source for it could be opened from the build environment (BSSM unreachable; CKS blocked).
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: new pathways, batch 3 (women's health)
 
 - New page chart11.html in the Women's and sexual health group, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
