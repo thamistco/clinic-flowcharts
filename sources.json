@@ -3345,6 +3345,18 @@
   "link": "https://www.nice.org.uk/guidance/cg99",
   "resources": [
    {
+    "title": "BNFC: sodium picosulfate (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/sodium-picosulfate/"
+   },
+   {
+    "title": "BNFC: bisacodyl (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/bisacodyl/"
+   },
+   {
+    "title": "BNFC: senna (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/senna/"
+   },
+   {
     "title": "BNFC: lactulose (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnfc.nice.org.uk/drugs/lactulose/"
    },
@@ -3447,6 +3459,10 @@
   "code": "NICE NG240",
   "link": "https://www.nice.org.uk/guidance/ng240",
   "resources": [
+   {
+    "title": "BNF: benzylpenicillin sodium (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/benzylpenicillin-sodium/"
+   },
    {
     "title": "BNF: ceftriaxone (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/ceftriaxone/"
@@ -4086,6 +4102,10 @@
   "link": "https://cks.nice.org.uk/topics/fungal-skin-infection-body-groin/",
   "resources": [
    {
+    "title": "BNFC: itraconazole (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/itraconazole/"
+   },
+   {
     "title": "BNFC: griseofulvin (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnfc.nice.org.uk/drugs/griseofulvin/"
    },
@@ -4335,6 +4355,14 @@
   "code": "NICE NG31",
   "link": "https://www.nice.org.uk/guidance/ng31",
   "resources": [
+   {
+    "title": "BNF: alfentanil (page content as reported by the site owner; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/alfentanil/"
+   },
+   {
+    "title": "BNF: morphine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/morphine/"
+   },
    {
     "title": "BNF: cyclizine (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/cyclizine/"
