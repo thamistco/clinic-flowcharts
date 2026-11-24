@@ -3961,6 +3961,10 @@
   "link": "https://cks.nice.org.uk/topics/erectile-dysfunction/",
   "resources": [
    {
+    "title": "NICE CKS erectile dysfunction: assessment (last revised July 2026; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/erectile-dysfunction/diagnosis/assessment/"
+   },
+   {
     "title": "BNF treatment summary: erectile dysfunction (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/treatment-summaries/erectile-dysfunction/"
    },
@@ -4014,6 +4018,34 @@
   "code": "NICE CKS · NHS SWL ICB",
   "link": "https://cks.nice.org.uk/topics/vertigo/",
   "resources": [
+   {
+    "title": "BNF: promethazine teoclate (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/promethazine-teoclate/"
+   },
+   {
+    "title": "BNF: cyclizine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/cyclizine/"
+   },
+   {
+    "title": "BNF: cinnarizine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/cinnarizine/"
+   },
+   {
+    "title": "BNF: prochlorperazine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/prochlorperazine/"
+   },
+   {
+    "title": "NICE CKS benign paroxysmal positional vertigo: summary (last revised November 2025; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/benign-paroxysmal-positional-vertigo/"
+   },
+   {
+    "title": "NICE CKS vertigo: central vertigo (last revised December 2022; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/vertigo/management/central-vertigo/"
+   },
+   {
+    "title": "NICE CKS vertigo: peripheral vertigo (last revised December 2022; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/vertigo/management/peripheral-vertigo/"
+   },
    {
     "title": "NICE CKS vertigo: summary (last revised December 2022; text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://cks.nice.org.uk/topics/vertigo/"

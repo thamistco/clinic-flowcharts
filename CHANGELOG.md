@@ -1,3 +1,20 @@
+## 24 November 2026: dizziness and ED from CKS/BNF part 7a (text supplied by the site owner)
+
+- Dizziness and vertigo rebuilt on CKS peripheral and central vertigo (December 2022), CKS BPPV (November 2025) and the BNF:
+  - CKS red flags for urgent brain imaging, and criteria for admission or urgent referral.
+  - BPPV: watchful waiting, Epley, Brandt-Daroff, review and referral at 4 weeks; drugs not usually helpful.
+  - Balance specialist referral for vertigo of uncertain cause.
+  - Symptom relief for no longer than 1 week; benzodiazepines not recommended.
+  - BNF adult doses quoted verbatim for prochlorperazine, cinnarizine, cyclizine and promethazine teoclate, replacing "check the BNF".
+- Erectile dysfunction: CKS assessment (July 2026) added:
+  - organic vs psychogenic features; IIEF-5
+  - examination and DRE criteria
+  - fasting total testosterone 9–11 am, with repeat FSH, LH, SHBG and prolactin; BSW 8–10 am shown as a source note
+  - a new cardiac risk of sexual activity step (low, intermediate and high)
+- Source difference flagged: CKS treats MI within 2 weeks as high risk; for prescribing, the BNF contraindications apply (tadalafil within 90 days; sildenafil recent MI).
+- Both EMIS templates rewritten to match.
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: decisions on source conflicts (AI-reviewed decision, awaiting clinician sign-off)
 
 - Delegated to the site reviewers by the clinical lead and applied as written; each is labelled on the page:
