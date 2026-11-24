@@ -6,7 +6,7 @@
   - New "Alcohol and smoking" group:
     - Alcohol use disorders (NICE CG115, updated October 2014; CG100, updated April 2017)
     - Stopping smoking (NICE NG209 1.11–1.12, updated February 2025, including cytisinicline age limits)
-- Not built: dizziness and vertigo, tiredness, fungal skin infection, red eye, allergic rhinitis and urticaria. Their UK sources (CKS and others) could not be opened from the build environment.
+- Not built: dizziness and vertigo, tiredness and fungal skin infection (their CKS sources could not be opened from the build environment). Red eye, allergic rhinitis and urticaria were not attempted in this batch.
 - AI-assisted; not clinically signed off.
 
 ## 24 November 2026: new pathways, batch 4 (men's health)
