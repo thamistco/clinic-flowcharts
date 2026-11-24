@@ -1,3 +1,14 @@
+## 24 November 2026: new pathways, batch 5 (everyday problems)
+
+- New page chart13.html, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
+  - Rectal bleeding and bowel symptoms: FIT and suspected colorectal cancer referral (NICE NG12 1.3.1–1.3.6, 1.14.6 and 1.15.1; Stomach and bowel group)
+  - Psoriasis (NICE CG153, updated September 2017; Skin and hair group)
+  - New "Alcohol and smoking" group:
+    - Alcohol use disorders (NICE CG115, updated October 2014; CG100, updated April 2017)
+    - Stopping smoking (NICE NG209 1.11–1.12, updated February 2025, including cytisinicline age limits)
+- Not built: dizziness and vertigo, tiredness, fungal skin infection, red eye, allergic rhinitis and urticaria. Their UK sources (CKS and others) could not be opened from the build environment.
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: new pathways, batch 4 (men's health)
 
 - New "Men's health" group (chart12.html), each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:

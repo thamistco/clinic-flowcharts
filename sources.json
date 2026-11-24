@@ -3628,5 +3628,118 @@
   ],
   "emis_template": "emis.html#prostate-psa",
   "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "rectal-bleeding",
+  "name": "Rectal bleeding and suspected bowel cancer",
+  "code": "NICE NG12",
+  "link": "https://www.nice.org.uk/guidance/ng12",
+  "resources": [
+   {
+    "title": "NICE NG12 1.3 lower gastrointestinal tract cancers",
+    "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer"
+   },
+   {
+    "title": "NICE NG12 safety netting (1.14–1.15)",
+    "url": "https://www.nice.org.uk/guidance/ng12/chapter/Recommendations-on-patient-support-safety-netting-and-the-diagnostic-process"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart13.html#rectal-bleeding",
+  "patient_information": [
+   {
+    "name": "NHS: Bleeding from the bottom (rectal bleeding)",
+    "url": "https://www.nhs.uk/symptoms/bleeding-from-the-bottom-rectal-bleeding/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Bowel cancer",
+    "url": "https://www.nhs.uk/conditions/bowel-cancer/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#rectal-bleeding",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "psoriasis",
+  "name": "Psoriasis",
+  "code": "NICE CG153",
+  "link": "https://www.nice.org.uk/guidance/cg153",
+  "resources": [
+   {
+    "title": "NICE CG153 recommendations 1.1–1.3",
+    "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart13.html#psoriasis",
+  "patient_information": [
+   {
+    "name": "NHS: Psoriasis",
+    "url": "https://www.nhs.uk/conditions/psoriasis/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#psoriasis",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "alcohol",
+  "name": "Alcohol use disorders",
+  "code": "NICE CG115 · CG100",
+  "link": "https://www.nice.org.uk/guidance/cg115",
+  "resources": [
+   {
+    "title": "NICE CG115 recommendations 1.2–1.3",
+    "url": "https://www.nice.org.uk/guidance/cg115/chapter/Recommendations"
+   },
+   {
+    "title": "NICE CG100 recommendations 1.1–1.2 (withdrawal, Wernicke's)",
+    "url": "https://www.nice.org.uk/guidance/cg100/chapter/Recommendations"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart13.html#alcohol",
+  "patient_information": [
+   {
+    "name": "NHS: Alcohol advice",
+    "url": "https://www.nhs.uk/live-well/alcohol-advice/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#alcohol",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "smoking",
+  "name": "Stopping smoking",
+  "code": "NICE NG209",
+  "link": "https://www.nice.org.uk/guidance/ng209",
+  "resources": [
+   {
+    "title": "NICE NG209: treating tobacco dependence (1.11–1.12)",
+    "url": "https://www.nice.org.uk/guidance/ng209/chapter/Treating-tobacco-dependence"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart13.html#smoking",
+  "patient_information": [
+   {
+    "name": "NHS Better Health: Quit smoking",
+    "url": "https://www.nhs.uk/better-health/quit-smoking/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#smoking",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
  }
 ]
