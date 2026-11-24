@@ -3440,6 +3440,10 @@
   "link": "https://www.nice.org.uk/guidance/ng240",
   "resources": [
    {
+    "title": "BNF: ceftriaxone (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/ceftriaxone/"
+   },
+   {
     "title": "BNFC: benzylpenicillin sodium (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnfc.nice.org.uk/drugs/benzylpenicillin-sodium/"
    },
@@ -3615,6 +3619,30 @@
   "code": "NICE CG97",
   "link": "https://www.nice.org.uk/guidance/cg97",
   "resources": [
+   {
+    "title": "BNF: mirabegron (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/mirabegron/"
+   },
+   {
+    "title": "BNF: oxybutynin hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/oxybutynin-hydrochloride/"
+   },
+   {
+    "title": "BNF: solifenacin succinate (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/solifenacin-succinate/"
+   },
+   {
+    "title": "BNF: finasteride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/finasteride/"
+   },
+   {
+    "title": "BNF: doxazosin (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/doxazosin/"
+   },
+   {
+    "title": "BNF: alfuzosin hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/alfuzosin-hydrochloride/"
+   },
    {
     "title": "BNF: tamsulosin hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/tamsulosin-hydrochloride/"
@@ -3800,6 +3828,10 @@
   "link": "https://www.nice.org.uk/guidance/ng209",
   "resources": [
    {
+    "title": "BNF: nicotine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/nicotine/"
+   },
+   {
     "title": "BNF: bupropion hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/bupropion-hydrochloride/"
    },
@@ -3840,6 +3872,22 @@
   "code": "NICE CKS · NHS · College of Optometrists",
   "link": "https://cks.nice.org.uk/topics/red-eye/",
   "resources": [
+   {
+    "title": "BNF: olopatadine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/olopatadine/"
+   },
+   {
+    "title": "BNF: sodium cromoglicate (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/sodium-cromoglicate/"
+   },
+   {
+    "title": "BNF: fusidic acid (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/fusidic-acid/"
+   },
+   {
+    "title": "BNF: chloramphenicol (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/chloramphenicol/"
+   },
    {
     "title": "NICE CKS conjunctivitis – allergic: summary (last revised May 2022; text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://cks.nice.org.uk/topics/conjunctivitis-allergic/"
@@ -3895,6 +3943,30 @@
   "link": "https://cks.nice.org.uk/topics/allergic-rhinitis/",
   "resources": [
    {
+    "title": "BNF: loratadine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/loratadine/"
+   },
+   {
+    "title": "BNF: cetirizine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/cetirizine-hydrochloride/"
+   },
+   {
+    "title": "BNF: fexofenadine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/fexofenadine-hydrochloride/"
+   },
+   {
+    "title": "BNF: fluticasone with azelastine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/fluticasone-with-azelastine/"
+   },
+   {
+    "title": "BNF: fluticasone (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/fluticasone/"
+   },
+   {
+    "title": "BNF: mometasone furoate (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/mometasone-furoate/"
+   },
+   {
     "title": "NICE CKS allergic rhinitis: summary (last revised January 2024; text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://cks.nice.org.uk/topics/allergic-rhinitis/"
    },
@@ -3923,6 +3995,22 @@
   "code": "NICE CKS · PCDS 2025 · NHS",
   "link": "https://cks.nice.org.uk/topics/urticaria/",
   "resources": [
+   {
+    "title": "BNF: chlorphenamine maleate (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/chlorphenamine-maleate/"
+   },
+   {
+    "title": "BNF: fexofenadine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/fexofenadine-hydrochloride/"
+   },
+   {
+    "title": "BNF: loratadine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/loratadine/"
+   },
+   {
+    "title": "BNF: cetirizine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/cetirizine-hydrochloride/"
+   },
    {
     "title": "NICE CKS urticaria: summary (last revised January 2026; text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://cks.nice.org.uk/topics/urticaria/"
@@ -3965,6 +4053,10 @@
   "code": "NICE CKS · PCDS · UKHSA",
   "link": "https://cks.nice.org.uk/topics/fungal-skin-infection-body-groin/",
   "resources": [
+   {
+    "title": "BNF: fluconazole (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/fluconazole/"
+   },
    {
     "title": "BNF: griseofulvin (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/griseofulvin/"
@@ -4290,6 +4382,14 @@
   "code": "BASHH 2023–2026",
   "link": "https://www.bashh.org/resources/guidelines",
   "resources": [
+   {
+    "title": "BNF: ceftriaxone (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/ceftriaxone/"
+   },
+   {
+    "title": "BNF: azithromycin (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/azithromycin/"
+   },
    {
     "title": "BNF: doxycycline (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/doxycycline/"
