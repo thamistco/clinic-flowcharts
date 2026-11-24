@@ -1,3 +1,21 @@
+## 24 November 2026: corrections from NICE CKS and BNF (text supplied by the site owner)
+
+- CKS and BNF pages are blocked from the build environment (HTTP 403). The site owner supplied their text, copied from the live pages on 24 November 2026; each source label says so.
+- Erectile dysfunction, rebuilt on CKS (July 2026) and the BNF:
+  - HbA1c, lipid profile and fasting morning total testosterone for all men (was missing).
+  - Lifestyle advice, including the cycling trial; no unlicensed herbal products.
+  - BNF doses quoted verbatim for sildenafil and tadalafil, including renal and CYP3A4 adjustments; BNF contraindications.
+  - Dose escalation and switching.
+  - A full referral step, adding psychosexual, relationship and mental health referral and the cardiac-risk advice to stop sexual activity until assessed.
+  - Minor source differences are shown, not resolved: CKS says to try each PDE-5 inhibitor "4–8 times" before switching, the BNF says "six doses" and Sussex says 8 doses; on SLS wording, see the Drug Tariff.
+  - The regional-versus-Sussex tadalafil conflict is unchanged (for clinician decision).
+- Dizziness: CKS vertigo (December 2022) central-cause features and examination tests added.
+- Tiredness: CKS (June 2025) history, urine pregnancy test, and a primary care management step added.
+- Fungal skin: CKS (July 2023) sampling, mild topical steroid for marked inflammation, oral options and alternatives, persistent-infection review, and a dermatology referral step (was missing).
+- Red eye: CKS (March 2026) same-day and within-24-hours referral criteria, chemical injury irrigation, and child maltreatment prompt. The NHS 28- versus 30-day wording is unchanged (for clinician decision).
+- Five EMIS templates updated to match.
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: Sussex local notes on the new pathways
 
 - Sussex Formulary notes (read 24 November 2026) added to the prescribing steps of 11 new pathways: DVT/PE (apixaban, rivaroxaban), constipation in children (macrogol), UTI in under 16s (East Sussex follows the NICE/PHE antimicrobial summary), eczema in children (topical steroids; MHRA emollient fire-hazard leaflet), heavy menstrual bleeding (LNG-IUS by brand, tranexamic acid), nausea and vomiting in pregnancy (chapter 17 antiemetics), LUTS in men, psoriasis (calcipotriol limits), alcohol (naltrexone non-formulary in East Sussex), stopping smoking. Formulary notes are quoted verbatim; colour status is never inferred.
