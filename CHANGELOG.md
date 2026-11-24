@@ -1,3 +1,14 @@
+## 24 November 2026: BNF/BNFC doses and cautions from part 7d (text supplied by the site owner)
+
+"Check the BNF" steps replaced with BNF/BNFC text on seven pathways:
+- Alcohol: thiamine oral doses and MHRA/CHM parenteral advice; acamprosate (weight-banded) and naltrexone (specialist-initiated; 25 mg start is unlicensed) with renal, hepatic, opioid and monitoring cautions
+- Smoking: varenicline, cytisinicline and bupropion regimens, contraindications and MHRA serotonin syndrome advice; NRT doses not yet supplied
+- Nausea in pregnancy: ondansetron has no BNF pregnancy dose; manufacturer (avoid in first trimester) vs MHRA (joint decision) shown as a source difference; QT cautions
+- Heavy menstrual bleeding: tranexamic acid 1 g three times a day for up to 4 days (maximum 4 g per day), contraindications and cautions
+- Male LUTS: tamsulosin 400 micrograms once daily, contraindications and floppy iris caution
+- STI testing: doxycycline 7-day chlamydia/NGU and 14-day PID courses; pregnancy, breastfeeding and administration advice
+- Suspected meningitis or meningococcal disease: BNFC pre-hospital benzylpenicillin doses by age and penicillin allergy advice
+
 ## 24 November 2026: rhinitis, urticaria and conjunctivitis from CKS part 7c (text supplied by the site owner)
 
 - Allergic rhinitis (CKS, January 2024):
