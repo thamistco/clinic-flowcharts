@@ -1,3 +1,13 @@
+## 24 November 2026: new pathways, batch 7 (end of life, learning disability, sexual health)
+
+- New page chart15.html, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
+  - New "Palliative and end of life care" group:
+    - Last days of life (NICE NG31 1.1–1.6; Sussex Formulary appendix 4 palliative care)
+    - Approaching the end of life and advance care planning (NICE NG142 1.1–1.7)
+  - Learning disability: annual health check (NICE NG54 1.5, 1.6.1, 1.9.7; NG11 1.2.1, 1.8; NHS annual health checks page; Mental health and neurodevelopment group)
+  - STI testing, chlamydia and gonorrhoea, with HIV PEP timing (BASHH testing 2023, chlamydia 2026, gonorrhoea 2025; BASHH/BHIVA PEP 2021, 2023 amendment; Women's and sexual health group)
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: new pathways, batch 6 (remaining common presentations)
 
 - New page chart14.html, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:

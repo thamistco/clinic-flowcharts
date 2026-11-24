@@ -3982,5 +3982,139 @@
   ],
   "emis_template": "emis.html#tiredness",
   "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "last-days",
+  "name": "Last days of life",
+  "code": "NICE NG31",
+  "link": "https://www.nice.org.uk/guidance/ng31",
+  "resources": [
+   {
+    "title": "NICE NG31 care of dying adults in the last days of life, recommendations 1.1–1.6",
+    "url": "https://www.nice.org.uk/guidance/ng31/chapter/Recommendations"
+   },
+   {
+    "title": "Sussex Formulary appendix 4: palliative care (anticipatory medicines by symptom)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/appendix-4-palliative-care/"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart15.html#last-days",
+  "patient_information": [
+   {
+    "name": "NHS: End of life care",
+    "url": "https://www.nhs.uk/conditions/end-of-life-care/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#last-days",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "end-of-life-planning",
+  "name": "Approaching the end of life and advance care planning",
+  "code": "NICE NG142",
+  "link": "https://www.nice.org.uk/guidance/ng142",
+  "resources": [
+   {
+    "title": "NICE NG142 end of life care for adults: service delivery, recommendations 1.1–1.7",
+    "url": "https://www.nice.org.uk/guidance/ng142/chapter/Recommendations"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart15.html#end-of-life-planning",
+  "patient_information": [
+   {
+    "name": "NHS: End of life care",
+    "url": "https://www.nhs.uk/conditions/end-of-life-care/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#end-of-life-planning",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "learning-disability",
+  "name": "Learning disability: annual health check",
+  "code": "NICE NG54 · NG11 · NHS",
+  "link": "https://www.nice.org.uk/guidance/ng54",
+  "resources": [
+   {
+    "title": "NICE NG54 mental health problems in people with learning disabilities, 1.5 and 1.9.7",
+    "url": "https://www.nice.org.uk/guidance/ng54/chapter/Recommendations"
+   },
+   {
+    "title": "NICE NG11 challenging behaviour and learning disabilities, 1.2.1 and 1.8",
+    "url": "https://www.nice.org.uk/guidance/ng11/chapter/Recommendations"
+   },
+   {
+    "title": "NHS: Annual health checks for people with a learning disability (reviewed September 2025)",
+    "url": "https://www.nhs.uk/conditions/learning-disabilities/annual-health-checks/"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart15.html#learning-disability",
+  "patient_information": [
+   {
+    "name": "NHS: Annual health checks (learning disability)",
+    "url": "https://www.nhs.uk/conditions/learning-disabilities/annual-health-checks/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#learning-disability",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "sti-testing",
+  "name": "STI testing, chlamydia and gonorrhoea",
+  "code": "BASHH 2023–2026",
+  "link": "https://www.bashh.org/resources/guidelines",
+  "resources": [
+   {
+    "title": "BASHH chlamydia guideline 2026",
+    "url": "https://www.bashh.org/_userfiles/pages/files/national_guideline_for_the_management_of_infection_chlamydia_trachomatis_2026.pdf"
+   },
+   {
+    "title": "BASHH gonorrhoea guideline 2025",
+    "url": "https://www.bashh.org/_userfiles/pages/files/fiferetal2025britishassociationofsexualhealthandhivuknationalguidelineforthemanagementofinfection_1.pdf"
+   },
+   {
+    "title": "BASHH summary guidance on STI testing 2023",
+    "url": "https://www.bashh.org/_userfiles/pages/files/resources/bashh_summary_guidance_on_stis_testing_2023.pdf"
+   },
+   {
+    "title": "BASHH/BHIVA HIV post-exposure prophylaxis guideline 2021 (2023 amendment)",
+    "url": "https://www.bashh.org/_userfiles/pages/files/resources/pep2021_2023amendment.pdf"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart15.html#sti-testing",
+  "patient_information": [
+   {
+    "name": "NHS: Sexually transmitted infections (STIs)",
+    "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Chlamydia",
+    "url": "https://www.nhs.uk/conditions/chlamydia/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Gonorrhoea",
+    "url": "https://www.nhs.uk/conditions/gonorrhoea/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#sti-testing",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
  }
 ]
