@@ -3230,6 +3230,10 @@
    {
     "title": "NICE NG158 recommendations 1.1 (diagnosis) and 1.3 (anticoagulation)",
     "url": "https://www.nice.org.uk/guidance/ng158/chapter/Recommendations"
+   },
+   {
+    "title": "Sussex Formulary 2.3.2 oral anticoagulants (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/2-cardiovascular-system/23-blood-clots/232-thromboembolism/oral-anticoagulant/"
    }
   ],
   "category": "Acute & other",
@@ -3343,6 +3347,10 @@
    {
     "title": "NICE CG99 recommendations (tables 1–3)",
     "url": "https://www.nice.org.uk/guidance/cg99/chapter/Recommendations"
+   },
+   {
+    "title": "Sussex Formulary 1.2.2 constipation (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/1-gastro-intestinal-system/12-constipation-and-bowel-cleansing/122-constipation/"
    }
   ],
   "category": "Long-term care",
@@ -3372,6 +3380,10 @@
    {
     "title": "NICE NG109 table 4: antibiotics for under 16s",
     "url": "https://www.nice.org.uk/guidance/ng109/chapter/Recommendations"
+   },
+   {
+    "title": "Sussex Formulary antimicrobial guidance page (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/antimicrobial-guidance/"
    }
   ],
   "category": "Acute & other",
@@ -3397,6 +3409,14 @@
    {
     "title": "NICE CG57 recommendations (table 2: stepped treatment)",
     "url": "https://www.nice.org.uk/guidance/cg57/chapter/Recommendations"
+   },
+   {
+    "title": "Sussex Formulary 13.3.1 eczema and psoriasis (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/13-skin/133-inflammatory-skin-conditions/1331-eczema-and-psoriasis/"
+   },
+   {
+    "title": "Sussex Formulary 13.1 dry and scaling skin disorders (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/13-skin/131-dry-and-scaling-skin-disorders/"
    }
   ],
   "category": "Long-term care",
@@ -3452,6 +3472,14 @@
    {
     "title": "NICE NG88 recommendations 1.2–1.5",
     "url": "https://www.nice.org.uk/guidance/ng88/chapter/Recommendations"
+   },
+   {
+    "title": "Sussex Formulary 7.3.2 contraception devices (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/7-genito-urinary-system/73-contraception/732-contraception-devices/"
+   },
+   {
+    "title": "Sussex Formulary 2.2 bleeding disorders (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/2-cardiovascular-system/22-bleeding-disorders/"
    }
   ],
   "category": "Long-term care",
@@ -3519,6 +3547,10 @@
    {
     "title": "MHRA Drug Safety Update: ondansetron in the first 12 weeks (January 2020)",
     "url": "https://www.gov.uk/drug-safety-update/ondansetron-small-increased-risk-of-oral-clefts-following-use-in-the-first-12-weeks-of-pregnancy"
+   },
+   {
+    "title": "Sussex Formulary 17.1 antiemetics in pregnancy (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/17-nausea-and-vomiting-in-pregnancy-and-hyperemesis-gravidarum/171-antiemetics-and-antinauseants/"
    }
   ],
   "category": "Acute & other",
@@ -3574,6 +3606,14 @@
    {
     "title": "NICE CG97 recommendations 1.1, 1.3, 1.4",
     "url": "https://www.nice.org.uk/guidance/cg97/chapter/Recommendations"
+   },
+   {
+    "title": "Sussex Formulary 7.1.2 urinary retention (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/7-genito-urinary-system/71-bladder-and-urinary-disorders/712-urinary-retention/"
+   },
+   {
+    "title": "Sussex Formulary 7.1.1 urinary frequency and incontinence (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/7-genito-urinary-system/71-bladder-and-urinary-disorders/711-urinary-frequency-enuresis-and-incontinence/"
    }
   ],
   "category": "Long-term care",
@@ -3672,6 +3712,10 @@
    {
     "title": "NICE CG153 recommendations 1.1–1.3",
     "url": "https://www.nice.org.uk/guidance/cg153/chapter/Recommendations"
+   },
+   {
+    "title": "Sussex Formulary 13.3.1 eczema and psoriasis (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/13-skin/133-inflammatory-skin-conditions/1331-eczema-and-psoriasis/"
    }
   ],
   "category": "Long-term care",
@@ -3701,6 +3745,10 @@
    {
     "title": "NICE CG100 recommendations 1.1–1.2 (withdrawal, Wernicke's)",
     "url": "https://www.nice.org.uk/guidance/cg100/chapter/Recommendations"
+   },
+   {
+    "title": "Sussex Formulary 4.8.1 alcohol dependence (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/4-nervous-system/48-substance-dependence/481-alcohol-dependence/"
    }
   ],
   "category": "Long-term care",
@@ -3726,6 +3774,10 @@
    {
     "title": "NICE NG209: treating tobacco dependence (1.11–1.12)",
     "url": "https://www.nice.org.uk/guidance/ng209/chapter/Treating-tobacco-dependence"
+   },
+   {
+    "title": "Sussex Formulary 4.8.2 nicotine dependence (read 24 November 2026)",
+    "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/4-nervous-system/48-substance-dependence/482-nicotine-dependence/"
    }
   ],
   "category": "Long-term care",
@@ -3944,6 +3996,11 @@
     "name": "NHS: Labyrinthitis and vestibular neuritis",
     "url": "https://www.nhs.uk/conditions/labyrinthitis/",
     "checked": "24 November 2026"
+   },
+   {
+    "name": "University Hospitals Sussex: BPPV patient information (2025)",
+    "url": "https://www.uhsussex.nhs.uk/wp-content/uploads/2021/05/699.3-BPPV-%E2%80%93-Benign-Paroxysmal-Positional-Vertigo-2025.pdf",
+    "checked": "24 November 2026"
    }
   ],
   "emis_template": "emis.html#dizziness",
@@ -4091,6 +4148,10 @@
    {
     "title": "BASHH/BHIVA HIV post-exposure prophylaxis guideline 2021 (2023 amendment)",
     "url": "https://www.bashh.org/_userfiles/pages/files/resources/pep2021_2023amendment.pdf"
+   },
+   {
+    "title": "East Sussex Sexual Health service website (read 24 November 2026)",
+    "url": "https://www.eastsussexsexualhealth.co.uk/"
    }
   ],
   "category": "Acute & other",
@@ -4111,6 +4172,11 @@
    {
     "name": "NHS: Gonorrhoea",
     "url": "https://www.nhs.uk/conditions/gonorrhoea/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "East Sussex Sexual Health: services and home test kits",
+    "url": "https://www.eastsussexsexualhealth.co.uk/",
     "checked": "24 November 2026"
    }
   ],
