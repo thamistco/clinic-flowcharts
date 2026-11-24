@@ -3165,5 +3165,148 @@
   ],
   "emis_template": "emis.html#hair-loss",
   "status": "restored 19 November 2026 - automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "chest-pain",
+  "name": "Chest pain: acute and stable",
+  "code": "NICE CG95",
+  "link": "https://www.nice.org.uk/guidance/cg95",
+  "resources": [
+   {
+    "title": "NICE CG95 recommendations (1.2 acute, 1.3 stable chest pain)",
+    "url": "https://www.nice.org.uk/guidance/cg95/chapter/Recommendations"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart9.html#chest-pain",
+  "patient_information": [
+   {
+    "name": "NHS: Chest pain",
+    "url": "https://www.nhs.uk/symptoms/chest-pain/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#chest-pain",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "tia-stroke",
+  "name": "Suspected stroke or TIA",
+  "code": "NICE NG128",
+  "link": "https://www.nice.org.uk/guidance/ng128",
+  "resources": [
+   {
+    "title": "NICE NG128 recommendations 1.1 (rapid recognition and initial management)",
+    "url": "https://www.nice.org.uk/guidance/ng128/chapter/Recommendations"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart9.html#tia-stroke",
+  "patient_information": [
+   {
+    "name": "NHS: Transient ischaemic attack (TIA)",
+    "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Stroke",
+    "url": "https://www.nhs.uk/conditions/stroke/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#tia-stroke",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "dvt-pe",
+  "name": "Suspected DVT or pulmonary embolism",
+  "code": "NICE NG158",
+  "link": "https://www.nice.org.uk/guidance/ng158",
+  "resources": [
+   {
+    "title": "NICE NG158 recommendations 1.1 (diagnosis) and 1.3 (anticoagulation)",
+    "url": "https://www.nice.org.uk/guidance/ng158/chapter/Recommendations"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart9.html#dvt-pe",
+  "patient_information": [
+   {
+    "name": "NHS: Deep vein thrombosis (DVT)",
+    "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Pulmonary embolism",
+    "url": "https://www.nhs.uk/conditions/pulmonary-embolism/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#dvt-pe",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "sepsis-adult",
+  "name": "Suspected sepsis (aged 16 or over)",
+  "code": "NICE NG253",
+  "link": "https://www.nice.org.uk/guidance/ng253",
+  "resources": [
+   {
+    "title": "NICE NG253: could this be sepsis?",
+    "url": "https://www.nice.org.uk/guidance/ng253/chapter/Could-this-be-sepsis"
+   },
+   {
+    "title": "NICE NG253: evaluating risk (table 1, community settings)",
+    "url": "https://www.nice.org.uk/guidance/ng253/chapter/Evaluating-risk"
+   },
+   {
+    "title": "NICE NG253: managing suspected sepsis",
+    "url": "https://www.nice.org.uk/guidance/ng253/chapter/Managing-suspected-sepsis"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart9.html#sepsis-adult",
+  "patient_information": [
+   {
+    "name": "NHS: Sepsis",
+    "url": "https://www.nhs.uk/conditions/sepsis/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#sepsis-adult",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "blackout",
+  "name": "Blackouts and collapse (TLoC)",
+  "code": "NICE CG109",
+  "link": "https://www.nice.org.uk/guidance/cg109",
+  "resources": [
+   {
+    "title": "NICE CG109 recommendations 1.1–1.2",
+    "url": "https://www.nice.org.uk/guidance/cg109/chapter/Recommendations"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart9.html#blackout",
+  "patient_information": [
+   {
+    "name": "NHS: Fainting",
+    "url": "https://www.nhs.uk/symptoms/fainting/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#blackout",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
  }
 ]

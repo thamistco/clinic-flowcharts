@@ -1,3 +1,14 @@
+## 24 November 2026: new pathways, batch 1 (urgent and red-flag presentations)
+
+- New "Urgent and red-flag presentations" group (chart9.html), each with an index card, search entry, sources.json entry, patient leaflets with review dates and an EMIS prompt set:
+  - Chest pain: suspected acute coronary syndrome and stable chest pain (NICE CG95)
+  - Suspected stroke or TIA (NICE NG128; NHS FAST message)
+  - Suspected DVT or pulmonary embolism (NICE NG158)
+  - Suspected sepsis in people aged 16 or over (NICE NG253, which replaced NG51)
+  - Transient loss of consciousness (NICE CG109)
+- Every step gives recommendation numbers; every step phrase and every number was checked by automated comparison with the cited source, opened 24 November 2026. Dizziness/vertigo was not built: its main UK source (CKS) could not be opened.
+- Status page lists the new pathways. AI-assisted; not clinically signed off.
+
 ## 23 November 2026 (evening): leaflet review dates; impression and safeguarding lines
 
 - Every patient leaflet (317 entries, 150 unique links) now shows the publisher's own review status beside the link: "reviewed … · next review …", "past its publisher's review date (…)" (highlighted), "no review date shown", or "review date not checked" where the site could not be reached from the checking environment. Dates were read from each page on 23 November 2026.
