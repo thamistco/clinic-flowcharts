@@ -3460,6 +3460,10 @@
   "link": "https://www.nice.org.uk/guidance/ng240",
   "resources": [
    {
+    "title": "BNFC: ceftriaxone (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/ceftriaxone/"
+   },
+   {
     "title": "BNF: benzylpenicillin sodium (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/benzylpenicillin-sodium/"
    },
@@ -3933,6 +3937,10 @@
   "link": "https://cks.nice.org.uk/topics/red-eye/",
   "resources": [
    {
+    "title": "BNFC: chloramphenicol (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/chloramphenicol/"
+   },
+   {
     "title": "BNF: azelastine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/azelastine-hydrochloride/"
    },
@@ -4007,6 +4015,22 @@
   "link": "https://cks.nice.org.uk/topics/allergic-rhinitis/",
   "resources": [
    {
+    "title": "BNFC: fluticasone (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/fluticasone/"
+   },
+   {
+    "title": "BNFC: mometasone furoate (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/mometasone-furoate/"
+   },
+   {
+    "title": "BNFC: loratadine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/loratadine/"
+   },
+   {
+    "title": "BNFC: cetirizine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/cetirizine-hydrochloride/"
+   },
+   {
     "title": "BNF: azelastine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/azelastine-hydrochloride/"
    },
@@ -4063,6 +4087,18 @@
   "code": "NICE CKS · PCDS 2025 · NHS",
   "link": "https://cks.nice.org.uk/topics/urticaria/",
   "resources": [
+   {
+    "title": "BNFC: chlorphenamine maleate (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/chlorphenamine-maleate/"
+   },
+   {
+    "title": "BNFC: loratadine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/loratadine/"
+   },
+   {
+    "title": "BNFC: cetirizine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/cetirizine-hydrochloride/"
+   },
    {
     "title": "BNF: calamine with zinc oxide (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/calamine-with-zinc-oxide/"

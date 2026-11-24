@@ -1,3 +1,12 @@
+## 25 November 2026: BNF pointers on older pages and BNFC child-dose confirmation from part 7l (text supplied by the site owner)
+
+- Community-acquired pneumonia (chart.html): BNF amoxicillin higher dose, renal and allergy notes in place of "see BNF"
+- Fever in under 5s (chart.html): BNFC pre-hospital benzylpenicillin and ceftriaxone doses, neonatal ceftriaxone contraindications and allergy notes in place of "no paediatric dose is drafted"; the NG143 vs NG240 source difference is unchanged
+- Shoulder pain (chart.html): BNF ibuprofen and naproxen doses and cautions
+- Anal fissure (chart8.html): BNF GTN rectal dose, nitrate contraindications and 8-week discard; source difference shown on pregnancy and breastfeeding (BNF vs chart's cautious "avoid")
+- Trigeminal neuralgia (chart8.html): BNF carbamazepine dose, contraindications, cautions and wider HLA-B*1502 testing advice; source difference shown on starting dose (BNF 100 mg 1–2 times a day vs SmPC 200–400 mg daily)
+- BNFC confirmation: ceftriaxone, chloramphenicol eye drops, cetirizine, loratadine, chlorphenamine, mometasone and fluticasone child doses match; labels updated; cetirizine 1-year dose, chlorphenamine neonatal contraindication and MHRA OTC advice, and neonatal ceftriaxone contraindications added
+
 ## 24 November 2026: optional BNF extras from part 7k (text supplied by the site owner)
 
 - Urticaria: calamine with zinc oxide – no BNF numeric dose (consult product literature; less suitable for prescribing), x-ray and emollient burns notes
