@@ -1,3 +1,17 @@
+## 24 November 2026: new pathways, batch 6 (remaining common presentations)
+
+- New page chart14.html, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
+  - Red eye and conjunctivitis (NHS red eye and conjunctivitis pages; College of Optometrists CMG public summary). New "Eyes and vision" group.
+  - Allergic rhinitis (BSACI rhinitis guideline, revised 2017; Ear, nose and throat group)
+  - Urticaria and angioedema (PCDS chapters updated December 2025; NHS hives page; Skin and hair group)
+  - Fungal skin and nail infections (PCDS tinea chapters 2022–2023; UKHSA/PHE summary table, review overdue; Skin and hair group)
+  - Erectile dysfunction (Sussex Formulary 7.4.1; NHS BSW ICB primary care guidance, October 2025; Men's health group)
+  - Dizziness and vertigo (NHS South West London ICB guidance, March 2025; Headache, nerves and pain group)
+  - Tiredness and fatigue (NICE NG206; NG12 1.1.2 and 1.10.1; Consultations and complex care group)
+- CKS was still blocked from the build environment, so several of these use UK society or regional NHS guidance instead; each card names its source.
+- Index card note now says "cited UK guidance" for pathways that are not built from NICE.
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: new pathways, batch 5 (everyday problems)
 
 - New page chart13.html, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
