@@ -3502,6 +3502,14 @@
   "link": "https://www.nice.org.uk/guidance/ng88",
   "resources": [
    {
+    "title": "BNF: norethisterone (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/norethisterone/"
+   },
+   {
+    "title": "BNF: mefenamic acid (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/mefenamic-acid/"
+   },
+   {
     "title": "BNF: tranexamic acid (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/tranexamic-acid/"
    },
@@ -3667,6 +3675,10 @@
   "code": "NICE CG97",
   "link": "https://www.nice.org.uk/guidance/cg97",
   "resources": [
+   {
+    "title": "BNF: terazosin (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/terazosin/"
+   },
    {
     "title": "BNF: mirabegron (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/mirabegron/"
@@ -3921,6 +3933,10 @@
   "link": "https://cks.nice.org.uk/topics/red-eye/",
   "resources": [
    {
+    "title": "BNF: azelastine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/azelastine-hydrochloride/"
+   },
+   {
     "title": "BNF: olopatadine (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/olopatadine/"
    },
@@ -3991,6 +4007,10 @@
   "link": "https://cks.nice.org.uk/topics/allergic-rhinitis/",
   "resources": [
    {
+    "title": "BNF: azelastine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/azelastine-hydrochloride/"
+   },
+   {
     "title": "BNF: loratadine (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/loratadine/"
    },
@@ -4043,6 +4063,10 @@
   "code": "NICE CKS · PCDS 2025 · NHS",
   "link": "https://cks.nice.org.uk/topics/urticaria/",
   "resources": [
+   {
+    "title": "BNF: calamine with zinc oxide (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/calamine-with-zinc-oxide/"
+   },
    {
     "title": "BNF: chlorphenamine maleate (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/chlorphenamine-maleate/"
@@ -4355,6 +4379,10 @@
   "code": "NICE NG31",
   "link": "https://www.nice.org.uk/guidance/ng31",
   "resources": [
+   {
+    "title": "BNF: atropine sulfate (page content as reported by the site owner; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/atropine-sulfate/"
+   },
    {
     "title": "BNF: alfentanil (page content as reported by the site owner; text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/alfentanil/"
