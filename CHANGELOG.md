@@ -1,3 +1,10 @@
+## 24 November 2026: morphine, alfentanil, adult benzylpenicillin and BNFC doses from part 7j (text supplied by the site owner)
+
+- Last days of life: BNF morphine palliative doses (pain starting doses, CSCI, subcutaneous, breathlessness at rest, cough), contraindications, 12- vs 24-hourly preparation and oral solution warnings, STOPP; alfentanil marked as needing the Palliative Care Formulary or local Sussex end-of-life guidance (the BNF page has no palliative dose)
+- Suspected meningitis: BNF adult benzylpenicillin 1.2 g pre-hospital; benzathine mix-up warning
+- Fungal (scalp): BNFC itraconazole for children
+- Constipation in children: BNFC senna, bisacodyl and sodium picosulfate doses, contraindications and MHRA 2020 over-the-counter advice
+
 ## 24 November 2026: last days of life – BNF palliative doses from part 7i (text supplied by the site owner)
 
 - Anticipatory medicines step now gives BNF adult palliative doses for hyoscine butylbromide, hyoscine hydrobromide and glycopyrronium (secretions), haloperidol, levomepromazine and cyclizine (nausea and vomiting), haloperidol (agitation or delirium), midazolam, levomepromazine and haloperidol (agitation in the imminently dying) and midazolam (seizures)
