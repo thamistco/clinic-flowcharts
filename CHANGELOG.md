@@ -1,3 +1,9 @@
+## 24 November 2026: last days of life – BNF palliative doses from part 7i (text supplied by the site owner)
+
+- Anticipatory medicines step now gives BNF adult palliative doses for hyoscine butylbromide, hyoscine hydrobromide and glycopyrronium (secretions), haloperidol, levomepromazine and cyclizine (nausea and vomiting), haloperidol (agitation or delirium), midazolam, levomepromazine and haloperidol (agitation in the imminently dying) and midazolam (seizures)
+- Safety: MHRA 2017 hyoscine butylbromide cardiac warning; haloperidol contraindications and depot mix-up warning; levomepromazine contraindications; MHRA 2020 benzodiazepine-opioid warning with the 2026 end-of-life exemption; midazolam accumulation; antimuscarinic contraindications
+- Morphine and alfentanil doses still to be supplied
+
 ## 24 November 2026: BNF/BNFC doses from parts 7g and 7h (text supplied by the site owner)
 
 - Nausea in pregnancy: doxylamine/pyridoxine titration (maximum 40/40 mg per day) with SMC/AWMSG funding note; cyclizine, prochlorperazine and promethazine hydrochloride doses and pregnancy notes; metoclopramide (MHRA 5-day limit, dystonia); domperidone (1-week limit, MHRA July 2026 phaeochromocytoma contraindication)
