@@ -1,3 +1,12 @@
+## 24 November 2026: Sussex local notes on the new pathways
+
+- Sussex Formulary notes (read 24 November 2026) added to the prescribing steps of 11 new pathways: DVT/PE (apixaban, rivaroxaban), constipation in children (macrogol), UTI in under 16s (East Sussex follows the NICE/PHE antimicrobial summary), eczema in children (topical steroids; MHRA emollient fire-hazard leaflet), heavy menstrual bleeding (LNG-IUS by brand, tranexamic acid), nausea and vomiting in pregnancy (chapter 17 antiemetics), LUTS in men, psoriasis (calcipotriol limits), alcohol (naltrexone non-formulary in East Sussex), stopping smoking. Formulary notes are quoted verbatim; colour status is never inferred.
+- STI pathway: East Sussex Sexual Health (Specialist Sexual Health Service for PEP, PrEP, testing and treatment; home test kits) added as the local route.
+- Dizziness pathway: University Hospitals Sussex BPPV leaflet added. No public Sussex dizziness referral pathway was found.
+- EMIS templates drafted on 24 November now show that date (previously 23 November).
+- Status page summary updated to 24 November 2026.
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: new pathways, batch 7 (end of life, learning disability, sexual health)
 
 - New page chart15.html, each with an index card, search entry, sources.json entry, dated patient leaflets and an EMIS prompt set:
