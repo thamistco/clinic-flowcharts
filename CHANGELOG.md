@@ -1,3 +1,16 @@
+## 24 November 2026: decisions on source conflicts (AI-reviewed decision, awaiting clinician sign-off)
+
+- Delegated to the site reviewers by the clinical lead and applied as written; each is labelled on the page:
+  1. Sussex Formulary status and line preference are shown as text on every pathway that quotes the formulary, read from the formulary page's own text on 24 November 2026, with a "check current formulary" note. This replaces "status: check colour".
+  2. Erectile dysfunction follows the Sussex formulary: generic sildenafil first-line (no SLS needed); tadalafil 10 mg on demand; BNF tadalafil 5 mg once daily as a non-formulary or specialist-advice option; the BSW preference is a note only. BNF "six doses" vs CKS "4–8 times" is noted.
+  3. Red eye: babies under 30 days; the 28-day NHS page is noted. The EMIS template matches.
+  4. Haemorrhoids: "clot evacuation"; CKS uses both terms.
+  5. Hair loss: minoxidil 5% foam may not be NHS-prescribable locally (not on the Sussex formulary); both CKS lines are shown.
+  6. PMR bone protection: NICE NG259 1.7.3 leads; BSR 2026 is a note.
+  7. Osteoarthritis: the local Clinically Effective Commissioning criterion is the Sussex referral requirement; NG226 1.6.3 is quoted as a note.
+- Status page: new "Decisions on source conflicts" list; Hip and Knee publisher notes updated.
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: corrections from NICE CKS and BNF (text supplied by the site owner)
 
 - CKS and BNF pages are blocked from the build environment (HTTP 403). The site owner supplied their text, copied from the live pages on 24 November 2026; each source label says so.
