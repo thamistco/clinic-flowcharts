@@ -3564,5 +3564,69 @@
   ],
   "emis_template": "emis.html#breast-lump",
   "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "luts-men",
+  "name": "Lower urinary tract symptoms in men",
+  "code": "NICE CG97",
+  "link": "https://www.nice.org.uk/guidance/cg97",
+  "resources": [
+   {
+    "title": "NICE CG97 recommendations 1.1, 1.3, 1.4",
+    "url": "https://www.nice.org.uk/guidance/cg97/chapter/Recommendations"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart12.html#luts-men",
+  "patient_information": [
+   {
+    "name": "NHS: Enlarged prostate",
+    "url": "https://www.nhs.uk/conditions/enlarged-prostate/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Urinary incontinence",
+    "url": "https://www.nhs.uk/conditions/urinary-incontinence/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#luts-men",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "prostate-psa",
+  "name": "PSA testing and suspected prostate cancer",
+  "code": "NICE NG12",
+  "link": "https://www.nice.org.uk/guidance/ng12",
+  "resources": [
+   {
+    "title": "NICE NG12 1.6 prostate cancer (table 2 age-specific PSA thresholds)",
+    "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer"
+   },
+   {
+    "title": "NHS: PSA test",
+    "url": "https://www.nhs.uk/tests-and-treatments/psa-test/"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart12.html#prostate-psa",
+  "patient_information": [
+   {
+    "name": "NHS: PSA test",
+    "url": "https://www.nhs.uk/tests-and-treatments/psa-test/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Prostate cancer",
+    "url": "https://www.nhs.uk/conditions/prostate-cancer/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#prostate-psa",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
  }
 ]
