@@ -3345,6 +3345,14 @@
   "link": "https://www.nice.org.uk/guidance/cg99",
   "resources": [
    {
+    "title": "BNFC: lactulose (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/lactulose/"
+   },
+   {
+    "title": "BNFC: macrogol 3350 with potassium chloride, sodium bicarbonate and sodium chloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/macrogol-3350-with-potassium-chloride-sodium-bicarbonate-and-sodium-chloride/"
+   },
+   {
     "title": "NICE CG99 recommendations (tables 1–3)",
     "url": "https://www.nice.org.uk/guidance/cg99/chapter/Recommendations"
    },
@@ -3552,6 +3560,30 @@
   "code": "NICE NG201 · MHRA",
   "link": "https://www.nice.org.uk/guidance/ng201",
   "resources": [
+   {
+    "title": "BNF: domperidone (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/domperidone/"
+   },
+   {
+    "title": "BNF: metoclopramide hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/metoclopramide-hydrochloride/"
+   },
+   {
+    "title": "BNF: promethazine hydrochloride (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/promethazine-hydrochloride/"
+   },
+   {
+    "title": "BNF: prochlorperazine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/prochlorperazine/"
+   },
+   {
+    "title": "BNF: cyclizine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/cyclizine/"
+   },
+   {
+    "title": "BNF: doxylamine with pyridoxine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/doxylamine-with-pyridoxine/"
+   },
    {
     "title": "BNF: ondansetron (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/ondansetron/"
@@ -4054,6 +4086,14 @@
   "link": "https://cks.nice.org.uk/topics/fungal-skin-infection-body-groin/",
   "resources": [
    {
+    "title": "BNFC: griseofulvin (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/griseofulvin/"
+   },
+   {
+    "title": "BNFC: terbinafine (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnfc.nice.org.uk/drugs/terbinafine/"
+   },
+   {
     "title": "BNF: fluconazole (text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://bnf.nice.org.uk/drugs/fluconazole/"
    },
@@ -4295,6 +4335,10 @@
   "code": "NICE NG31",
   "link": "https://www.nice.org.uk/guidance/ng31",
   "resources": [
+   {
+    "title": "BNF medicines guidance: prescribing in palliative care (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/medicines-guidance/prescribing-in-palliative-care/"
+   },
    {
     "title": "NICE NG31 care of dying adults in the last days of life, recommendations 1.1–1.6",
     "url": "https://www.nice.org.uk/guidance/ng31/chapter/Recommendations"

@@ -1,3 +1,10 @@
+## 24 November 2026: BNF/BNFC doses from parts 7g and 7h (text supplied by the site owner)
+
+- Nausea in pregnancy: doxylamine/pyridoxine titration (maximum 40/40 mg per day) with SMC/AWMSG funding note; cyclizine, prochlorperazine and promethazine hydrochloride doses and pregnancy notes; metoclopramide (MHRA 5-day limit, dystonia); domperidone (1-week limit, MHRA July 2026 phaeochromocytoma contraindication)
+- Last days of life: BNF prescribing in palliative care – anticipatory prescribing standards, subcutaneous route, morphine rescue and titration rules, conversion example, laxatives, breathlessness and secretions; anticipatory doses still to be taken from local guidance
+- Constipation in children: BNFC macrogol paediatric disimpaction and maintenance regimens, cautions and MHRA thickener advice; BNFC lactulose doses
+- Fungal (scalp): BNFC terbinafine weight bands and griseofulvin children's doses
+
 ## 24 November 2026: BNF doses and cautions from parts 7e and 7f (text supplied by the site owner)
 
 "BNF not yet supplied" notes replaced with BNF text on eight pathways:
