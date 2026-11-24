@@ -3442,5 +3442,127 @@
   ],
   "emis_template": "emis.html#meningitis-rash",
   "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "heavy-periods",
+  "name": "Heavy menstrual bleeding",
+  "code": "NICE NG88",
+  "link": "https://www.nice.org.uk/guidance/ng88",
+  "resources": [
+   {
+    "title": "NICE NG88 recommendations 1.2–1.5",
+    "url": "https://www.nice.org.uk/guidance/ng88/chapter/Recommendations"
+   }
+  ],
+  "category": "Long-term care",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart11.html#heavy-periods",
+  "patient_information": [
+   {
+    "name": "NHS: Heavy periods",
+    "url": "https://www.nhs.uk/conditions/heavy-periods/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#heavy-periods",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "early-pregnancy",
+  "name": "Early pregnancy bleeding or pain",
+  "code": "NICE NG126",
+  "link": "https://www.nice.org.uk/guidance/ng126",
+  "resources": [
+   {
+    "title": "NICE NG126: symptoms, signs and initial assessment (1.4)",
+    "url": "https://www.nice.org.uk/guidance/ng126/chapter/Symptoms-and-signs-of-ectopic-pregnancy-and-initial-assessment"
+   },
+   {
+    "title": "NICE NG126: early pregnancy assessment services (1.3)",
+    "url": "https://www.nice.org.uk/guidance/ng126/chapter/Early-pregnancy-assessment-services"
+   },
+   {
+    "title": "NICE NG126: support and information (1.1)",
+    "url": "https://www.nice.org.uk/guidance/ng126/chapter/Support-and-information"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart11.html#early-pregnancy",
+  "patient_information": [
+   {
+    "name": "NHS: Ectopic pregnancy",
+    "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Miscarriage",
+    "url": "https://www.nhs.uk/conditions/miscarriage/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#early-pregnancy",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "nausea-pregnancy",
+  "name": "Nausea and vomiting in pregnancy",
+  "code": "NICE NG201 · MHRA",
+  "link": "https://www.nice.org.uk/guidance/ng201",
+  "resources": [
+   {
+    "title": "NICE NG201 recommendations 1.4.1–1.4.7",
+    "url": "https://www.nice.org.uk/guidance/ng201/chapter/Recommendations"
+   },
+   {
+    "title": "MHRA Drug Safety Update: ondansetron in the first 12 weeks (January 2020)",
+    "url": "https://www.gov.uk/drug-safety-update/ondansetron-small-increased-risk-of-oral-clefts-following-use-in-the-first-12-weeks-of-pregnancy"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart11.html#nausea-pregnancy",
+  "patient_information": [
+   {
+    "name": "NHS: Vomiting and morning sickness",
+    "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/",
+    "checked": "24 November 2026"
+   },
+   {
+    "name": "NHS: Severe vomiting in pregnancy (hyperemesis gravidarum)",
+    "url": "https://www.nhs.uk/pregnancy/complications/severe-vomiting/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#nausea-pregnancy",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
+ },
+ {
+  "slug": "breast-lump",
+  "name": "Breast lump",
+  "code": "NICE NG12",
+  "link": "https://www.nice.org.uk/guidance/ng12",
+  "resources": [
+   {
+    "title": "NICE NG12 1.4 breast cancer",
+    "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-site-of-cancer"
+   }
+  ],
+  "category": "Acute & other",
+  "link_check": "Step wording and numbers checked by automated comparison 24 November 2026; not clinical validation",
+  "checked": "2026-11-24",
+  "review_copy": "chart11.html#breast-lump",
+  "patient_information": [
+   {
+    "name": "NHS: Breast lump",
+    "url": "https://www.nhs.uk/symptoms/breast-lump/",
+    "checked": "24 November 2026"
+   }
+  ],
+  "emis_template": "emis.html#breast-lump",
+  "status": "new 24 November 2026 - drafted from cited UK guidance; automated source checks only; not clinical validation"
  }
 ]
