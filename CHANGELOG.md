@@ -1,3 +1,15 @@
+## 24 November 2026: BNF doses and cautions from parts 7e and 7f (text supplied by the site owner)
+
+"BNF not yet supplied" notes replaced with BNF text on eight pathways:
+- Smoking: nicotine replacement (patch, gum, lozenge, spray, inhalator and sublingual regimens; pregnancy and breastfeeding advice)
+- STI testing: azithromycin chlamydia/NGU regimen; ceftriaxone 1 g deep IM for gonorrhoea, with allergy, pregnancy and breastfeeding notes
+- Suspected meningitis: ceftriaxone pre-hospital doses by age, from the BNF page
+- Fungal: fluconazole for nail infection, with cautions
+- Allergic rhinitis: mometasone, fluticasone propionate, Avamys and fluticasone with azelastine nasal doses; fexofenadine, cetirizine and loratadine doses; intranasal corticosteroid cautions
+- Urticaria: cetirizine, loratadine, fexofenadine 180 mg and chlorphenamine doses and cautions
+- Red eye: chloramphenicol and fusidic acid eye doses, MHRA borax advice for under-2s; sodium cromoglicate and olopatadine for allergic conjunctivitis
+- Male LUTS: alfuzosin, doxazosin, finasteride (MHRA 2024 and 2026 psychiatric and sexual warnings, PSA effect), solifenacin, oxybutynin and mirabegron
+
 ## 24 November 2026: BNF/BNFC doses and cautions from part 7d (text supplied by the site owner)
 
 "Check the BNF" steps replaced with BNF/BNFC text on seven pathways:
