@@ -1,3 +1,18 @@
+## 24 November 2026: fungal skin, nail and scalp from CKS/BNF part 7b (text supplied by the site owner)
+
+- Fungal pathway rebuilt on CKS fungal nail (August 2023), foot (June 2023), scalp (February 2025) and body/groin (July 2023), plus the BNF. Eight steps:
+  - suspected kerion as an urgent referral
+  - sampling rules
+  - topical treatment, including BNF terbinafine cream regimens
+  - oral treatment for skin, with BNF terbinafine, itraconazole and griseofulvin doses
+  - nails: amorolfine criteria, terbinafine and itraconazole doses, regrowth review at 3–6 months, podiatry
+  - scalp: urban terbinafine vs rural griseofulvin, topical co-prescribing, review at 4–8 weeks
+  - BNF oral antifungal safety: liver monitoring, heart failure, contraception
+  - combined dermatology referral criteria
+- "Check the BNF" replaced with verbatim doses. Fluconazole and children's (BNFC) doses are not yet supplied, and the pathway says so.
+- EMIS template rewritten to match.
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: dizziness and ED from CKS/BNF part 7a (text supplied by the site owner)
 
 - Dizziness and vertigo rebuilt on CKS peripheral and central vertigo (December 2022), CKS BPPV (November 2025) and the BNF:
