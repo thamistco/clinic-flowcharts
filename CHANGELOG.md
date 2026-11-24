@@ -1,3 +1,11 @@
+## 24 November 2026: optional BNF extras from part 7k (text supplied by the site owner)
+
+- Urticaria: calamine with zinc oxide – no BNF numeric dose (consult product literature; less suitable for prescribing), x-ray and emollient burns notes
+- Allergic rhinitis: azelastine nasal spray (Rhinolast and Azelair) doses; red eye: azelastine eye drops for allergic conjunctivitis
+- Male LUTS: terazosin dose and first-dose collapse warning
+- Heavy periods: mefenamic acid and norethisterone menorrhagia doses, contraindications and pregnancy notes
+- Last days of life: atropine – no BNF palliative dose; Palliative Care Formulary or local Sussex end-of-life guidance needed
+
 ## 24 November 2026: morphine, alfentanil, adult benzylpenicillin and BNFC doses from part 7j (text supplied by the site owner)
 
 - Last days of life: BNF morphine palliative doses (pain starting doses, CSCI, subcutaneous, breathlessness at rest, cough), contraindications, 12- vs 24-hourly preparation and oral solution warnings, STOPP; alfentanil marked as needing the Palliative Care Formulary or local Sussex end-of-life guidance (the BNF page has no palliative dose)
