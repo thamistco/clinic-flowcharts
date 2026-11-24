@@ -1,3 +1,25 @@
+## 24 November 2026: rhinitis, urticaria and conjunctivitis from CKS part 7c (text supplied by the site owner)
+
+- Allergic rhinitis (CKS, January 2024):
+  - new classify-and-assess step (intermittent vs persistent, defined by days a week and consecutive weeks)
+  - as-needed antihistamine for mild or intermittent symptoms; regular intranasal corticosteroid during allergen exposure
+  - review at 2–4 weeks; refractory options; allergy or ENT referral criteria
+  - "check the BNF" replaced with "doses: BNF not yet supplied"
+- Urticaria (CKS, January 2026):
+  - acute vs chronic definitions; investigations not usually required
+  - antihistamine daily for up to 6 weeks; oral corticosteroid for up to 7 days if severe
+  - 3–6 months if persistent; options if the response is inadequate
+  - referral for suspected vasculitic urticaria, food or latex allergy, or solar or cold urticaria; clinical psychology
+  - Source difference shown: PCDS advises against first-generation antihistamines; CKS allows chlorphenamine at night if itch disturbs sleep.
+- Red eye and conjunctivitis (CKS infective, October 2022; allergic, May 2022):
+  - new urgent ophthalmology referral step, including ophthalmia neonatorum within the first four weeks of life
+  - CKS resolution times (viral 7 days, bacterial 5 to 10 days, vs College 5–7 days shown)
+  - self-care, judicious topical antibiotics and a delayed strategy
+  - new allergic conjunctivitis step
+  - The 30-day decision is unchanged.
+- Three EMIS templates updated.
+- AI-assisted; not clinically signed off.
+
 ## 24 November 2026: fungal skin, nail and scalp from CKS/BNF part 7b (text supplied by the site owner)
 
 - Fungal pathway rebuilt on CKS fungal nail (August 2023), foot (June 2023), scalp (February 2025) and body/groin (July 2023), plus the BNF. Eight steps:
