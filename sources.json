@@ -3797,9 +3797,13 @@
  {
   "slug": "red-eye",
   "name": "Red eye and conjunctivitis",
-  "code": "NHS · College of Optometrists",
-  "link": "https://www.nhs.uk/conditions/red-eye/",
+  "code": "NICE CKS · NHS · College of Optometrists",
+  "link": "https://cks.nice.org.uk/topics/red-eye/",
   "resources": [
+   {
+    "title": "NICE CKS red eye: management of red eye (last revised March 2026; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/red-eye/management/management-of-red-eye/"
+   },
    {
     "title": "NHS: Red eye (reviewed October 2025)",
     "url": "https://www.nhs.uk/conditions/red-eye/"
@@ -3811,6 +3815,10 @@
    {
     "title": "College of Optometrists CMG: bacterial conjunctivitis (public summary; full text needs a free login and was not read)",
     "url": "https://www.college-optometrists.org/clinical-guidance/clinical-management-guidelines/conjunctivitis_bacterial"
+   },
+   {
+    "title": "College of Optometrists: urgency of referrals table (annex 4), cited by CKS",
+    "url": "https://www.college-optometrists.org/clinical-guidance/guidance/guidance-annexes/annex-4-urgency-of-referrals-table"
    }
   ],
   "category": "Acute & other",
@@ -3898,9 +3906,13 @@
  {
   "slug": "fungal-skin",
   "name": "Fungal skin and nail infections (tinea)",
-  "code": "PCDS · UKHSA",
-  "link": "https://www.pcds.org.uk/clinical-guidance/tinea",
+  "code": "NICE CKS · PCDS · UKHSA",
+  "link": "https://cks.nice.org.uk/topics/fungal-skin-infection-body-groin/",
   "resources": [
+   {
+    "title": "NICE CKS fungal skin infection – body and groin: summary (last revised July 2023; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/fungal-skin-infection-body-groin/"
+   },
    {
     "title": "PCDS: Tinea corporis, cruris and incognito (updated 2 June 2023)",
     "url": "https://www.pcds.org.uk/clinical-guidance/tinea-corporis-body-cruris-groin-and-incognito-steroid-exacerbated"
@@ -3945,9 +3957,29 @@
  {
   "slug": "erectile-dysfunction",
   "name": "Erectile dysfunction",
-  "code": "Sussex formulary · NHS ICB guidance",
-  "link": "https://www.sussexformulary.nhs.uk/therapeutic-sections/7-genito-urinary-system/74-erectile-and-ejaculatory-conditions/741-erectile-dysfunction/",
+  "code": "NICE CKS · BNF · Sussex formulary",
+  "link": "https://cks.nice.org.uk/topics/erectile-dysfunction/",
   "resources": [
+   {
+    "title": "BNF treatment summary: erectile dysfunction (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/treatment-summaries/erectile-dysfunction/"
+   },
+   {
+    "title": "BNF: sildenafil (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/sildenafil/"
+   },
+   {
+    "title": "BNF: tadalafil (text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://bnf.nice.org.uk/drugs/tadalafil/"
+   },
+   {
+    "title": "NICE CKS erectile dysfunction: scenario management (last revised July 2026; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/erectile-dysfunction/management/management/"
+   },
+   {
+    "title": "NICE CKS erectile dysfunction: summary (last revised July 2026; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/erectile-dysfunction/"
+   },
    {
     "title": "Sussex Formulary 7.4.1 Erectile dysfunction (read 24 November 2026)",
     "url": "https://www.sussexformulary.nhs.uk/therapeutic-sections/7-genito-urinary-system/74-erectile-and-ejaculatory-conditions/741-erectile-dysfunction/"
@@ -3966,6 +3998,11 @@
     "name": "NHS: Erection problems (erectile dysfunction)",
     "url": "https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/",
     "checked": "24 November 2026"
+   },
+   {
+    "name": "BAUS: Erectile dysfunction (impotence)",
+    "url": "https://www.baus.org.uk/patients/conditions/2/erectile_dysfunction_impotence",
+    "checked": "24 November 2026"
    }
   ],
   "emis_template": "emis.html#erectile-dysfunction",
@@ -3974,9 +4011,13 @@
  {
   "slug": "dizziness",
   "name": "Dizziness and vertigo",
-  "code": "NHS SWL ICB 2025",
-  "link": "https://swlimo.southwestlondon.icb.nhs.uk/clinical-guidance/central-nervous-system/neurology/dizziness/",
+  "code": "NICE CKS · NHS SWL ICB",
+  "link": "https://cks.nice.org.uk/topics/vertigo/",
   "resources": [
+   {
+    "title": "NICE CKS vertigo: summary (last revised December 2022; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/vertigo/"
+   },
    {
     "title": "NHS South West London ICB: dizziness (approved by IMOC March 2025; regional NHS guidance based on CKS)",
     "url": "https://swlimo.southwestlondon.icb.nhs.uk/clinical-guidance/central-nervous-system/neurology/dizziness/"
@@ -4009,9 +4050,13 @@
  {
   "slug": "tiredness",
   "name": "Tiredness and fatigue",
-  "code": "NICE NG206 · NG12",
-  "link": "https://www.nice.org.uk/guidance/ng206",
+  "code": "NICE CKS · NG206 · NG12",
+  "link": "https://cks.nice.org.uk/topics/tiredness-fatigue-in-adults/",
   "resources": [
+   {
+    "title": "NICE CKS tiredness/fatigue in adults: summary (last revised June 2025; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/tiredness-fatigue-in-adults/"
+   },
    {
     "title": "NICE NG206 ME/CFS, recommendations 1.2–1.4 and 1.11.14",
     "url": "https://www.nice.org.uk/guidance/ng206/chapter/Recommendations"
