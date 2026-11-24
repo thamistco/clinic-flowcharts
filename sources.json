@@ -3801,6 +3801,14 @@
   "link": "https://cks.nice.org.uk/topics/red-eye/",
   "resources": [
    {
+    "title": "NICE CKS conjunctivitis – allergic: summary (last revised May 2022; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/conjunctivitis-allergic/"
+   },
+   {
+    "title": "NICE CKS conjunctivitis – infective: summary (last revised October 2022; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/conjunctivitis-infective/"
+   },
+   {
     "title": "NICE CKS red eye: management of red eye (last revised March 2026; text supplied by the site owner from the live page, 24 November 2026)",
     "url": "https://cks.nice.org.uk/topics/red-eye/management/management-of-red-eye/"
    },
@@ -3843,9 +3851,13 @@
  {
   "slug": "allergic-rhinitis",
   "name": "Allergic rhinitis (hay fever)",
-  "code": "BSACI 2017",
-  "link": "https://www.bsaci.org/guidelines-and-standards/bsaci-guidelines/rhinitis-2017-update/",
+  "code": "NICE CKS · BSACI 2017",
+  "link": "https://cks.nice.org.uk/topics/allergic-rhinitis/",
   "resources": [
+   {
+    "title": "NICE CKS allergic rhinitis: summary (last revised January 2024; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/allergic-rhinitis/"
+   },
    {
     "title": "BSACI guideline: allergic and non-allergic rhinitis (Scadding et al., 2017; current on the BSACI guidelines page)",
     "url": "https://www.bsaci.org/wp-content/uploads/2020/01/Scadding_et_al-2017-Clinical_amp_Experimental_Allergy.pdf"
@@ -3868,9 +3880,13 @@
  {
   "slug": "urticaria",
   "name": "Urticaria (hives) and angioedema",
-  "code": "PCDS 2025 · NHS",
-  "link": "https://www.pcds.org.uk/clinical-guidance/urticaria-and-angioedema",
+  "code": "NICE CKS · PCDS 2025 · NHS",
+  "link": "https://cks.nice.org.uk/topics/urticaria/",
   "resources": [
+   {
+    "title": "NICE CKS urticaria: summary (last revised January 2026; text supplied by the site owner from the live page, 24 November 2026)",
+    "url": "https://cks.nice.org.uk/topics/urticaria/"
+   },
    {
     "title": "PCDS: Urticaria and angioedema overview (updated 6 December 2025)",
     "url": "https://www.pcds.org.uk/clinical-guidance/urticaria-and-angioedema"
