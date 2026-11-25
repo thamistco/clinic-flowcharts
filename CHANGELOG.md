@@ -1,3 +1,11 @@
+## 25 November 2026: last days of life – Sussex palliative guidance from part 7m (text supplied by the site owner)
+
+- New step 4 "Sussex anticipatory and syringe pump doses" from the Pan Sussex last-days-of-life guidance (SHCP APC V1.0, approved Nov 2023, review Nov 2025 passed, expires Nov 2026): as-required SC doses by symptom, eGFR <30 oxycodone option, maximum 6 doses in 24 hours, syringe pump starting doses, escalation advice; Sussex doses apply locally where they differ from the BNF doses in step 3
+- East Sussex Palliative Care Formulary (review date December 2023 passed): hyoscine butylbromide not with cyclizine in the syringe driver; second-line secretions options
+- Alfentanil: specialist advice only (specialist initiated, renal impairment, contact the specialist for dose increases); source difference shown with the Sussex Formulary web status (Non-Specialist Drugs)
+- Atropine: not used on this pathway (not in Sussex guidance or formulary; no BNF palliative dose); Sussex first and second choices for secretions given instead
+- Formulary status note moved to step 4; EMIS template updated (three new lines; later step tags renumbered)
+
 ## 25 November 2026: BNF pointers on older pages and BNFC child-dose confirmation from part 7l (text supplied by the site owner)
 
 - Community-acquired pneumonia (chart.html): BNF amoxicillin higher dose, renal and allergy notes in place of "see BNF"
