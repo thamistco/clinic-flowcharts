@@ -1,3 +1,7 @@
+## 25 November 2026: hyponatraemia CKS definitions link
+
+- Replaced the retired CKS link https://cks.nice.org.uk/topics/hyponatraemia/definition/definition/ with https://cks.nice.org.uk/topics/hyponatraemia/background-information/definition/ in `sources.json` and `index.html`; confirmed loading 25 November 2026 (CKS topic last revised October 2025). Citation only; no clinical text changed
+
 ## 25 November 2026: last days of life – Sussex palliative guidance from part 7m (text supplied by the site owner)
 
 - New step 4 "Sussex anticipatory and syringe pump doses" from the Pan Sussex last-days-of-life guidance (SHCP APC V1.0, approved Nov 2023, review Nov 2025 passed, expires Nov 2026): as-required SC doses by symptom, eGFR <30 oxycodone option, maximum 6 doses in 24 hours, syringe pump starting doses, escalation advice; Sussex doses apply locally where they differ from the BNF doses in step 3
